@@ -1,11 +1,11 @@
 # %%
 import os
-from dotenv import load_dotenv
-import pandas as pd
-from datetime import datetime, timedelta
-from imap_tools import MailBox, AND
 import bs4
-
+import uuid
+import pandas as pd
+from dotenv import load_dotenv
+from imap_tools import MailBox, AND
+from datetime import datetime, timedelta
 
 # Environnement variables
 load_dotenv(".env.local", override=True)
@@ -13,93 +13,31 @@ load_dotenv(".env.local", override=True)
 USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 
-
-def extract_news(raw_content):
-    # Store logging info
-    logs = {}
-
-    # Parse the raw HTML content
-    try:
-        soup = bs4.BeautifulSoup(raw_content, "html.parser")
-    except:
-        print("Error parsing HTML content")
-        logs["content_extracted"] = False
-        return None
-
-    # Store extracted news and links
-    news_and_links = {
-        "news": [],
-        "link": [],
-    }
-
-    # Locate the table taht contain the news
-    try:
-        news = soup.find("table").find_all("table")[15]
-    except:
-        print("Error locating news table")
-        logs["news_located"] = False
-        return None
-
-    # Get the topics
-    topics = news.find_all("ul")
-    logs["n_topics"] = len(topics)
-    logs["n_news"] = []
-
-    # Extract news items
-    for i, topic in enumerate(topics):
-        news = topic.find_all("li")
-        logs["n_news"].append(len(news))
-
-        for info in news:
-            if info.text != "":
-                # Append news text
-                news_and_links["news"].append(info.text)
-
-                # Check for and extract link if available
-                link_tag = info.find("a")
-                if link_tag:
-                    news_and_links["link"].append(link_tag.get("href"))
-
-                else:
-                    news_and_links["link"].append("")
-
-    # Return extracted news and links
-    return {"news_and_links": news_and_links, "logs": logs}
-
-
-# Initialize data structures to hold extracted data and logs
-data = {
-    "uid": [],
-    "date": [],
-    "news": [],
-    "link": [],
-}
-data_logs = {
-    "uid": [],
-    "date": [],
-    "content_extracted": [],
-    "news_located": [],
-    "n_topics": [],
-    "n_news": [],
-    "not_a_news": [],
-}
-
-
 # Load previously saved data and set starting date accordingly
 try:
-    saved_data = pd.read_csv("alphasignal.csv")
-    saved_logs = pd.read_csv("alphasignal_logs.csv")
+    saved_news_data = pd.read_csv("alphasignal.csv")
+    saved_mail_logs = pd.read_csv("alphasignal_mail_logs.csv")
+    saved_topic_logs = pd.read_csv("alphasignal_topic_logs.csv")
+    saved_news_logs = pd.read_csv("alphasignal_news_logs.csv")
 
     # If data available, start from the day after the last recording
     start_date = datetime.strptime(
-        saved_data["date"].max()[:10], "%Y-%m-%d"
+        saved_news_data["date"].max()[:10], "%Y-%m-%d"
     ).date() + timedelta(days=1)
 except:
-    saved_data = None
-    saved_logs = None
+    saved_news_data = None
+    saved_mail_logs = None
+    saved_topic_logs = None
+    saved_news_logs = None
 
     # If no data available, default start date is my subscription date to AlphaSignal
     start_date = datetime.strptime("2024-12-01", "%Y-%m-%d").date()
+
+# Initialize data structures to hold extracted data and logs
+news_data = []
+mail_logs = []
+topic_logs = []
+news_logs = []
 
 # Connect to Gmail inbox and fetch relevant emails
 with MailBox("imap.gmail.com").login(
@@ -112,77 +50,129 @@ with MailBox("imap.gmail.com").login(
         ),
         mark_seen=False,
     ):
-        # Extract email id and date
-        data_logs["uid"].append(msg.uid)
-        data_logs["date"].append(msg.date)
+        print(
+            f"Processing email UID: {msg.uid} - Date: {datetime.strftime(msg.date, format="%Y-%m-%d %H:%M:%S")}"
+        )
+        this_mail_logs = {
+            "uid": msg.uid,
+            "date": msg.date,
+            "not_a_news": True,
+            "html_content_extracted": False,
+            "html_all_news_located": False,
+            "n_topics": 0,
+            "status": "ok",
+            "comment": "",
+        }
 
-        # Process emails that contain the newsletter
         if "IN TODAY'S SIGNAL" in msg.html:
-            data_logs["not_a_news"].append(None)
+            this_mail_logs["not_a_news"] = False
+
+            # Parse the raw HTML content
+            try:
+                soup = bs4.BeautifulSoup(msg.html, "html.parser")
+                this_mail_logs["html_content_extracted"] = True
+            except Exception as e:
+                print(f"  - Error parsing HTML content: {e}")
+
+            # Locate the table that contain the news
+            try:
+                all_news_table = soup.find("table").find_all("table")[15]
+                this_mail_logs["html_all_news_located"] = True
+            except Exception as e:
+                print(f"  - Error locating all news table: {e}")
 
             try:
-                # Extract news from email content
-                res = extract_news(raw_content=msg.html)
-                news_and_links = res["news_and_links"]
+                # Get the topics
+                topics = all_news_table.find_all("ul")
+                this_mail_logs["n_topics"] = len(topics)
 
-                # Record log information
-                logs = res["logs"]
-                data_logs["content_extracted"].append(logs.get("content_extracted"))
-                data_logs["news_located"].append(logs.get("news_located"))
-                data_logs["n_topics"].append(logs.get("n_topics"))
-                data_logs["n_news"].append(logs.get("n_news"))
+                for i, topic in enumerate(topics):
+                    # Get the news related to the topic
+                    news = topic.find_all("li")
 
-                # Store each news item with its link
-                for i in range(len(news_and_links["news"])):
-                    data["uid"].append(msg.uid)
-                    data["date"].append(msg.date)
-                    data["news"].append(news_and_links["news"][i])
-                    data["link"].append(news_and_links["link"][i])
+                    # Create and save the topic logs
+                    this_topic_logs = {
+                        "uid": msg.uid,
+                        "topic_id": i + 1,
+                        "n_news": len(news),
+                        "status": "ok",
+                        "comment": "",
+                    }
+
+                    if this_topic_logs["n_news"] == 0:
+                        this_topic_logs["status"] = "not handled"
+
+                    topic_logs.append(this_topic_logs)
+
+                    # Extract news items
+                    for j, info in enumerate(news):
+                        this_news_data = {
+                            "id": str(uuid.uuid4()),
+                            "uid": msg.uid,
+                            "date": msg.date,
+                            "news": "no news",
+                            "link": "no link",
+                        }
+                        this_news_logs = {
+                            "uid": msg.uid,
+                            "topic_id": i + 1,
+                            "news_id": j + 1,
+                            "has_news": False,
+                            "has_link": False,
+                            "status": "ok",
+                            "comment": "",
+                        }
+
+                        # Check for and extract news if available
+                        if info.text != "":
+                            this_news_data["news"] = info.text
+                            this_news_logs["has_news"] = True
+
+                            # Check for and extract link if available
+                            link_tag = info.find("a")
+
+                            if link_tag and link_tag.get("href") != "":
+                                this_news_data["link"] = link_tag.get("href")
+                                this_news_logs["has_link"] = True
+
+                        if (this_news_logs["has_news"] == False) | (
+                            this_news_logs["has_link"] == False
+                        ):
+                            this_news_logs["status"] = "not handled"
+
+                        # Append news data and save news logs
+                        news_data.append(this_news_data)
+                        news_logs.append(this_news_logs)
 
             except Exception as e:
-                print(f"Error processing message UID {msg.uid}: {e}")
-        else:
-            # If the email doesn't is irrelevant
-            data_logs["content_extracted"].append(None)
-            data_logs["news_located"].append(None)
-            data_logs["n_topics"].append(None)
-            data_logs["n_news"].append(None)
-            data_logs["not_a_news"].append(True)
+                print(f"  - Error extracting news items : {e}")
 
+        # Save the email logs
+        if (
+            (this_mail_logs["not_a_news"] == True)
+            | (this_mail_logs["html_content_extracted"] == False)
+            | (this_mail_logs["html_all_news_located"] == False)
+            | (this_mail_logs["n_topics"] == 0)
+        ):
+            this_mail_logs["status"] = "not handled"
+
+        mail_logs.append(this_mail_logs)
 
 # Convert collected data and logs to DataFrames
-data = pd.DataFrame(data)
-data_logs = pd.DataFrame(data_logs)
-
-# Mark rows as "not handled" if any of the following conditions are True:
-data_logs["handled"] = None
-data_logs.loc[
-    (
-        # - HTML content couldn't be extracted
-        (data_logs["content_extracted"] == False)
-        |
-        # - News table wasn't located
-        (data_logs["news_located"] == False)
-        |
-        # - No topics were found (n_topics == 0)
-        (data_logs["n_topics"] == 0)
-        |
-        # - No news items were found for a given topic
-        (data_logs["n_news"].apply(lambda x: 0 in x if isinstance(x, list) else False))
-        |
-        # - Email was identified as not containing actual news
-        (data_logs["not_a_news"] == True)
-    ),
-    "handled",
-] = False
+news_data = pd.DataFrame(news_data)
+mail_logs = pd.DataFrame(mail_logs)
+topic_logs = pd.DataFrame(topic_logs)
+news_logs = pd.DataFrame(news_logs)
 
 # Append new data to existing data if available
-if saved_data is not None:
-    data = pd.concat([saved_data, data], ignore_index=True)
-
-if saved_logs is not None:
-    logs = pd.concat([saved_logs, logs], ignore_index=True)
+if saved_news_data is not None:
+    news_data = pd.concat([saved_news_data, news_data], ignore_index=True)
+    mail_logs = pd.concat([saved_mail_logs, mail_logs], ignore_index=True)
+    topic_logs = pd.concat([saved_topic_logs, topic_logs], ignore_index=True)
+    news_logs = pd.concat([saved_news_logs, news_logs], ignore_index=True)
 
 # Save final results to CSV files
-data.to_csv("alphasignal.csv", index=False)
-data_logs.to_csv("alphasignal_logs.csv", index=False)
+news_data.to_csv("alphasignal_news_data.csv", index=False)
+mail_logs.to_csv("alphasignal_mail_logs.csv", index=False)
+topic_logs.to_csv("alphasignal_topic_logs.csv", index=False)
+news_logs.to_csv("alphasignal_news_logs.csv", index=False)
