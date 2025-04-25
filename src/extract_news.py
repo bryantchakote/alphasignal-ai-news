@@ -15,6 +15,7 @@ PASSWORD = os.getenv("PASSWORD")
 
 # Load previously saved data and set starting date accordingly
 data_folder = os.path.join("../data")
+
 try:
     saved_news_data = pd.read_csv(f"{data_folder}/news_data.csv")
     saved_mail_logs = pd.read_csv(f"{data_folder}/mail_logs.csv")
@@ -42,6 +43,7 @@ news_logs = []
 
 # Connect to Gmail inbox and fetch relevant emails
 with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
+    print("Extracting emails...")
     for msg in mailbox.fetch(
         AND(
             from_="news@alphasignal.ai",
@@ -50,7 +52,8 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
         mark_seen=False,
     ):
         print(
-            f"Processing email UID: {msg.uid} - Date: {datetime.strftime(msg.date, format="%Y-%m-%d %H:%M:%S")}"
+            f"- UID: {msg.uid}",
+            f"- Date: {datetime.strftime(msg.date, format="%Y-%m-%d %H:%M:%S")}",
         )
         this_mail_logs = {
             "uid": msg.uid,
@@ -105,14 +108,16 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
 
                     # Extract news items
                     for j, info in enumerate(news):
+                        news_id = str(uuid.uuid4())
                         this_news_data = {
-                            "id": str(uuid.uuid4()),
+                            "id": news_id,
                             "uid": msg.uid,
                             "date": msg.date,
                             "news": "no news",
                             "link": "no link",
                         }
                         this_news_logs = {
+                            "id": news_id,
                             "uid": msg.uid,
                             "topic_id": i + 1,
                             "news_id": j + 1,
@@ -157,11 +162,17 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
 
         mail_logs.append(this_mail_logs)
 
+    print("Emails extracted.")
+
 # Convert collected data and logs to DataFrames
 news_data = pd.DataFrame(news_data)
 mail_logs = pd.DataFrame(mail_logs)
 topic_logs = pd.DataFrame(topic_logs)
 news_logs = pd.DataFrame(news_logs)
+
+# Mark duplicates in news logs
+mask = (news_data["news"] != "no news") & news_data["news"].duplicated()
+news_logs.loc[mask, "status"] = "duplicated news headline"
 
 # Append new data to existing data if available
 if saved_news_data is not None:
