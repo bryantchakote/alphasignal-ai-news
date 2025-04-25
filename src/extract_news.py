@@ -8,17 +8,18 @@ from imap_tools import MailBox, AND
 from datetime import datetime, timedelta
 
 # Environnement variables
-load_dotenv(".env.local", override=True)
+load_dotenv("../.env.local", override=True)
 
 USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 
 # Load previously saved data and set starting date accordingly
+data_folder = os.path.join("../data")
 try:
-    saved_news_data = pd.read_csv("alphasignal.csv")
-    saved_mail_logs = pd.read_csv("mail_logs.csv")
-    saved_topic_logs = pd.read_csv("topic_logs.csv")
-    saved_news_logs = pd.read_csv("news_logs.csv")
+    saved_news_data = pd.read_csv(f"{data_folder}/news_data.csv")
+    saved_mail_logs = pd.read_csv(f"{data_folder}/mail_logs.csv")
+    saved_topic_logs = pd.read_csv(f"{data_folder}/topic_logs.csv")
+    saved_news_logs = pd.read_csv(f"{data_folder}/news_logs.csv")
 
     # If data available, start from the day after the last recording
     start_date = datetime.strptime(
@@ -40,9 +41,7 @@ topic_logs = []
 news_logs = []
 
 # Connect to Gmail inbox and fetch relevant emails
-with MailBox("imap.gmail.com").login(
-    USERNAME, PASSWORD, initial_folder="INBOX"
-) as mailbox:
+with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
     for msg in mailbox.fetch(
         AND(
             from_="news@alphasignal.ai",
@@ -172,7 +171,7 @@ if saved_news_data is not None:
     news_logs = pd.concat([saved_news_logs, news_logs], ignore_index=True)
 
 # Save final results to CSV files
-news_data.to_csv("news_data.csv", index=False)
-mail_logs.to_csv("mail_logs.csv", index=False)
-topic_logs.to_csv("topic_logs.csv", index=False)
-news_logs.to_csv("news_logs.csv", index=False)
+news_data.to_csv(f"{data_folder}/news_data.csv", index=False)
+mail_logs.to_csv(f"{data_folder}/mail_logs.csv", index=False)
+topic_logs.to_csv(f"{data_folder}/topic_logs.csv", index=False)
+news_logs.to_csv(f"{data_folder}/news_logs.csv", index=False)
