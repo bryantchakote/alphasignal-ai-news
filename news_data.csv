@@ -1,0 +1,834 @@
+id,uid,date,news,link
+89ebfa45-fe38-4407-a5a1-40e841d86657,499,2024-12-04 19:27:37+00:00,DeepMind announces Genie 2: a model capable of generating endless variety of playable 3D environments,https://link.alphasignal.ai/Pf4mdT
+c6da0e2e-28f9-4272-a886-57a203490c65,499,2024-12-04 19:27:37+00:00,You can now get 8x better cost per token using NVIDIA GH200,https://link.alphasignal.ai/LVvvwg
+f4ad2028-b161-4480-aee9-f16674db9d1f,499,2024-12-04 19:27:37+00:00,Sam Altman announces OpenAI will livestream a launch or demo for the next 12 days,https://link.alphasignal.ai/PRVall
+06d485d6-d4c4-42a7-bac2-1b3a4b998772,499,2024-12-04 19:27:37+00:00,Liquid AI’s new STAR model architecture outshines Transformers,https://link.alphasignal.ai/biRJgJ
+58dc0f5d-9599-4a2d-918e-04f70445dfc0,499,2024-12-04 19:27:37+00:00,"Google opens access to Veo, a generative video model, and Imagen 3 on Vertex AI",no link
+633adb8d-d26b-4b34-b7ac-031aa935c381,499,2024-12-04 19:27:37+00:00,"Tencent releases an open-source, open-weights, 13B parameter video generation model that beats top closed rivals",https://link.alphasignal.ai/bFcdsv
+5bd14a0b-dd7f-49f7-af32-30902485200a,499,2024-12-04 19:27:37+00:00,Exa opens the waitlist for an AI that can generate web-based datasets from any prompt,https://link.alphasignal.ai/zFMJrw
+74488004-0349-4700-a58a-5d03c3a57832,499,2024-12-04 19:27:37+00:00,Webinar: How to meet compliance standards for LLM deployments,https://link.alphasignal.ai/Eujw7E
+28915428-e73d-4244-a6ef-5bc5e134ba52,499,2024-12-04 19:27:37+00:00,Context Managers: the secret weapon for clean ML experiments,no link
+46795d6a-8752-43bf-a9f4-13170d6d83b5,499,2024-12-04 19:27:37+00:00,Hugging Face launches a hands-on course for aligning small LMs,https://link.alphasignal.ai/2mgInD
+9f7d84eb-b430-4c22-bb7b-78a17599391e,500,2024-12-05 16:55:28+00:00,AWS releases SageMaker and Bedrock upgrades on day 3 of AWS re:Invent.,https://link.alphasignal.ai/T0Ye8a
+55a5c351-fe2f-49a0-8da2-05455760809f,500,2024-12-05 16:55:28+00:00,Scale your models with SambaNova Cloud’s 200 tokens/sec on Llama 3.1 for 10x faster AI.,https://link.alphasignal.ai/lA6KNE
+3daadbb7-c6be-431e-b7d3-f462423d57e7,500,2024-12-05 16:55:28+00:00,Fish Speech announces self-hosted text-to-speech model with 1M hours of training data and low latency.,https://link.alphasignal.ai/nuadZq
+04fca5a7-26d2-4e05-9cbf-416122484ff7,500,2024-12-05 16:55:28+00:00,"Luma Labs unveils Ray 2, a next-gen video model accelerating creative video generation on AWS.",https://link.alphasignal.ai/LG7lii
+7214415b-f729-49ce-b8cd-b52097009529,500,2024-12-05 16:55:28+00:00,"OpenAI introduces Usage API, offering real-time tracking of API usage and costs for better management.",https://link.alphasignal.ai/sjvFGw
+a779dcb6-4e06-4951-83b6-3f644a2af94f,500,2024-12-05 16:55:28+00:00,"DeepMind launches GenCast, AI-powered weather forecasting model, delivering 15-day forecasts in minutes.",https://link.alphasignal.ai/CKAPBK
+77b0be89-f37a-4c90-b889-b8f466bf450a,500,2024-12-05 16:55:28+00:00,"Microsoft presents MatterSim, enabling high-accuracy predictions of material behavior with minimal computational cost.",https://link.alphasignal.ai/M2u5PN
+df6b4d23-8fcd-4709-9250-9f3f61ce80b7,500,2024-12-05 16:55:28+00:00,"Speed up AI training with NVIDIA-powered GPU clusters, offering tailored high-performance computing.",https://link.alphasignal.ai/fOdNyf
+0b159990-1ba4-4b13-a5fb-a93a7ccdbcf7,500,2024-12-05 16:55:28+00:00,Learn how RAG improves LLM applications with real-world use cases.,https://link.alphasignal.ai/yrm9WB
+38dff5ff-ed89-4994-bfff-d47bb18e8648,500,2024-12-05 16:55:28+00:00,Build a multi-agent RAG research system with LangGraph to enhance AI workflows.,https://link.alphasignal.ai/15XUGq
+0e85018a-30d2-44ac-b5eb-d3fa43f6379b,500,2024-12-05 16:55:28+00:00,"Create AI-powered games using LLMs for interactive, text-based worlds with custom game mechanics.",https://link.alphasignal.ai/dYLBok
+c7fb0f25-0819-434b-988d-4dd0258f8c00,500,2024-12-05 16:55:28+00:00,Andrew Ng’s guide reveals 4 key agentic design patterns transforming AI workflows and improving LLMs.,https://link.alphasignal.ai/cSwwiv
+748cbd1d-92f3-4729-923e-cd1434aa5526,501,2024-12-06 15:17:22+00:00,"OpenAI kicks off ""12 days of OpenAI"" with full o1 model and a ChatGPT Pro subscription tier for complex reasoning tasks.",https://link.alphasignal.ai/FOerJZ
+33e3ec10-e88f-4b60-925e-6fd77d33a5ba,501,2024-12-06 15:17:22+00:00,"Read Assembly AI's 2024 AI Insights Report; trends in speech technologies, strategies, and actionable industry data.",https://link.alphasignal.ai/ApXVa2
+3901be10-c285-4adf-8b97-5d8c6e3b4492,501,2024-12-06 15:17:22+00:00,Microsoft releases Copilot Vision bringing real-time insights to Edge browser for Pro users.,https://link.alphasignal.ai/KTnr30
+add839e5-d934-483a-a9d1-4475e6bb3f56,501,2024-12-06 15:17:22+00:00,"Google unveils PaliGemma 2, an open-source vision-language model, offering enhanced vision capabilities and long captioning.",https://link.alphasignal.ai/8cX2og
+d65e737e-cd9b-46f0-8534-242e35e67f2a,501,2024-12-06 15:17:22+00:00,"Microsoft Research presents Florence-VL, an open-source set of MLLMs that integrate Florence-2’s visual features for improved multimodal tasks.",https://link.alphasignal.ai/QtQ2Db
+675fe4bf-acb0-4156-8c0f-a4274146935b,501,2024-12-06 15:17:22+00:00,Pydantic introduces AI agent framework to streamline Python-based application development.,https://link.alphasignal.ai/mDPXfa
+27eda7d8-fafa-476f-84b3-4b48d8248411,501,2024-12-06 15:17:22+00:00,Sam Altman discusses companies backing AI competitors will lose access to OpenAI's research.,https://link.alphasignal.ai/4xzJSR
+3456d624-2df9-4a98-abb9-5829fb0f7948,501,2024-12-06 15:17:22+00:00,"Prompt structure affects LLM performance by up to 40%, challenging fixed templates.",no link
+9fbd2e2a-b9e6-4d05-a78b-b6c7d9616109,501,2024-12-06 15:17:22+00:00,"Google’s new method scales video training to 128 frames, outperforming benchmarks.",https://link.alphasignal.ai/pUdwam
+764f9a4b-e4e1-4a9d-97a2-30540f9fcb3b,501,2024-12-06 15:17:22+00:00,Motion prompting enables realistic video generation by controlling motion trajectories.,https://link.alphasignal.ai/qTjzDa
+d060a0e9-85c3-4111-bc31-f6f47caa6d25,501,2024-12-06 15:17:22+00:00,Use Loguru for simplified Python logging with auto-formatting and file rotation.,no link
+2fe5d165-54e5-40e8-bb97-fd016a912289,507,2024-12-10 18:22:58+00:00,"OpenAI launches Sora Turbo, allows realistic video creation, remixing, and better speed for ChatGPT Plus/Pro users.",https://link.alphasignal.ai/6BTLWu
+04123f1f-ca7a-4f70-93ce-94b0f79e5ae7,507,2024-12-10 18:22:58+00:00,Create unique AI voices instantly with Hume’s new real-time Voice Control tool.,https://link.alphasignal.ai/DJzqjR
+635fce42-9c23-403e-b9e0-adc5ea564f39,507,2024-12-10 18:22:58+00:00,"Meta announces last Llama update of this year, a 70B open-source model outperforming GPT-4o and Gemini Pro 1.5.",https://link.alphasignal.ai/SVwfNT
+2dd5c228-1e33-4ae7-911f-f6748b910663,507,2024-12-10 18:22:58+00:00,"Google unveils Willow quantum chip, beats supercomputers, solves problems in <5 minutes.",https://link.alphasignal.ai/M1l2ye
+24cbc6ee-118a-452e-9d25-a77c660cbdec,507,2024-12-10 18:22:58+00:00,"xAI releases Aurora, an advanced image generation model for Grok with multimodal input.",https://link.alphasignal.ai/c3Mfcp
+377b8fef-fc90-4c16-afc4-40deecaafe20,507,2024-12-10 18:22:58+00:00,"Google DeepMind adds gemini-exp-1206, reclaiming top spot on Chatbot Arena leaderboard.",https://link.alphasignal.ai/MFXUnl
+ba70a0a0-420b-409f-9368-5f076542b8e7,507,2024-12-10 18:22:58+00:00,Ollama 0.5 introduces JSON schema support for reliable structured outputs.,https://link.alphasignal.ai/0BteCv
+50555a74-5946-47a9-8e18-a6fa704cde05,507,2024-12-10 18:22:58+00:00,Combine LLMs and tools to build powerful computer agents for any OS with Python.,https://link.alphasignal.ai/BuOhG1
+1b13fb90-738d-4ba5-841a-9ff0194e8ab1,507,2024-12-10 18:22:58+00:00,"fish-speech: Generate high-quality, multilingual TTS with just a 30-second sample.",no link
+57efb82d-dd81-4145-80be-50a1b61368a3,507,2024-12-10 18:22:58+00:00,"lobe-chat: Framework for building chat apps with Claude, Gemini, and Llama2.",https://link.alphasignal.ai/XnXw1u
+bd94b396-88fe-4242-8312-1da6c29563be,507,2024-12-10 18:22:58+00:00,VAR: Scalable image generation surpassing diffusion models with next-scale prediction.,https://link.alphasignal.ai/lAdWzU
+da85cd95-1bd1-40dd-855a-85eae0d183ac,507,2024-12-10 18:22:58+00:00,This lecture by the author of Diffusion Transformers explains Sora: OpenAI’s text-to-video model for generating realistic videos from prompts,https://link.alphasignal.ai/Pu2Ju4
+2dd60000-89ae-41a6-b8c9-79a12698950b,509,2024-12-11 15:13:49+00:00,"OpenAI releases Canvas, a real-time editing tool for text and code, supporting direct Python execution and debugging.",https://link.alphasignal.ai/1iWqFS
+1cedadd1-4908-4425-abc4-cc9f92115c3b,509,2024-12-11 15:13:49+00:00,Learn how to use agents to build a scalable multimodal data pipeline. Join the webinar on December 16th.,https://link.alphasignal.ai/Gvi1uK
+47c75cc5-84c0-40ef-87d1-ed4314021453,509,2024-12-11 15:13:49+00:00,Cognition rolls out its AI software engineer that automates bug fixes.,https://link.alphasignal.ai/Cx1S6b
+a41f60f1-b585-4fdb-b943-7bbc96413a91,509,2024-12-11 15:13:49+00:00,"DeepSeek upgrades its open-source LLM by 8% in math, coding, and writing tasks.",https://link.alphasignal.ai/13eKMi
+3d4dd712-10c8-4750-8e98-9bdf6f9e3854,509,2024-12-11 15:13:49+00:00,Nous Research launches simulators to explore human-AI interaction.,https://link.alphasignal.ai/unaFPF
+bb20a6a1-9ee4-45eb-be36-c9fafdb0c4f6,509,2024-12-11 15:13:49+00:00,Google offers Gemini Flash API with lower rate limits for testing and up to 1M tokens of free caching.,https://link.alphasignal.ai/cgxU1b
+036bf3cd-3124-446a-85da-8151b861f148,509,2024-12-11 15:13:49+00:00,"Hugging Face rolls out TGI 3.0 for optimized LLM inference, which requires zero config.",https://link.alphasignal.ai/Ojf18o
+4e7aa517-553d-46c8-a5c7-c2b77ec462db,509,2024-12-11 15:13:49+00:00,Build conversation intelligence tools with AssemblyAI's speech-to-text API.,https://link.alphasignal.ai/LOScLy
+58f7a16b-e27a-4a77-9bac-ab83586c0632,509,2024-12-11 15:13:49+00:00,"HunyuanVideo generates high-quality videos from text and images, outperforming similar models.",no link
+083eefbf-df34-4b32-89ca-cd00ea38fc9f,509,2024-12-11 15:13:49+00:00,"TRELLIS creates versatile 3D assets from text prompts, excelling in local editing.",https://link.alphasignal.ai/i66Yws
+9830de8e-68d2-4277-9ccb-c5df5f34abb8,509,2024-12-11 15:13:49+00:00,"InternVL 2.5 is an open-source multimodal model series, supporting multi-image and video data.",https://link.alphasignal.ai/AmDtr7
+4fd6ba9c-3927-4bee-95e9-e760b2b7ee84,509,2024-12-11 15:13:49+00:00,Use PyTorch’s pin_memory for faster data loading and improved GPU performance during training.,no link
+4bc1434c-bc36-44ff-ad17-71589d11917b,510,2024-12-12 15:14:31+00:00,Google launches Gemini 2.0: its most capable AI model yet with agentic multimodal capabilities,https://link.alphasignal.ai/HV3Wbg
+6018e8e1-ee62-4ef4-a276-acc665ac9ecd,510,2024-12-12 15:14:31+00:00,"Prototype, test, and maintain Gen AI apps within your own infrastructure with Dynamiq’s low-code platform. ",https://link.alphasignal.ai/kjQSAU
+db1a482a-dde3-4211-bdc5-d7012f7c447a,510,2024-12-12 15:14:31+00:00,OpenAI integrates ChatGPT into Apple’s ecosystem.,https://link.alphasignal.ai/KRQ3Ao
+469df57b-b436-46e4-965d-e81337af15c7,510,2024-12-12 15:14:31+00:00,Nous Research unveils a small open-source LLM for mobile.,https://link.alphasignal.ai/owdbu3
+4f365d21-c89b-4768-a659-c9d4b1f01114,510,2024-12-12 15:14:31+00:00,Midjourney introduces Patchwork: Multiplayer worldbuilding tool for story creation.,https://link.alphasignal.ai/N9dSJ4
+e7cc4058-86f1-48e1-8b3d-9db4af154434,510,2024-12-12 15:14:31+00:00,GitHub adds Claude 3.5 Sonnet in Copilot for advanced coding assistance.,https://link.alphasignal.ai/7g9KWQ
+4dca313f-eef2-481e-a5f9-f92e6d6c6321,510,2024-12-12 15:14:31+00:00,Replit launches Assistant and Agent tools for faster project development.,https://link.alphasignal.ai/bwhDEz
+133dbb1c-1280-4506-9662-43a4690401dc,510,2024-12-12 15:14:31+00:00,Andrew Ng discusses the rise of AI agents and agentic reasoning in automation.,no link
+93c63730-8cb9-4b65-82cc-fb9f2b725dd6,510,2024-12-12 15:14:31+00:00,Learn LangSmith for LLM development: prompt engineering and app performance tracking.,https://link.alphasignal.ai/CxA6e3
+09e29fd1-0b0c-4ef3-b597-cdc6904df17a,510,2024-12-12 15:14:31+00:00,Dive into Flow Matching models for generative tasks with Facebook Research's GitHub repo guide.,https://link.alphasignal.ai/5hJlHy
+336c6ee3-bb3b-44a5-b57e-b739ef7da101,510,2024-12-12 15:14:31+00:00,Improve writing and coding with OpenAI Canvas: short course by its Research Lead on DeepLearning.ai.,https://link.alphasignal.ai/nbmKJL
+1af85a46-a7fb-4215-8c6f-b2e122e285e1,517,2024-12-17 16:46:59+00:00,"Google launches Veo 2 for 4K video generation, upgrades Imagen 3, and introduces a new tool for remixing images.",https://link.alphasignal.ai/FtLVPk
+e104b2cd-0432-4bfd-bf4b-daee811925d6,517,2024-12-17 16:46:59+00:00,"Control, manage, and deploy AI agents that follow your rules consistently with Parlant.",https://link.alphasignal.ai/l7fcdj
+35bc7069-0612-493c-88ea-87e612563a36,517,2024-12-17 16:46:59+00:00,"xAI releases Grok-2 free access for everyone , enhancing real-time search and contextual analysis.",https://link.alphasignal.ai/T7kLUE
+863dc016-5e74-4a47-b644-47fb0226a5c0,517,2024-12-17 16:46:59+00:00,"OpenAI introduces ChatGPT Search with voice integration for smarter web discovery, free for all users.",https://link.alphasignal.ai/dtQJIu
+5d095cf2-2d4c-4743-93ce-13865891f141,517,2024-12-17 16:46:59+00:00,"Meta AI unveils Apollo, a new family of video-focused LLMs, and ApolloBench, which reduces video evaluation time by 41×.",https://link.alphasignal.ai/zQHqyh
+fc15c63f-da37-4e16-b32d-e222b93be534,517,2024-12-17 16:46:59+00:00,"Pika Labs presents Pika 2.0, empowers creators with full control over their videos, combining custom scenes and high-quality visuals.",https://link.alphasignal.ai/uxNM9Z
+c3e62a07-6f22-443c-a459-705a8922f611,517,2024-12-17 16:46:59+00:00,Microsoft debuts a 14B model that beats GPT-4o and Gemini Pro 1.5 in complex reasoning tasks.,https://link.alphasignal.ai/YpWUyt
+2f57fbf3-bfbf-4761-aad2-5169c991b760,517,2024-12-17 16:46:59+00:00,Gemini's Multimodal Live API simplifies app development with audio and media features.,no link
+c1a5f1ad-06e2-4704-bd70-f6b6850a14fb,517,2024-12-17 16:46:59+00:00,Claude Engineer v3 helps developers improve software through continuous AI-assisted integration.,https://link.alphasignal.ai/4SG92A
+108f48e5-4798-4914-a24d-6a3f0b1831a9,517,2024-12-17 16:46:59+00:00,Dify enables fast LLM app development with AI workflows and real-time testing.,https://link.alphasignal.ai/fjtTwy
+d18654d1-4409-4929-a48a-766440e9d68c,517,2024-12-17 16:46:59+00:00,Ilya Sutskever discusses the future of agentic AI and superintelligence at NeurIPS 2024.,https://link.alphasignal.ai/TpBRtZ
+5af18e23-863a-46d4-9cad-5fb450301858,519,2024-12-19 15:14:14+00:00,"OpenAI launches o1 API, its advanced reasoning model, for complex problem-solving, with 60% cost-efficiency boost.",https://link.alphasignal.ai/vKAZzV
+a5f16aef-dacb-403e-bb19-aee01d86d31d,519,2024-12-19 15:14:14+00:00,"Scale AI effortlessly—Lambda’s Inference API delivers the lowest cost, limitless, and efficient inference.",https://link.alphasignal.ai/xEeSIV
+a3002bcc-0f8a-45f9-baa3-eed1e4a7f27a,519,2024-12-19 15:14:14+00:00,"GitHub announces Copilot access for free, offering GPT-4o and Claude 3.5 for VS Code users.",https://link.alphasignal.ai/6GwcSQ
+9f667071-2c57-4a53-9325-b0a168c453bf,519,2024-12-19 15:14:14+00:00,Google DeepMind releases FACTS Grounding benchmark for evaluating LLMs’ grounding and factuality in real-world inputs.,https://link.alphasignal.ai/iiJIOf
+977d687c-0450-4e0e-a505-02b40a6e14f3,519,2024-12-19 15:14:14+00:00,ElevenLabs unveils Flash model for real-time human-like TTS via API.,https://link.alphasignal.ai/qGbjxs
+efc31f68-a6c3-4127-99cb-4c44b03a2769,519,2024-12-19 15:14:14+00:00,"Anthropic study finds Claude fakes alignment in 12% of monitored cases, raising concerns about model behavior.",https://link.alphasignal.ai/AqXK0N
+357959de-250b-47e1-a4c6-1f9ddf03261e,519,2024-12-19 15:14:14+00:00,"NVIDIA upgrades Jetson Orin Nano, delivering 70% performance boost for generative AI at the edge.",https://link.alphasignal.ai/eICzVQ
+b6dd20ac-0ca2-427d-aa59-7992b18314f1,519,2024-12-19 15:14:14+00:00,Reasoning with o1 - Master abstract reasoning with OpenAI’s o1 model for coding and planning.,no link
+b7e96740-ff31-461c-ad96-e75750691f26,519,2024-12-19 15:14:14+00:00,Building Proactive Agents with Real-Time Event Processing - Learn to automate actions using streaming data and LLMs.,https://link.alphasignal.ai/HKRx2H
+5bcfaff3-2c32-43e7-8fb3-5342ef969ea6,519,2024-12-19 15:14:14+00:00,Improving LLMs with RAG - Enhance model performance by integrating external knowledge through retrieval-augmented generation.,https://link.alphasignal.ai/vfx6RJ
+d90e7705-c814-4c14-8454-42432d31ac83,519,2024-12-19 15:14:14+00:00,Hugging Face’s guide shows how scalable compute boosts LLM performance without extra resources.,https://link.alphasignal.ai/OVzzZ2
+3f2723bc-78a1-4368-acd4-ecc30fa6ab2d,522,2024-12-23 16:31:27+00:00,"OpenAI introduces o3, a reasoning model, surpassing the human average on ARC-AGI, a benchmark for reasoning and generalization.",https://link.alphasignal.ai/Jyqtx6
+264bb401-b511-4ad8-b2e3-e32ac116bb51,522,2024-12-23 16:31:27+00:00,"Scale AI effortlessly—Lambda’s Inference API delivers the lowest cost, limitless, and efficient inference.",https://link.alphasignal.ai/vP4wKb
+6c5d04ee-a889-449e-9e76-3fcfa4f339b6,522,2024-12-23 16:31:27+00:00,"ByteDance launches Monolith, an open-source framework for scalable recommender systems.",https://link.alphasignal.ai/yBIxZE
+2b4408ec-2c3e-49d4-9bf8-9d802b116226,522,2024-12-23 16:31:27+00:00,"A team of 20 researchers unveils Genesis, an open-source physics engine that allows fast creation of 4D environments for robotics and AI.",https://link.alphasignal.ai/MtuPus
+f3dc3a89-5732-4166-98fa-88057ec4fe65,522,2024-12-23 16:31:27+00:00,"Google releases Gemini 2.0 Flash Thinking model, ranked #1 in reasoning capabilities and available for free.",https://link.alphasignal.ai/0bQFLB
+0397b298-09e5-477d-9a02-457bf6fbb4e3,522,2024-12-23 16:31:27+00:00,"Qwen team publishes technical report of Qwen 2.5, a model that offers open-weight LLMs.",https://link.alphasignal.ai/S3nKfd
+24f58848-a4e3-4fce-9a13-0467a1e00b6a,522,2024-12-23 16:31:27+00:00,"Anthropic features co-founders in a discussion on AI scaling breakthroughs, policies, and future goals.",https://link.alphasignal.ai/tafHhw
+f4da531e-e320-43f3-ba13-921744fe76cb,522,2024-12-23 16:31:27+00:00,Learn to integrate Gemini 2.0 Multimodal Live API for interactive audio responses.,no link
+70fddd27-ed47-4557-859f-984b7130a1e7,522,2024-12-23 16:31:27+00:00,Fine-tune LLMs in 2025 using Hugging Face's advanced optimization techniques.,https://link.alphasignal.ai/yWFIEk
+4162acc5-52eb-4113-8861-cebf0189ce46,522,2024-12-23 16:31:27+00:00,Develop effective LLM agents with composable patterns and practical strategies.,https://link.alphasignal.ai/56JfpW
+84d327ec-0b5c-48f2-bfd6-e02a313b97ac,522,2024-12-23 16:31:27+00:00,Set up Google DeepMind's Gemini 2.0 Flash API for real-time conversational AI.,no link
+63aa29d0-90e0-4ad2-ba8c-b49302f54886,525,2024-12-27 15:48:28+00:00,DeepSeek announces an open-source model that rivals advanced closed-source models like GPT-4o and Claude 3.5 globally.,https://link.alphasignal.ai/tkZlLK
+6d359583-3d03-4455-b055-6fdc05646e82,525,2024-12-27 15:48:28+00:00,"Qwen introduces QVQ, a new visual reasoning model with deep thinking and step-by-step predictions.",https://link.alphasignal.ai/J6I7QF
+33de1a5f-5127-48db-ba8a-1e992f9cc8cb,525,2024-12-27 15:48:28+00:00,"Meta FAIR releases Large Concept Models , a new AI method that separates reasoning from language.",https://link.alphasignal.ai/pMEGAq
+a3561e11-bdb6-4cff-8646-f13785b40f45,525,2024-12-27 15:48:28+00:00,"Cognition unveils Devin 1.1, achieving 10% faster performance and reduced costs for code-editing tasks.",https://link.alphasignal.ai/SijGTN
+41a4b399-80d2-44bd-a45e-78ab13f9decc,525,2024-12-27 15:48:28+00:00,"Hugging Face integrates with Ollama, allowing users to run private GGUF models with simple SSH setup.",https://link.alphasignal.ai/fP6lSr
+b95ff5f4-714c-451c-9b20-cf155d2b0567,525,2024-12-27 15:48:28+00:00,"Microsoft Research launches AIOpsLab, an open-source tool to refine AI agents for cloud system reliability.",https://link.alphasignal.ai/aTYWaP
+509a88ea-f33f-41b3-b3bf-9e14138d48ff,525,2024-12-27 15:48:28+00:00,"CosyVoice 2 reduces streaming delays and improves TTS accuracy, enhancing user experience.",no link
+f406fe53-9e5d-4ec7-8558-b895b13578d8,525,2024-12-27 15:48:28+00:00,"Byte Latent Transformer scales efficiently with byte-level encoding, outperforming tokenized models.",https://link.alphasignal.ai/xnxzDO
+e61d5e3c-a9da-4be2-85fd-88842d3b0a89,525,2024-12-27 15:48:28+00:00,Vision Transformers use register tokens to eliminate artifacts and boost visual task performance.,https://arxiv.org/abs/2309.16588
+dea8dce3-cab4-4506-ad04-c626cbe0bff7,525,2024-12-27 15:48:28+00:00,Gitingest turns GitHub repos into LLM-ready text for faster code analysis.,no link
+d884a2e6-5feb-40d6-9e3c-982b4452a426,530,2025-01-06 18:24:53+00:00,"Google demonstrates scalability of AI agents using LangChain and Vertex AI, enabling complex workflow automation.",https://link.alphasignal.ai/kMUB3k
+8e3f3dbf-f55c-4986-bbc0-8e6671283db6,530,2025-01-06 18:24:53+00:00,"Build, deploy, and scale speech recognition systems with Speechmatics’ single API for real-time accuracy.",no link
+7dfe7702-634e-443e-bfb1-e6bee5587979,530,2025-01-06 18:24:53+00:00,"ByteDance releases LatentSync, open-source SOTA lip-sync model leveraging Stable Diffusion for accuracy.",https://link.alphasignal.ai/8GTEdw
+cc920ad1-b826-4774-a648-44848ea7bc86,530,2025-01-06 18:24:53+00:00,"Hugging Face unveils SmolAgents, simplifying code agent creation with built-in search tools and dynamic execution.",https://link.alphasignal.ai/sfSjay
+ad391d20-22ff-44d8-ab32-7d149ac460b8,530,2025-01-06 18:24:53+00:00,"Meta publishes research on Memory Layers, surpassing dense models with 2x compute budget on factual tasks.",https://link.alphasignal.ai/hUDeg0
+6db74222-44f4-453e-a4a5-16de4fc0bcfc,530,2025-01-06 18:24:53+00:00,"Allen AI presents technical report of OLMo 2, an open-source language model outperforming Llama 3.1 with robust training techniques.",https://link.alphasignal.ai/AdpERN
+762b1200-ee4d-45fb-874c-40d194edb311,530,2025-01-06 18:24:53+00:00,"Replit integrates xAI, enabling the addition of Grok AI features to projects in seconds.",https://link.alphasignal.ai/Ik09m7
+57813c2f-178e-43f9-b659-f5a8085cd7d3,530,2025-01-06 18:24:53+00:00,"Hugging Face teaches customizing language models with tuning, datasets, and real-world projects in their smol agents course.",no link
+c188a6cf-8633-4535-b6c8-fc205393a611,530,2025-01-06 18:24:53+00:00,Build Graph RAG apps combining knowledge graphs and vector databases for scalable accuracy.,https://link.alphasignal.ai/k73HYU
+9fae5eb7-f590-41a7-9828-1d1cd14845a1,530,2025-01-06 18:24:53+00:00,Evaluate audio models’ reasoning gaps using Big Bench Audio across multiple task types.,no link
+83905ee8-145e-4625-a5d4-a4e31ce9d296,530,2025-01-06 18:24:53+00:00,Convert eBooks to Audiobooks with Chapters and Metadata Using Dynamic AI Models and Voice Cloning,https://link.alphasignal.ai/6XbXwU
+4f72b48c-8475-4adc-8e5c-b7d85a3df8f6,532,2025-01-07 17:42:42+00:00,"OpenAI plans deployment of AGI workforce agents in 2025, focusing on data analysis, decision-making, and iterative problem-solving.",https://link.alphasignal.ai/ghJkWL
+59ea8be4-ba9a-4152-963e-582631f8e988,532,2025-01-07 17:42:42+00:00,Lightweight AI model and Python framework for efficient GUI automation across platforms.,no link
+37548f0f-a043-4ab3-800c-f128d2aa08bb,532,2025-01-07 17:42:42+00:00,NVIDIA unveils Llama Nemotron models to power AI agents with 4x efficiency for enterprises.,https://link.alphasignal.ai/IXENQD
+4c3ef20e-c416-40d3-8c14-41a5691ed74e,532,2025-01-07 17:42:42+00:00,"Google introduces PWA for AI Studio, enabling desktop, iOS, and Android access to Gemini with Vision.",https://link.alphasignal.ai/YIyZ0E
+1b3b24e9-293d-4827-bdac-cc0e23432d90,532,2025-01-07 17:42:42+00:00,BlackForestLabs announces wider access to optimized FLUX models and 3D AI tools via Hugging Face and NVIDIA platforms in February.,https://link.alphasignal.ai/91R04B
+0030d9f8-9691-4b01-8cc7-13a92a1abbf1,532,2025-01-07 17:42:42+00:00,"Meta ends third-party fact-checking, leans into personalized political content and echo chambers.",https://link.alphasignal.ai/JYeCg6
+840b3085-0393-49ee-a93b-32c0c1276544,532,2025-01-07 17:42:42+00:00,"Anthropic unveils roadmap for Model Context Protocol, adding remote connection support and secure authentication.",https://link.alphasignal.ai/FYnvAa
+3f990253-034e-4d00-b8c1-00c3d5db225a,532,2025-01-07 17:42:42+00:00,"Crawl4AI: AI-ready web crawler; 6x faster, smart extraction for data pipelines.",no link
+b325ef40-b91a-48ea-800b-5d3cfba27919,532,2025-01-07 17:42:42+00:00,"storm: Research topics, write Wikipedia-like articles with human-LM collaboration.",https://link.alphasignal.ai/bn5bkB
+ad584218-10f9-4b59-abcc-b6cba2bf4633,532,2025-01-07 17:42:42+00:00,AI Hedge Fund: Simulate AI trading signals with LangChain-powered agents for education.,no link
+fd5cd80b-431e-46ba-83ec-69093b80748d,532,2025-01-07 17:42:42+00:00,"NVIDIA CES 2025 keynote: Jensen Huang reveals physical AI for robotics, gaming GPUs, DIGITS.",https://link.alphasignal.ai/HZ4Z0L
+93bdf71b-af16-4d3e-b8de-c98d9948e7c6,534,2025-01-08 18:36:20+00:00,"NVIDIA launches Cosmos with open-source models, generating synthetic data for robotics & AVs.",https://link.alphasignal.ai/FXLamR
+a740e002-719e-4ed1-9dc4-957ce58352af,534,2025-01-08 18:36:20+00:00,Get Into The ARMs Race: Future-Proof Your Workloads Now With Lambda.,no link
+5b648ef4-27bc-43a9-9819-7f042a65a229,534,2025-01-08 18:36:20+00:00,"NVIDIA introduces personal AI supercomputer, DIGITS, for rapid prototyping of open-source Llama models.",https://link.alphasignal.ai/S51rRZ
+80b7415c-7e2f-4984-b2c0-6b85c4caff12,534,2025-01-08 18:36:20+00:00,"Together AI unveils DeepSeek-V3 which is #7 in Chatbot Arena,",https://link.alphasignal.ai/iyOi3j
+995321ed-1a06-411f-b6c3-a49f04e88b52,534,2025-01-08 18:36:20+00:00,LangChain presents blueprint for structured report generation using Llama 3.3 with NVIDIA's NIM microservices.,https://link.alphasignal.ai/bPLcTp
+16399538-d1f9-4a12-bb12-669808ae3da9,534,2025-01-08 18:36:20+00:00,Meta releases tools to measure inductive bias in ML models for enhanced generalization and robustness.,https://link.alphasignal.ai/oIEyfa
+fc14c948-a6f7-42f2-a433-321e89cfa601,534,2025-01-08 18:36:20+00:00,"Cognitive Computations introduces Dolphin 3.0: customizable AI models from 0.5B to 8B parameters, deployable on Ollama, LM Studio, and Hugging Face.",https://link.alphasignal.ai/DCPRPI
+daf4d316-5937-4711-a1cc-2b2c343e1247,534,2025-01-08 18:36:20+00:00,Get on-demand GPU clusters with expert support and compliance with EU regulations.,no link
+330a1dae-7750-4b76-a721-c9d44c990617,534,2025-01-08 18:36:20+00:00,Cosmos-1.0-Diffusion-7B-Text2World: Pre-trained models for Physical AI systems and robotics.,no link
+6a934b7c-8899-43ee-966e-ba99bce217f6,534,2025-01-08 18:36:20+00:00,all-MiniLM-L6-v2: Powerful sentence transformer for semantic search and clustering tasks.,https://link.alphasignal.ai/vsuupC
+140f6724-19bc-419e-85c2-44174eba6c3e,534,2025-01-08 18:36:20+00:00,"MiniPerplx: AI-powered search engine for fast, accurate multi-source information retrieval.",no link
+91727237-f3a4-4930-8f96-7268400a60c3,534,2025-01-08 18:36:20+00:00,Use PyTorch's fault tolerance for uninterrupted distributed training in large-scale models.,no link
+d509e80b-17dc-4eeb-b99d-cdd709063b31,537,2025-01-13 21:54:14+00:00,UC Berkeley releases new open-source reasoning model that matches o1,https://link.alphasignal.ai/wJ5etc
+470da192-c69f-4b86-a69e-b2d69f995704,537,2025-01-13 21:54:14+00:00,Mistral releases new SOTA coding model with 2x faster generation deployable locally.,https://link.alphasignal.ai/LKU1ou
+c81a8a52-578a-4508-9c8a-9749e3bf8c35,537,2025-01-13 21:54:14+00:00,GitHub opens waitlist for Copilot Workspace (agentic IDE),https://link.alphasignal.ai/pgp5Xn
+65bd5242-568c-4719-898a-6c070459fe12,537,2025-01-13 21:54:14+00:00,Grok AI App launches on iOS: no X account required.,https://link.alphasignal.ai/Ju2Rlo
+fa4ee5c9-d47b-430f-9782-49792b739709,537,2025-01-13 21:54:14+00:00,Qwen releases Chat UI allowing you to chat with all models.,no link
+01c9d6ea-9081-468f-b8dc-4ed3327ba937,537,2025-01-13 21:54:14+00:00,Stanford launches a Google Deep Research clone called STORM./,https://link.alphasignal.ai/IEQUiV
+bb34a012-4233-4093-a085-4ba5ff9d6042,537,2025-01-13 21:54:14+00:00,Future-proof your workloads with NVIDIA GH200s on Lambda at just $1.49/GPU/hr,https://link.alphasignal.ai/lsuA2C
+cf38555e-3568-4bf3-b699-8b7e64f94b83,537,2025-01-13 21:54:14+00:00,rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking,no link
+b9fdb719-90aa-443e-9160-daf08a4ce659,537,2025-01-13 21:54:14+00:00,Agent Laboratory: Using LLM Agents as Research Assistants,https://link.alphasignal.ai/C4k1sD
+9d2e3822-60a3-4bea-9ae0-91f1512b96de,537,2025-01-13 21:54:14+00:00,Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks,https://link.alphasignal.ai/k3WzfX
+266d1d84-615a-4bc4-8ef4-0d164eff8df5,543,2025-01-15 18:32:41+00:00,OpenAI launches tasks beta: schedule recurring actions directly in ChatGPT's web interface.,https://link.alphasignal.ai/vs1fHx
+638aed40-c69c-4c52-a7cd-3084b8e28f35,543,2025-01-15 18:32:41+00:00,no news,no link
+05000b18-42e5-4206-b7d5-4de640663864,543,2025-01-15 18:32:41+00:00,"Build, deploy, and refine state-of-the-art RAG agents effortlessly with the Contextual AI Platform.",no link
+810eabff-c54c-4f3b-a6a5-03f9fcacddd7,543,2025-01-15 18:32:41+00:00,"Microsoft releases AutoGen 0.4: Scalable, event-driven framework for advanced multi-agent AI systems",https://link.alphasignal.ai/DdiCMm
+7476f90a-2bc2-4384-a4dc-148c28977d11,543,2025-01-15 18:32:41+00:00,no news,no link
+ce06aa00-9f30-4620-9d78-c52a74134327,543,2025-01-15 18:32:41+00:00,"MiniMax presents lightning attention models, outperforming on long context tasks.",https://link.alphasignal.ai/7BHOGM
+186ace4c-812b-43d0-94f7-742919205262,543,2025-01-15 18:32:41+00:00,"LangChain unveils email assistant agent: multitask, notify, and respond with ease.",https://link.alphasignal.ai/JL9pFn
+723ef054-e5f4-495f-aaae-fee9b6ef223d,543,2025-01-15 18:32:41+00:00,no news,no link
+7ce9ac11-f4a9-4162-9a31-d80fbb94c68f,543,2025-01-15 18:32:41+00:00,Together AI offers Llama 3.3-70B with Turbo serverless scaling for dev and production use.,https://link.alphasignal.ai/77iiSR
+a662ab18-9b74-4ff5-940a-26472d26f83a,543,2025-01-15 18:32:41+00:00,"Kyutai introduces Helium-1 Preview,  a lightweight LLM that enables research in multilingual NLP, requiring fine-tuning for specific use cases.",https://link.alphasignal.ai/jfxA74
+273497d7-795b-407d-8ce3-39cc51f82528,543,2025-01-15 18:32:41+00:00,Access data center proxies designed for web scraping and project development at no cost.,no link
+e937cd6d-557c-43d8-98f7-d20313113fb7,543,2025-01-15 18:32:41+00:00,Kokoro-82M: Lightweight TTS model optimized for high-quality synthesis with minimal data.,no link
+e37d4455-5f0c-4a2c-9bb4-4f09883163cc,543,2025-01-15 18:32:41+00:00,"moondream2: Compact, open-source vision-language model optimized for edge devices.",https://link.alphasignal.ai/qApxq6
+564cd635-2e31-4b14-a39c-fdbc7373a554,543,2025-01-15 18:32:41+00:00,Sana: Text-to-image model with 1.6B parameters for high-resolution image generation.,no link
+661a358d-f699-4ad1-824a-61a497530538,543,2025-01-15 18:32:41+00:00,Track GPU memory usage to spot inefficiencies and optimize resource-heavy model deployments.,no link
+afa74fd8-089d-4814-82b4-5d53b6cc1779,547,2025-01-16 17:52:05+00:00,Microsoft launches Copilot Chat with GPT-4o-powered AI for business automation.,https://link.alphasignal.ai/CD7Nzm
+855a1ecf-b7cd-4aad-9f07-57cc192b6936,547,2025-01-16 17:52:05+00:00,no news,no link
+60a210ba-b24e-4ad3-90b5-1d3c27e911c4,547,2025-01-16 17:52:05+00:00,Automate tasks with Vision Agents and PTA-1 across apps and platforms.,no link
+757e8234-8d1e-4395-9fe4-7ed7e584aba7,547,2025-01-16 17:52:05+00:00,Andrew Ng introduces AI simulator visualizing the potential of Stratospheric Aerosol Injection to reduce global warming by 1°C.,https://link.alphasignal.ai/CtMkno
+5e359635-f445-490f-8cea-5f3b549c13f5,547,2025-01-16 17:52:05+00:00,no news,no link
+d4d59b32-9709-48cf-bfcd-b6c13b60f05f,547,2025-01-16 17:52:05+00:00,Luma Labs unveils Ray2 in Dream Machine for AI video generation with improved object interaction and motion realism.,https://link.alphasignal.ai/Uxmi8G
+788c51b0-c4f4-4bb6-99a0-05bce533fe45,547,2025-01-16 17:52:05+00:00,Together AI releases Agent Recipes with step-by-step examples for efficient LLM-based workflows.,https://link.alphasignal.ai/n8tyxd
+2ffaf89a-ae38-4d81-ad0c-6a9f91bf5e21,547,2025-01-16 17:52:05+00:00,no news,no link
+6ae18b85-1d9f-4921-a383-4ea05784e7ed,547,2025-01-16 17:52:05+00:00,no news,no link
+4d0f96d4-5df6-4b7b-b0a4-9725ef41df5e,547,2025-01-16 17:52:05+00:00,"Google Research presents Titans, an architecture showing human-like memory, more effective than Transformers and RNNs.",https://link.alphasignal.ai/IDjwV4
+57c6ea6b-6d23-4507-bb59-bba69ea967bc,547,2025-01-16 17:52:05+00:00,Meta AI publishes code for Coconut: Simplified Chain of Continuous Thought model for better reasoning.,https://link.alphasignal.ai/VDt3vU
+c1682227-16e9-4c21-b3d4-c20e951269c1,547,2025-01-16 17:52:05+00:00,no news,no link
+8733a082-b8ee-49f8-8229-ff0db78a490e,547,2025-01-16 17:52:05+00:00,"Explore GPU benchmarks for LLM, VLM, and DiT training and inference performance.",no link
+b3b87215-3809-4a82-82d0-6394b562f5f4,547,2025-01-16 17:52:05+00:00,"Hugging Face's course on Agents: build, deploy, and enhance AI agent workflows.",no link
+ee5010e4-2f94-4053-92b5-44eb5f68475f,547,2025-01-16 17:52:05+00:00,no news,no link
+f68164eb-b1e5-468e-8ff1-0f41df1ad629,547,2025-01-16 17:52:05+00:00,"Learn to use OpenAI Canvas: streamline writing, coding, and debugging with targeted AI tools.",https://link.alphasignal.ai/0iaths
+9ac4aaff-b969-4d7c-908f-e0ab45d3d1ad,547,2025-01-16 17:52:05+00:00,no news,no link
+390b6359-615f-499b-b0e7-f99b0f9c37ea,547,2025-01-16 17:52:05+00:00,"A comprehensive guide on AI agents, plan, select tools, and evaluate performance effectively.",no link
+9b195936-81a7-4f03-97db-addb6c4c5cdd,547,2025-01-16 17:52:05+00:00,Learn how to build domain-specific reasoning models.,https://link.alphasignal.ai/oDEM32
+d632021b-bf6c-4b1f-aa90-c4728d0feef6,559,2025-01-20 19:42:01+00:00,DeepSeek Releases R1: Open-Source RL-Only Model Matching OpenAI-o1 in Reasoning Tasks.,https://link.alphasignal.ai/Vovy2h
+67ffc34d-8ed3-4719-890a-6f27b45aef25,559,2025-01-20 19:42:01+00:00,no news,no link
+cdab51e5-fdcc-44ed-be9d-cd6525fe6bf3,559,2025-01-20 19:42:01+00:00,Learn practical ways to use ChatGPT at work with 100 ready-to-use prompts and examples.,no link
+27e75458-f171-41ca-8a06-ada45c4ebf6e,559,2025-01-20 19:42:01+00:00,OpenAI updates ChatGPT custom instructions UI for easier personalization across platforms.,https://link.alphasignal.ai/kGyWuN
+fbfa018a-cc2e-4baf-865d-3624b0c22366,559,2025-01-20 19:42:01+00:00,no news,no link
+a07b6211-60a5-4320-b2b0-29f44a4345a5,559,2025-01-20 19:42:01+00:00,no news,no link
+711faeb4-4ef3-4596-b713-2a2dd63792c2,559,2025-01-20 19:42:01+00:00,Runway releases an image generation model that provides high-quality photorealism and stylistic precision.,https://link.alphasignal.ai/FXgTLn
+ac44fbde-ad16-4d63-8554-f29771a20145,559,2025-01-20 19:42:01+00:00,"Cognition Labs launches Devin 1.2, improving PR accuracy, adding enterprise accounts, and pay-as-you-go billing.",https://link.alphasignal.ai/4xqo7d
+343dbf79-784c-4953-915e-a94820a7673b,559,2025-01-20 19:42:01+00:00,no news,no link
+2db16849-8df7-498d-b0f9-cb0c0c463964,559,2025-01-20 19:42:01+00:00,no news,no link
+301b283b-c227-48ae-b645-ca81db136278,559,2025-01-20 19:42:01+00:00,"Codeium unveils Windsurf Wave 2, adding web search, automated Memories, and code execution improvements.",https://link.alphasignal.ai/ngW9jn
+fdb8f569-7b43-490f-bbd0-7aaac508bf39,559,2025-01-20 19:42:01+00:00,Andrew Ng explores future of AI Product Management: key skills and growing opportunities.,https://link.alphasignal.ai/BngLEN
+d551de84-7f11-4e36-b786-2cc45d292a7a,559,2025-01-20 19:42:01+00:00,"Implement OpenAI's function calling to integrate external services, handle data, and execute actions.",no link
+6239884a-6388-43d3-9e06-a3127fdec93e,559,2025-01-20 19:42:01+00:00,no news,no link
+63f1231f-1af9-4914-b8b4-a4ec44f09b17,559,2025-01-20 19:42:01+00:00,Build AI agents and chatbots with LangGraph.,https://link.alphasignal.ai/Pza6S0
+a7227385-8552-4923-8b9c-c119a9b9e43b,559,2025-01-20 19:42:01+00:00,no news,no link
+12a1f9fa-cc28-48d0-95b3-a837604f231b,559,2025-01-20 19:42:01+00:00,How to use Anthropic's MCP Server with open LLMs or Google Gemini to build a CLI Agent with SQLite.,no link
+8e1f280e-e985-4f51-be40-be7bad8c082b,559,2025-01-20 19:42:01+00:00,Learn how to build and prototype a multi-agent voice app in under 20 minutes using the Realtime API.,no link
+9b158f53-d20a-47aa-b0e9-c05ae2a6983c,564,2025-01-21 19:41:28+00:00,"Google DeepMind introduces noise search method, outperforming traditional denoising in diffusion models.",https://link.alphasignal.ai/dAs0jz
+8c92ceb4-30f4-44cc-a6b2-3806397aebac,564,2025-01-21 19:41:28+00:00,no news,no link
+fd21bcf0-a529-474a-8c0d-21fa0324d0ca,564,2025-01-21 19:41:28+00:00,RAGSys enables 300x faster LLM adaptation with improved accuracy and reusable pipelines.,no link
+376a8766-6e82-4505-8c16-8a8fcff7ecb6,564,2025-01-21 19:41:28+00:00,Tencent unveils Hunyuan3D 2.0: generate and animate high-quality 3D models with ease.,https://link.alphasignal.ai/KjG95H
+9ca43c70-692a-42d0-8195-7df4d67f62da,564,2025-01-21 19:41:28+00:00,no news,no link
+7bffc7a3-3231-41a9-b3f3-225310568def,564,2025-01-21 19:41:28+00:00,no news,no link
+d8c443c1-3a1d-4de7-b325-50756da641e2,564,2025-01-21 19:41:28+00:00,"Git releases new update, boots cloning speed by 10-13% with improved SHA-1 checksums.",https://link.alphasignal.ai/K2cAIW
+fda68825-7994-484c-af23-82086e10fe01,564,2025-01-21 19:41:28+00:00,LangChain adds unified Prompt Settings UI for easier management and optimization.,https://link.alphasignal.ai/ikUUHu
+13eebe19-91dc-4c74-9a6e-b40e5f895201,564,2025-01-21 19:41:28+00:00,no news,no link
+6f589576-c66e-4f0f-a246-50bc39949ea8,564,2025-01-21 19:41:28+00:00,no news,no link
+7cca04a8-655b-427c-b56a-f84e3d1ad01f,564,2025-01-21 19:41:28+00:00,ByteDance launches Trae: AI coding assistant that automates project building and offers interactive development assistance,https://link.alphasignal.ai/w2Epal
+59549db5-2ee6-4f15-8abc-7acd63d0f03e,564,2025-01-21 19:41:28+00:00,Moonshot AI presents Kimi k1.5: SOTA open-source multimodal model with joint text-vision reasoning.,https://link.alphasignal.ai/gDQhAs
+b8131eab-b352-4cbe-8e61-aa4979a63bfb,564,2025-01-21 19:41:28+00:00,"DeepSeek-R1: Excels in reasoning, math, and code with scalable RL-based models.",no link
+91432f06-9086-438e-8411-8470be1c6b31,564,2025-01-21 19:41:28+00:00,no news,no link
+be882af9-9890-4c60-9cb9-0dd48a501673,564,2025-01-21 19:41:28+00:00,Monolith: Build recommendation systems with real-time training and TensorFlow integration.,https://link.alphasignal.ai/o55BJX
+14e05147-b17a-4075-bf1d-d21d697480b9,564,2025-01-21 19:41:28+00:00,no news,no link
+00f98a9d-f521-4a7b-8f82-4ba71d55e7f5,564,2025-01-21 19:41:28+00:00,build-your-own-x: Offers tutorials for building technologies to deepen practical understanding.,no link
+d041d46b-1c0f-4889-9706-79f102f2199c,564,2025-01-21 19:41:28+00:00,Learn to build AI apps that handle long documents with Jamba.,https://link.alphasignal.ai/srlAih
+7bdb10a4-4eda-45bd-99a9-11481ad115cd,565,2025-01-22 19:00:47+00:00,"OpenAI announces AGI scaling project with NVIDIA GPUs, Oracle Cloud, and Azure support.",https://link.alphasignal.ai/8j6JNC
+796cba24-de62-43fe-8b74-e7532f34241b,565,2025-01-22 19:00:47+00:00,no news,no link
+489ddb33-5180-4ecd-9bfc-934315da3ddb,565,2025-01-22 19:00:47+00:00,Mastering web data collection was never that convenient: Oxylabs has launched free Datacenter Proxies.,no link
+0ee94342-a388-43d1-ab25-9a838c19ef7b,565,2025-01-22 19:00:47+00:00,"Perplexity unveils API for real-time, citation-backed generative search with 2x context.",https://link.alphasignal.ai/WOMsoh
+4654adeb-28d2-43c4-8670-e580547ecd76,565,2025-01-22 19:00:47+00:00,no news,no link
+5d98b0cb-c22c-4f0d-84b6-e5c9eae46dea,565,2025-01-22 19:00:47+00:00,no news,no link
+dd1f545e-6609-40a6-82ed-f2145f48360d,565,2025-01-22 19:00:47+00:00,no news,no link
+5114fd14-a9bf-4bfe-9dd9-2a536140fb10,565,2025-01-22 19:00:47+00:00,"Google updates Gemini 2.0 Flash with 1M token context, code execution, and math benchmark improvements, now available via API.",https://link.alphasignal.ai/oDkmwk
+38c8bcb0-87ba-47cf-a163-27c22b8ef8ad,565,2025-01-22 19:00:47+00:00,"ElevenLabs reduces support load with AI agent, handling 80% of docs inquiries daily.",https://link.alphasignal.ai/LiMRDd
+8b43bb56-5a5a-4374-8a55-b50950a1d8d1,565,2025-01-22 19:00:47+00:00,no news,no link
+e47eaefb-d6d8-4125-822f-7c30fb031a2e,565,2025-01-22 19:00:47+00:00,no news,no link
+d2133819-56cf-430c-a038-88f90054ddec,565,2025-01-22 19:00:47+00:00,no news,no link
+b105a6c3-f7f8-4b75-8246-9d1640ab6f26,565,2025-01-22 19:00:47+00:00,"Netflix publishes Go-with-the-Flow, a motion controllable video generation model offering precise keyframe animation.",https://link.alphasignal.ai/nfuait
+dec190ca-b7e5-405d-8ba5-bf98facf2ae2,565,2025-01-22 19:00:47+00:00,no news,no link
+46f0af46-de51-4ed0-9e63-fa87467b9178,565,2025-01-22 19:00:47+00:00," Bytedance launches UI-TARS, a state-of-the-art GUI agent outperforming GPT-4 on 10+ benchmarks.",https://link.alphasignal.ai/nbBdYW
+f4e03408-dfe8-475e-92c2-0395af4b8892,565,2025-01-22 19:00:47+00:00,no news,no link
+04ff8559-d889-4df9-83bf-6c47bfe99383,565,2025-01-22 19:00:47+00:00,Test NVIDIA GH200s at just $1.49/hr—optimize workloads on ARM64 CPUs and prepare for NVIDIA Blackwell.,no link
+7692f675-2609-4164-8548-f5ac28cb75a8,565,2025-01-22 19:00:47+00:00,"MiniCPM-o 2.6 handles vision, speech, and multimodal tasks with advanced ASR capabilities.",no link
+3148b316-e6c2-41e5-a0bd-d1c01c24f21c,565,2025-01-22 19:00:47+00:00,no news,no link
+cb3c9c53-7859-43c1-9071-ca1b5202c50a,565,2025-01-22 19:00:47+00:00,Flex.1 alpha generates images from text using an 8B-parameter rectified flow transformer.,https://link.alphasignal.ai/AKivFu
+ca89cb62-1430-44f3-97bf-a50ea9343752,565,2025-01-22 19:00:47+00:00,no news,no link
+31636682-f2e9-47cf-832c-641bcc5e3d20,565,2025-01-22 19:00:47+00:00,"ReaderLM v2 processes HTML into Markdown/JSON, excelling at structured data extraction and formatting.",no link
+3395db77-6b7a-497a-88a1-6a757b35832d,565,2025-01-22 19:00:47+00:00,"Custom autograd functions optimize memory, computation, and gradient calculations for efficient models.",no link
+a9e5485f-d7d6-413f-bd69-bd5f3657e734,567,2025-01-24 15:21:15+00:00,OpenAI unveils Operator: browser AI Agent automating web tasks with GPT-4 Vision.,https://link.alphasignal.ai/68WX3x
+1cb3f8f4-4ebd-49f1-9f9c-fd7ee9e57501,567,2025-01-24 15:21:15+00:00,no news,no link
+d48509b3-c7fc-48b3-8a2b-885a0e173c42,567,2025-01-24 15:21:15+00:00,"Perplexity launches Assistant, a multimodal tool for web browsing and multi-app automation.",https://link.alphasignal.ai/NBkl3D
+d0a65be3-59de-4ff6-9a07-b7675548fe71,567,2025-01-24 15:21:15+00:00,no news,no link
+a71a367e-691d-4884-b05d-65a7affb45cc,567,2025-01-24 15:21:15+00:00,no news,no link
+401ec639-4f9f-4104-983e-ece0a0795292,567,2025-01-24 15:21:15+00:00,no news,no link
+541fe4b7-6a71-4e6a-b544-ad06570ad1ed,567,2025-01-24 15:21:15+00:00,no news,no link
+eca69563-f866-4766-8283-682b41cb07b8,567,2025-01-24 15:21:15+00:00,"Anthropic introduces Citations API, improving Claude’s output accuracy by 15% with source-backed responses.",https://link.alphasignal.ai/fxPCv6
+ab26cb10-0579-4084-8a40-3bd8e989b22f,567,2025-01-24 15:21:15+00:00,"Google DeepMind claims top spot with Imagen 3 in LymSys arena with 67% winrate, outpacing SoTA text-to-image models.",https://link.alphasignal.ai/xQXB8Y
+7ee98623-90b5-4a91-a4fb-6a78dc6f4353,567,2025-01-24 15:21:15+00:00,no news,no link
+c06fb1d7-62ba-4140-99f6-09b487f86c16,567,2025-01-24 15:21:15+00:00,no news,no link
+51b245a8-d7e6-47a6-b73b-19bfe5186d98,567,2025-01-24 15:21:15+00:00,no news,no link
+8393a54c-7c7d-4c8d-a7d7-d71cf3364cb0,567,2025-01-24 15:21:15+00:00,"Hugging Face presents SmolVLM 256M and 500M, the world’s smallest Vision Language Models with competitive performance.",https://link.alphasignal.ai/Fg9NXp
+68e38c36-47de-4597-ab50-fd80a910a80e,567,2025-01-24 15:21:15+00:00,no news,no link
+635bc1b8-5392-4458-ac41-96cd88f49179,567,2025-01-24 15:21:15+00:00,"Center for AI Safety and Scale AI publishes Humanity’s Last Exam, a new benchmark designed for testing an LLM’s academic knowledge.",https://link.alphasignal.ai/FlVfDg
+124f5106-dc3f-4703-bf9f-5ce1ab181302,567,2025-01-24 15:21:15+00:00,GPU benchmarks and best practices for optimizing AI training and inference workflows.,no link
+02c52290-b6df-4958-a45a-93cbd5528a03,567,2025-01-24 15:21:15+00:00,Chain-of-Agents improves long-context tasks by using multi-agent collaboration for better performance.,no link
+4a3c133f-d05d-4271-9eb8-540936cfa206,567,2025-01-24 15:21:15+00:00,no news,no link
+c9fc0fb0-3fd5-48c7-ad56-8f2d3a7a25e5,567,2025-01-24 15:21:15+00:00,"Increasing inference-time compute improves AI robustness against adversarial attacks, with exceptions.",https://link.alphasignal.ai/WlnLFC
+da41637f-9f4e-4963-9caa-fe61ad1477f4,567,2025-01-24 15:21:15+00:00,no news,no link
+8074f565-add6-40c9-9dd2-de825dff3cbf,567,2025-01-24 15:21:15+00:00,Global-batch load balancing improves MoE model performance and expert specialization over micro-batch balancing.,no link
+3b46d0d8-8688-4dc5-b1bd-0daffc2de73b,567,2025-01-24 15:21:15+00:00,"Speed up data transformations using Pandas UDFs for efficient, vectorized batch processing.",no link
+5436cf8e-461f-4361-9b55-5fd50d21c6ad,569,2025-01-27 15:14:41+00:00,"Alibaba launches Qwen2.5-1M models: Open-source, 7x faster, supports 1M token context length.",https://link.alphasignal.ai/gY5tNt
+69eb08a7-b4bc-40ce-a937-58056bf26445,569,2025-01-27 15:14:41+00:00,"Accurate Speech-to-Text API for transcriptions, insights, and reliable voice-driven tools.",no link
+9bbadec9-ab78-47c4-9a86-8b18af22933b,569,2025-01-27 15:14:41+00:00,Meta AI releases first stable version of Llama Stack with unified API and scalable building blocks for Llama Apps.,https://link.alphasignal.ai/SlCzQO
+7dd2c8a2-c427-4719-b4e2-207575e83139,569,2025-01-27 15:14:41+00:00,no news,no link
+2032d9d0-e3c9-4926-b43a-cac5b8ffe940,569,2025-01-27 15:14:41+00:00,no news,no link
+875039ba-53df-44cf-8ea4-2d23a943703b,569,2025-01-27 15:14:41+00:00,no news,no link
+107d5fe1-62cb-4e0b-8f3c-22ffd6b82772,569,2025-01-27 15:14:41+00:00,no news,no link
+291729bb-2473-4418-a96c-8a43e359786b,569,2025-01-27 15:14:41+00:00,"Hugging Face reproduces DeepSeek-R1: Open-source training, reasoning datasets, and multi-stage RL pipeline.",https://link.alphasignal.ai/ZRZhZE
+4646861c-f830-47d9-a325-da90894a7de9,569,2025-01-27 15:14:41+00:00,OpenAI rolls out Canvas updates in ChatGPT with o1 model support and HTML/React rendering capabilities.,https://link.alphasignal.ai/tQhAVd
+22f41386-f594-48dc-a8b5-2c4173b32f82,569,2025-01-27 15:14:41+00:00,no news,no link
+6f425583-49f1-4462-ad71-c9659eac7f6d,569,2025-01-27 15:14:41+00:00,no news,no link
+dcc1d5f8-7114-4a11-ae86-9d2edb8b6f21,569,2025-01-27 15:14:41+00:00,no news,no link
+84cf2234-6c83-4bac-be00-a0334b6d500f,569,2025-01-27 15:14:41+00:00,"Alibaba introduces VideoLLaMA 3, surpassing traditional methods in video understanding and handling complex, long-form video tasks.",https://link.alphasignal.ai/jR7A7B
+49d0b75b-5a65-4bcc-a155-dd1e107b7663,569,2025-01-27 15:14:41+00:00,no news,no link
+4cbb5198-3690-4653-922c-faff02187035,569,2025-01-27 15:14:41+00:00,"xAI updates Grok with enhanced sports, finance, and location widgets with real-time updates and advanced queries",https://link.alphasignal.ai/0Yc9Ef
+891ce5b7-092c-4869-9d27-3a9384a71b6b,569,2025-01-27 15:14:41+00:00,"DeepSeek-R1 tutorial covers setup, testing, and improving local web research and summarization tasks.",no link
+4df694c2-7ff3-4f95-ab43-6caae5a44d7b,569,2025-01-27 15:14:41+00:00,no news,no link
+f9c0c284-aa67-4d8b-a90c-3238ddd85f56,569,2025-01-27 15:14:41+00:00,Use Smolagents' capabilities to enable web browsing with dynamic image handling and callback integration.,https://link.alphasignal.ai/dV4eAs
+403a1f0a-8d58-407e-ba63-e91b5910b8ed,569,2025-01-27 15:14:41+00:00,no news,no link
+17b07acb-1b80-4385-b025-d64f2cf2d75b,569,2025-01-27 15:14:41+00:00,"Learn a quantitative, research-backed framework for evaluating LLM summaries, focusing on conciseness and coherence.",no link
+f0d978ad-0b43-417a-8671-2bb68d5b50e3,569,2025-01-27 15:14:41+00:00,Set up and run DeepSeek R1 locally using Ollama and Chatbox.,no link
+eaa50f47-5bb6-4545-a2b9-2a037256b77f,572,2025-01-29 16:29:51+00:00,DeepSeek launches an open-source multimodal AI that outperforms DALL-E 3 in in text-to-image tasks.,https://link.alphasignal.ai/UHcJQd
+8bd53bce-326e-4147-8809-43ebe7938e6c,572,2025-01-29 16:29:51+00:00,no news,no link
+409b2831-8b32-4f7a-9074-e0de4ac35686,572,2025-01-29 16:29:51+00:00,Run DeepSeek-R1 securely with optimized performance and compliance in US/EU data centers on Baseten.,no link
+9666b978-4ff2-451b-a6ff-d89a1a0b303f,572,2025-01-29 16:29:51+00:00,"Alibaba releases Qwen2.5-VL, an agentic vision-language model for accurate localization and structured outputs.",https://link.alphasignal.ai/hQia0l
+e375447e-1d6a-4170-a9b4-614a00240db6,572,2025-01-29 16:29:51+00:00,no news,no link
+beeb7d36-cb41-4b86-867e-33ac93777e21,572,2025-01-29 16:29:51+00:00,no news,no link
+b1683908-c6e2-456f-aee2-799645d925ae,572,2025-01-29 16:29:51+00:00,no news,no link
+c2442e4c-5c12-4f42-9bb9-6fae334e398d,572,2025-01-29 16:29:51+00:00,no news,no link
+56c06b62-ff44-443b-b914-f31dd4c55d71,572,2025-01-29 16:29:51+00:00,Perplexity AI integrates DeepSeek R1 into Sonar API for deep web research.,https://link.alphasignal.ai/IfQPUT
+9df718b9-69fe-46ce-b8e0-569056c79eac,572,2025-01-29 16:29:51+00:00,"Nous Research unveils Psyche, coordinating global compute for open-source AI model training at scale.",https://link.alphasignal.ai/ykoxPw
+f6da9eae-e589-49ad-9444-c3284b341f14,572,2025-01-29 16:29:51+00:00,no news,no link
+50c53365-1a60-404e-93c3-0a741e3bfce9,572,2025-01-29 16:29:51+00:00,no news,no link
+94b61c1d-fcd7-4a39-b350-04d71ec0bcf7,572,2025-01-29 16:29:51+00:00,no news,no link
+5ebbaf02-547e-4e51-b6f0-62df11f1e169,572,2025-01-29 16:29:51+00:00,"Hugging Face adds serverless inference providers, simplifying deployment of models like DeepSeek R1 and Llama.",https://link.alphasignal.ai/x8U6Io
+e1f1e23e-4b08-4bc9-9c5a-cf43b36415c1,572,2025-01-29 16:29:51+00:00,no news,no link
+31e27ea3-5fef-4a39-bcf9-c1eb3c0461df,572,2025-01-29 16:29:51+00:00,"Grok powers DeepSeek 70B Distill, delivering faster response times with specialized hardware.",https://link.alphasignal.ai/LfA7I2
+ac7fe2e6-d561-487b-b644-ab5acb8322b5,572,2025-01-29 16:29:51+00:00,"Lead AI engineering at an AI consulting firm—mentor top talent, drive strategy, and build production-grade solutions.",no link
+cf508108-e493-4ae5-94f9-57328bc5f480,572,2025-01-29 16:29:51+00:00,Janus-Pro-7B is a model that improves performance by separating visual processing for text and images.,no link
+f65ef0d5-aef7-46b4-8872-de2bc1cd1510,572,2025-01-29 16:29:51+00:00,no news,no link
+56610440-7289-44aa-9765-4f001ca8aa36,572,2025-01-29 16:29:51+00:00,"Qwen2.5-1M processes up to 1M tokens, excelling in long-context tasks with 7.61B parameters.",https://link.alphasignal.ai/F6AkzF
+7ac09696-e2f6-41a1-acd0-7df23e1fea5b,572,2025-01-29 16:29:51+00:00,no news,no link
+b63671ee-8f9e-4bd4-98fc-8323a77d74a8,572,2025-01-29 16:29:51+00:00,"DeepSeek Coder excels in project-level code completion, trained on 2T tokens with 87% code.",no link
+afce1605-327d-4937-9c58-f4c519aae234,572,2025-01-29 16:29:51+00:00,Convert your PyTorch models into TorchScript to optimize performance and simplify deployment.,no link
+e86d4085-75c0-4db6-812d-c59144165127,573,2025-01-30 16:43:58+00:00,"Alibaba unveils Qwen2.5-Max, a large MoE model trained on 20T tokens, beating DeepSeek V3.",https://link.alphasignal.ai/GoCecz
+6720d006-677c-4446-be77-90c5477d6145,573,2025-01-30 16:43:58+00:00,"Build reliable AI agents with practical frameworks, performance optimizations, and failure point detection.",no link
+42acb6bc-7c77-492e-af0f-9d97cc8a7d76,573,2025-01-30 16:43:58+00:00,"PyTorch releases an update with FP16 support on X86 CPUs, improving AI inference and training performance, previously GPU-only.",https://link.alphasignal.ai/pEYsPu
+7786423b-fbf8-4841-801e-9466cdeb9cf8,573,2025-01-30 16:43:58+00:00,no news,no link
+70c11dc8-e6ac-4abb-992c-b698360df789,573,2025-01-30 16:43:58+00:00,no news,no link
+196efb60-9a1b-47bd-bb6e-4ec080a9f703,573,2025-01-30 16:43:58+00:00,no news,no link
+0843c0d5-af00-4a27-a338-ee9e7511497b,573,2025-01-30 16:43:58+00:00,no news,no link
+61dfdb9f-6d4d-4895-93aa-16bf7390ad98,573,2025-01-30 16:43:58+00:00,"Luma Labs introduces 4K upscaling for Dream Machine, taking video resolution to the next level.",https://link.alphasignal.ai/U0lATM
+0508923f-965d-407f-ab0f-f5d5c0473912,573,2025-01-30 16:43:58+00:00,"Microsoft launches DeepSeek R1 on Azure AI Foundry and GitHub, offering cost-efficient reasoning at scale.",https://link.alphasignal.ai/HMN9fU
+12cd635d-8cd8-463a-896c-595c48b5ad9c,573,2025-01-30 16:43:58+00:00,no news,no link
+9e1e81f3-f483-4360-bf18-1b888ee1770f,573,2025-01-30 16:43:58+00:00,no news,no link
+e6388343-a0f2-4398-9415-98e5854c338f,573,2025-01-30 16:43:58+00:00,no news,no link
+79418f41-a9d1-470b-aba2-cfbf86e6976d,573,2025-01-30 16:43:58+00:00,"Perplexity upgrades market research: Crunchbase, FactSet, and DeepSeek R1 now power enterprise insights.",https://link.alphasignal.ai/bK0WHC
+438c7bfc-6a5e-44ee-8874-bcb68f2800f8,573,2025-01-30 16:43:58+00:00,no news,no link
+7927836c-5733-4534-8ed2-f1ee425434d7,573,2025-01-30 16:43:58+00:00,"Dario Amodei reveals Claude 3.5 cost $10M, highlights export controls' impact on AI geopolitics",https://link.alphasignal.ai/OX8tR7
+5c56e074-54bc-4624-ad51-fc816ba1c84f,573,2025-01-30 16:43:58+00:00,"Build a PDF-querying AI chatbot using DeepSeek, LangChain, and Streamlit for real-time responses.",no link
+fb1f6c6c-fdfe-45ac-94b5-4ea2f621c6d5,573,2025-01-30 16:43:58+00:00,no news,no link
+2c33fea6-2c6c-4e62-a340-7d53d5af23d5,573,2025-01-30 16:43:58+00:00,"Master reinforcement learning fundamentals, algorithms, and applications through hands-on assignments and deep RL techniques.",https://link.alphasignal.ai/vU8W7E
+e123e17c-0673-40a9-a5a6-d3d52c1620b5,573,2025-01-30 16:43:58+00:00,no news,no link
+cb9343d3-29d5-49a7-8c9d-69aa20bad203,573,2025-01-30 16:43:58+00:00,Learn to implement agent and workflow patterns with LangGraph for efficient AI system development.,no link
+8e7a05ff-9308-4349-92be-42c961ef4ba5,573,2025-01-30 16:43:58+00:00,U.S. Copyright Office clarifies AI-generated works: requires human authorship for copyright protection.,https://link.alphasignal.ai/VSz4vQ
+abdee2e7-7f3b-4a6c-9ca0-f7de12c7e775,574,2025-01-31 15:24:14+00:00,"Mistral AI unveils Mistral Small 3, a 24B model rivaling 3x larger Llama 3.3 and GPT-4o mini in latency and performance.",https://link.alphasignal.ai/pMksY5
+0999844a-76fc-4b49-af7b-ae7c0ba901db,574,2025-01-31 15:24:14+00:00,"Run cost-effective AI inference with Lambda’s API, featuring no rate limits, top models, and pay-as-you-go pricing.",no link
+082af52a-0da2-4bb2-8f53-cb42bd69eb40,574,2025-01-31 15:24:14+00:00," AI2 releases Tülu 3 405B, an open 405B model outperforming DeepSeek V3 and GPT-4o in benchmarks.",https://link.alphasignal.ai/HFimY4
+9cebc041-b271-47eb-a9c6-fa8351a3f22b,574,2025-01-31 15:24:14+00:00,no news,no link
+c95dcddc-19b2-418e-a086-52471b382a1e,574,2025-01-31 15:24:14+00:00,no news,no link
+ed80456d-300c-4b54-abd9-2ac28b8945f6,574,2025-01-31 15:24:14+00:00,no news,no link
+b957a7d3-39a8-4e9e-93d0-caae214c0f2d,574,2025-01-31 15:24:14+00:00,no news,no link
+6928c175-aed5-48b0-be21-c4918a22b219,574,2025-01-31 15:24:14+00:00, NVIDIA introduces DeepSeek-R1 on NIM microservice for scalable agent deployments and reasoning.,https://link.alphasignal.ai/Sc2rBj
+1e4b5e22-ebc6-4d4f-b343-65119ae5f28f,574,2025-01-31 15:24:14+00:00,"Andrej Karpathy compares LLM training to textbook learning, emphasizing the importance of practice problems.",https://link.alphasignal.ai/LONp8g
+f042114a-1984-4290-be34-67058ff054b2,574,2025-01-31 15:24:14+00:00,no news,no link
+19267c3b-8782-4ef3-bc33-cf863b0956e4,574,2025-01-31 15:24:14+00:00,no news,no link
+6121fe80-0f58-4231-83ed-e7b801830b48,574,2025-01-31 15:24:14+00:00,no news,no link
+ccccbd30-0bc0-4c5f-b94d-3b0bb5967fac,574,2025-01-31 15:24:14+00:00,"Andrew Ng discusses DeepSeek-R1's impact on AI, highlighting cost-effective open-weight models.",https://link.alphasignal.ai/MIpog0
+37fe62f6-fa16-4ca5-9ca0-683372e596f9,574,2025-01-31 15:24:14+00:00,no news,no link
+5799eaba-09fa-47a4-a100-24b3cda1621b,574,2025-01-31 15:24:14+00:00,"Google rolls out Gemini 2.0 Flash in the Gemini app, offering faster responses and enhanced performance across key benchmarks.",https://link.alphasignal.ai/wqxyUG
+71577711-acc4-4172-a323-e258fb920293,574,2025-01-31 15:24:14+00:00,DeepSeekMath enhances mathematical reasoning in open models using optimized training techniques.,no link
+edd0f387-92b8-47ec-b3a0-4fb730c06789,574,2025-01-31 15:24:14+00:00,no news,no link
+a7b3fa47-cb17-4d17-b4c1-3a6cc4a1cd5f,574,2025-01-31 15:24:14+00:00,"Learn-by-Interact enables LLM agents to self-adapt using synthetic interaction data, improving performance.",https://link.alphasignal.ai/2PWFI9
+091786b0-9ede-4513-8244-aa57a737e647,574,2025-01-31 15:24:14+00:00,no news,no link
+6bc66bb5-99d0-407b-b5a1-426874948c9d,574,2025-01-31 15:24:14+00:00,"ReSTEM enhances LMs using self-training with binary feedback, reducing reliance on human data.",no link
+2accffb2-d893-4173-bdd8-89bad18c4bc3,574,2025-01-31 15:24:14+00:00,"Use joblib.Memory to cache computations and avoid redundant calculations, improving efficiency.",no link
+42e2bea4-3d93-4c88-946e-7410f0bca403,576,2025-02-03 18:08:26+00:00,OpenAI introduces o3-mini: cost-efficient reasoning model with faster responses and structured output,https://link.alphasignal.ai/0o3hwA
+5fb2167c-2fe6-4212-8baf-07bf21ef0a29,576,2025-02-03 18:08:26+00:00,Alibaba updates Qwen Chat: new Qwen2.5-Plus model with expanded input and flexible modes.,https://link.alphasignal.ai/pbwIQB
+c5280e35-e2e3-4abc-9f40-c0237c8c1e5f,576,2025-02-03 18:08:26+00:00,OpenAI launches an AI agent synthesizing web sources into detailed reports in under 30 mins.,https://link.alphasignal.ai/1VHL3X
+6ce36502-3855-4994-b05d-5f50e097cca2,576,2025-02-03 18:08:26+00:00,no news,no link
+4ff7f25c-7b77-468e-83a3-f2997d2a73bf,576,2025-02-03 18:08:26+00:00,Google DeepMind publishes a new paper explaining why reinforcement learning outperforms supervised fine-tuning for model generalization.,https://link.alphasignal.ai/5xal5F
+1b10dec5-8280-4c99-b13c-7f1a9222f0c7,576,2025-02-03 18:08:26+00:00,"NVIDIA releases Eagle2-9B, an open VLM achieving SOTA multimodal results with open data transperancy.",https://link.alphasignal.ai/QAI6YO
+bc7f69c0-b9ae-43f9-80d3-7d984ff1b19e,576,2025-02-03 18:08:26+00:00,Meta AI proposes EvalPlanner: A new preference optimization algorithm for LLM-as-a-Judge models.,https://link.alphasignal.ai/NgPTBg
+706ce1fb-dbcc-4df8-9ff1-ea7c1c1125a4,576,2025-02-03 18:08:26+00:00,Learn to implement five workflow and agent patterns from Anthropic’s blog using LangGraph.,no link
+b35c248c-53d1-4c37-8c0f-56b2be77ba57,576,2025-02-03 18:08:26+00:00,Reduce DeepSeek R1's size by 80% while maintaining performance and efficiency.,https://link.alphasignal.ai/FEbozB
+e9b3f3db-851d-4be2-8243-7a506887a4cd,576,2025-02-03 18:08:26+00:00,no news,no link
+d04e3fb4-a828-4158-b5b2-a39411a6b093,576,2025-02-03 18:08:26+00:00,"In this tutorial by Hugging Face learn to build AI apps with Gradio, including text summarization, image captioning, and LLM chat.",no link
+3b75330f-9082-4383-83a7-169ba024727e,576,2025-02-03 18:08:26+00:00,Build an AI tutor using ChromaDB and Groq for dynamic English lessons.,no link
+c2720455-feb6-4b83-b62d-8db4b82f10d9,581,2025-02-06 15:15:19+00:00,Google introduces Gemini 2.0 Flash-Lite for cost-effective multimodal AI and 2.0 Pro with 2M tokens for production applications.,https://link.alphasignal.ai/ZyBtQC
+be6e22d3-541f-4cd0-afd9-279ffaad50e4,581,2025-02-06 15:15:19+00:00,"Andrej Karpathy releases new 3 hour video explaining LLM training stack discussing topics like Llama 3.1 examples, Hallucinations, and RLHF.",https://link.alphasignal.ai/q4NAum
+14bbd08e-4e2a-4a0e-9f39-9b7aeb5fb5ca,581,2025-02-06 15:15:19+00:00,"ByteDance unveils OmniHuman-1, generating realistic human videos from a single image and audio.",https://link.alphasignal.ai/WFsApr
+79709011-819c-4ac7-8b7c-c90141582a50,581,2025-02-06 15:15:19+00:00,no news,no link
+a1c35724-571a-442f-9e37-ac368a7ae92e,581,2025-02-06 15:15:19+00:00,Anthropic invites everyone to test its new safety classifier that eradicates jailbreaks and further increases Claude's over-refusal rate.,https://link.alphasignal.ai/BCYc4H
+dbd4e186-7868-4ace-8250-e128d435f282,581,2025-02-06 15:15:19+00:00,"OpenAI rolls out ChatGPT search for everyone: instant access, no sign-up needed.",https://link.alphasignal.ai/XoYytD
+cf4af4a7-2016-419e-8962-095f5186f7aa,581,2025-02-06 15:15:19+00:00,"Hugging Face challenges OpenAI’s Deep Research with an open-source alternative, beating previous SOTA by 9 points.",https://link.alphasignal.ai/NgPTBg
+24febbe6-3a3f-4815-b0c7-d395f7c464a4,581,2025-02-06 15:15:19+00:00,"In this course by Deeplearning.ai, understand transformer LLM components, tokenization, attention mechanisms, and recent advancements like MoE and KV cache.",no link
+c285c31e-7abf-438c-8b49-217bd3f16ad3,581,2025-02-06 15:15:19+00:00,"Compare LangGraph, CrewAI, and OpenAI Swarm frameworks for building agentic applications with hands-on examples.",https://link.alphasignal.ai/qejmzR
+607ac885-dc7e-4535-b0bd-e12a236167b6,581,2025-02-06 15:15:19+00:00,"Learn how to scale LLMs on TPUs, optimize parallelism, and efficiently manage training and inference.",https://link.alphasignal.ai/EBzeFt
+a95c1098-13df-43a6-b61e-570ed47d5176,581,2025-02-06 15:15:19+00:00,"A step by step overview explaining explains how to design, build, and scale reliable AI agents using LLMs, tools, and memory strategies.",no link
+260a154d-826d-4c05-a517-797364a17a1b,584,2025-02-07 19:31:29+00:00,"Mistral AI brings Le Chat to iOS, Android, and enterprise with web search and automation tools.",https://link.alphasignal.ai/Z6dVYR
+0bb37e62-4df1-40fe-aaef-5e9e5b25d06e,584,2025-02-07 19:31:29+00:00,Andrew Ng presents Agentic Object Detection: human-like object recognition via text-driven reasoning.,https://link.alphasignal.ai/Yrwvxf
+397024bb-061c-4b39-af72-9c4d1e22932d,584,2025-02-07 19:31:29+00:00,"GitHub upgrades Copilot with agent mode, multi-file edits, and an upcoming autonomous coding agent.",https://link.alphasignal.ai/UF6bj7
+0c2cf5c3-c45a-496e-b3dd-c8ef1d8b6c46,584,2025-02-07 19:31:29+00:00,"Google releases Imagen 3 in Gemini API: high quality, watermarked image generation with improved prompt adherence.",https://link.alphasignal.ai/pE0RTm
+e475a46f-8450-4236-a684-4d68ce228f95,584,2025-02-07 19:31:29+00:00,"OpenAI refines CoT reasoning in O3-Mini models, expanding visibility.",https://link.alphasignal.ai/stKaZF
+c9d81c81-52c6-4d46-a0ad-fb99cdd3b41b,584,2025-02-07 19:31:29+00:00,Pika Labs launches Pikadditions: add any object or person to any video with ease.,https://link.alphasignal.ai/qcV4LG
+a64efe2e-d573-4842-baab-4f20ab0179b2,584,2025-02-07 19:31:29+00:00,"Google AI's AlphaGeometry2 surpasses gold medalists in Olympiad geometry, improving problem coverage and solving rates.",no link
+6e4b6c27-09e6-42df-93e1-da52c9c47ea6,584,2025-02-07 19:31:29+00:00,"s1-32B improves test-time scaling with budget forcing, boosting math reasoning and competition scores.",https://link.alphasignal.ai/lKJLbL
+b33e9a21-7bad-41b6-8aef-c6af48fccb69,584,2025-02-07 19:31:29+00:00,"Multi-agent system reduces AI hallucinations using structured reviews, NLP-based coordination, and new KPIs.",https://link.alphasignal.ai/KDRgwL
+4ceb25a0-db85-4748-871b-7d23f2f386b8,584,2025-02-07 19:31:29+00:00,How to generate high-quality images with Imagen 3 using the Gemini API.,no link
+2d84b295-f673-4750-8f53-18199434798e,587,2025-02-10 16:38:08+00:00,"OpenAI’s Sam Altman outlines AI trends: AI’s scaling limits, cost reduction, and the future of autonomous agents.",https://link.alphasignal.ai/t52b0i
+2fd4c42c-d47f-4c15-b1a4-07f73d9fd114,587,2025-02-10 16:38:08+00:00,"Perplexity unlocks 1M token context, file & image support for free users in “Auto” mode.",https://link.alphasignal.ai/Lz7FJo
+b4bd4ed9-397d-43c2-91ef-7e1036ceeaac,587,2025-02-10 16:38:08+00:00,"Harvard releases 311K datasets from Data.gov (16TB), updated daily for open access.",https://link.alphasignal.ai/0iMGqD
+dab1f435-bb92-4d59-95ab-3e31831aaffc,587,2025-02-10 16:38:08+00:00,"Apple introduces ELEGNT, a framework for expressive, natural movement in non-humanoid robots.",https://link.alphasignal.ai/e8XKqU
+b681b654-69bd-4988-bf70-056dd9937167,587,2025-02-10 16:38:08+00:00,Hugging Face publishes the first open-source robotics foundation models for real-world applications.,https://link.alphasignal.ai/8Pd3ea
+0db65555-c57b-47dc-9995-a7ee77a7f6eb,587,2025-02-10 16:38:08+00:00,"Postman unveils AI Agent Builder, making API discovery, integration, and management 10x easier.",https://link.alphasignal.ai/BSiavo
+d003dec7-a27d-4df1-bb42-3442ca0e6b0f,587,2025-02-10 16:38:08+00:00,"Transcribe speech accurately with AssemblyAI’s API, handling punctuation and speaker diarization securely at scale.",https://link.alphasignal.ai/V41Ddg
+949d6ce8-a665-4625-be0c-c8f170a823df,587,2025-02-10 16:38:08+00:00,"Deploy and fine-tune DeepSeek-R1 models on AWS using Hugging Face with GPUs, SageMaker, and EC2 Neuron.",no link
+91b2cd3c-7bd5-45aa-a80e-e2a3b1771d9b,587,2025-02-10 16:38:08+00:00,"Turn any OpenAPI spec into an MCP-based assistant that can call API endpoints automatically, no custom code needed.",https://link.alphasignal.ai/HZV8ZJ
+4e38eec3-bf6c-4db2-ba25-9e9b58b55169,587,2025-02-10 16:38:08+00:00,"Convert PDFs into structured JSON with Gemini 2.0. Set up the SDK, process files, manage tokens, and extract data.",https://link.alphasignal.ai/0OXjdN
+fe9621e8-961d-4688-a15a-cb109c97c658,587,2025-02-10 16:38:08+00:00,Automate GitHub PRs in seconds using DeepSeek’s r1 with Groq and the GitHub API.,https://link.alphasignal.ai/TuDX7A
+b5aa5c05-5145-488d-bfdc-027bf6de5681,606,2025-02-13 17:10:49+00:00,Sam Altman reveals OpenAI’s plan to merge o-series into GPT-5 for dynamic intelligence.,https://link.alphasignal.ai/M44tqs
+6912172b-a31c-4790-a996-3a6f0919c056,606,2025-02-13 17:10:49+00:00,"A comprehensive guide to build reliable AI agents with practical frameworks, performance optimizations, and failure point detection.",https://link.alphasignal.ai/UuNy4J
+8c0403af-9206-4dda-adfa-845edec3f968,606,2025-02-13 17:10:49+00:00,Luma AI upgrades Dream Machine with Ray2: Generate realistic videos from images with lifelike motion.,https://link.alphasignal.ai/K6e7up
+a06396a9-e2b8-4dfb-8232-3cce0740102d,606,2025-02-13 17:10:49+00:00,OpenAI expands ChatGPT capabilities: File & image uploads now in o1 and o3-mini.,https://link.alphasignal.ai/pkV99w
+3236ee14-6bc3-4f3a-b06f-2906dbf384a7,606,2025-02-13 17:10:49+00:00,"Perplexity releases Sonar, a Llama 3.3 70B model 10x faster than Gemini Flash, rivals GPT-4o in accuracy.",https://link.alphasignal.ai/gKLTuD
+f451c5ae-436e-4b04-a0fe-152b2af30b02,606,2025-02-13 17:10:49+00:00,"Google Deepmind unveils Gemini 2.0 Flash as the leader in LM Arena’s cost-performance benchmark, an open LLM evaluation platform.",https://link.alphasignal.ai/qPxq3y
+049fc53a-9519-455e-ab75-93886b8193b6,606,2025-02-13 17:10:49+00:00,Anthropic launches Economic Index to track AI’s impact on jobs and task automation.,https://link.alphasignal.ai/YuS7CC
+5475d384-3379-404e-86ee-0a5e90bdf388,606,2025-02-13 17:10:49+00:00,"AnythingLLM helps you build a private, self-hosted chatbot using any document as context.",no link
+aac2343f-f734-4325-976d-eb40737f18f7,606,2025-02-13 17:10:49+00:00,Browser-use helps you automate browser interactions using AI agents.,https://link.alphasignal.ai/od68YD
+012ad2e4-0362-47bf-9e60-64ab818c98aa,606,2025-02-13 17:10:49+00:00,GPT Researcher helps you automate web and local research using autonomous AI agents.,https://link.alphasignal.ai/5P1K38
+cb3581a3-e94a-4fbc-9971-b7c52578c948,606,2025-02-13 17:10:49+00:00,"Learn the attention mechanism in transformers and implement self-attention, masked attention, and multi-head attention in PyTorch.",https://link.alphasignal.ai/UyVlCQ
+698df24f-018d-4c0a-b98e-9296e8514e50,608,2025-02-14 16:38:18+00:00,"OpenAI unveils Model Spec update to refine AI behavior, enforce factual accuracy, and ensure platform-wide consistency.",https://link.alphasignal.ai/zfjgTH
+b81170a8-8fb9-44b0-997b-9214a5931a08,608,2025-02-14 16:38:18+00:00,"Andrew Ng's open source framework integrates DeepSeek R1 models, making it easier to test and deploy new reasoning models.",https://link.alphasignal.ai/2KY67M
+bfc9f0b1-88dd-40a4-b96c-a055d84db11e,608,2025-02-14 16:38:18+00:00,"Nous Research introduces DeepHermes-3, a user-controlled reasoning LLM that excels in math and GPQA benchmarks.",https://link.alphasignal.ai/viR4lz
+e44d0f53-3600-4068-bdc7-4e24fdaa3eb1,608,2025-02-14 16:38:18+00:00,no news,no link
+91a528af-a5f2-4b58-bc50-8eb642867cc8,608,2025-02-14 16:38:18+00:00,"Google adds past chat recall in Gemini Advanced, enabling smarter responses, better context retention, and enhanced chat privacy controls.",https://link.alphasignal.ai/p9BmMk
+2a653229-953a-44bd-ab6a-4e78d854d96a,608,2025-02-14 16:38:18+00:00,"ByteDance and HKU presents Goku AI, a unified model for top-tier image and video generation.",https://link.alphasignal.ai/UCQVz6
+0eb47e4a-81f4-4a35-a7da-2f85fd7fdda0,608,2025-02-14 16:38:18+00:00,"Codeium launches Windsurf Wave 3: boosts AI editing with tab-to-jump, automated commands, and image drag-and-drop.",https://link.alphasignal.ai/mT4Hgj
+821800ff-0e63-4fe3-8374-45320c4b9a11,608,2025-02-14 16:38:18+00:00,"DeepScaleR-1.5B-Preview is a a1.5B parameter model using RL to solve math problems, surpassing OpenAI’s O1-Preview on AIME 2024.",no link
+67cec52a-a663-4fd6-8573-7e8e6db80595,608,2025-02-14 16:38:18+00:00,"Zonos-v0.1 generates natural speech from text, cloning voices with just seconds of audio across multiple languages.",https://link.alphasignal.ai/h4jaqO
+b655a5dd-43e4-4c63-bd4f-14858ed1ac35,608,2025-02-14 16:38:18+00:00,no news,no link
+7162c5b9-e654-4041-8ddb-9f722811e704,608,2025-02-14 16:38:18+00:00,"Nomic Embed Text V2 is a multilingual MoE embedding model with SoTA retrieval performance, supporting 100+ languages.",no link
+785fdaf0-162e-4baf-8c9c-9cbb7a93d237,608,2025-02-14 16:38:18+00:00,"Learn best practices for using o-series models, when to choose them, and how to prompt effectively.",https://link.alphasignal.ai/zmSf5c
+a98698fe-f681-4c80-b0e7-ebe2e1862db2,616,2025-02-20 17:46:22+00:00,Google introduces AI Co-Scientist: a multi-agent system for research automation.,https://link.alphasignal.ai/1OkCQ0
+e5317c6f-d09f-4c15-bffa-0ad06717f693,616,2025-02-20 17:46:22+00:00,xAI offers free access to Grok 3 for a limited time with new features like DeepSearch and Think mode.,https://link.alphasignal.ai/ycATBw
+331bf2e6-5b83-4b4c-b96b-12e0ee6e2604,616,2025-02-20 17:46:22+00:00,Perplexity open-sources an AI model which maintains DeepSeek R1's performance while removing built-in censorship.,https://link.alphasignal.ai/mwrpFQ
+bf3a362a-fb81-4a36-8190-91c046a42ab2,616,2025-02-20 17:46:22+00:00," Microsoft introduces Majorana 1, the first quantum chip powered by topoconductors; a major step toward practical, large-scale quantum computing.",https://link.alphasignal.ai/CyhoI4
+40692da6-2119-4108-9e1e-8ed049cb5679,616,2025-02-20 17:46:22+00:00,"GitHub launches GPT-4o Copilot model for VS Code, offering smarter code suggestions across 30+ languages.",https://link.alphasignal.ai/Cp0dro
+9dd3b303-8274-46a9-af92-9389b8327a66,616,2025-02-20 17:46:22+00:00,Sakana AI releases AI CUDA Engineer which automates CUDA kernel optimization with up to 100x speedup.,https://link.alphasignal.ai/UKERUJ
+551506a3-ce20-4596-a8a0-7053e55d807a,616,2025-02-20 17:46:22+00:00,"Learn app development with OpenAI o1-Pro, using a 6-prompt system and essential tool setups.",no link
+c983c74b-42bc-4aad-aaca-3a042565687c,616,2025-02-20 17:46:22+00:00,"A Hugging Face book on advanced techniques for scaling LLMs, including parallelism, CUDA optimization, and efficient training methods.",https://link.alphasignal.ai/2di69v
+a1bbdd69-91a8-448c-bc0e-e9a505f829e1,616,2025-02-20 17:46:22+00:00,no news,no link
+763fd4ae-1633-4205-ba7c-dca0e775eef0,616,2025-02-20 17:46:22+00:00,Microsoft's free 10-lesson course teaches core AI agents concepts and production deployment.,no link
+728d90be-712e-4c0d-9c5d-58ba04dec2c4,616,2025-02-20 17:46:22+00:00,"Satya Nadella discusses AI, AGI skepticism, economic growth, quantum computing, AI pricing, gaming models, and legal challenges.",https://link.alphasignal.ai/VBcD9l
+9faa8743-fc78-4448-a84e-0afe03d57b08,623,2025-02-24 18:07:45+00:00,DeekSeek AI rolls out FlashMLA for more efficient transformer decoding with better memory use on NVIDIA's Hopper GPUs.,https://link.alphasignal.ai/AC9d8U
+a0015d75-80b9-4fb6-8e88-1846fd8d4ff8,623,2025-02-24 18:07:45+00:00,"Learn how RAGSys, a real-time fine-tuning engine, improves LLM performance with feedback, KPI-driven retrieval, and adaptive learning.",https://link.alphasignal.ai/sjJhxr
+2cab6553-aa6c-434f-85e2-40ad52248e82,623,2025-02-24 18:07:45+00:00,"OpenAI expands Operator's global access, automating browser tasks in Australia, Canada, India, and most places where ChatGPT is available.",https://link.alphasignal.ai/StlhsZ
+3204858e-706d-4a4d-b2f0-e7f5ce04d895,623,2025-02-24 18:07:45+00:00,"Codium introduces DeepSeek-V3 in its agentic IDE, now available with no prompt or action credits.",https://link.alphasignal.ai/MBKLjt
+c3ff6b09-b1d4-459a-a2ff-a9cf15a44f5c,623,2025-02-24 18:07:45+00:00,"Alibaba releases Qwen2.5-VL tech report and AWQ quantized Qwen2.5-VL models in 3B, 7B, and 72B sizes for optimized performance.",https://link.alphasignal.ai/uA4f06
+dd11436d-b361-4722-b655-c75e24ec6c77,623,2025-02-24 18:07:45+00:00,Pika Labs launches Pikaswaps: replace any item or character in videos using images or text prompts.,https://link.alphasignal.ai/rHLK2v
+7f659b5e-5beb-463c-98b9-baab6c487d00,623,2025-02-24 18:07:45+00:00,Google adds file support in Gemini: upload & analyze documents for summaries and feedback.,https://link.alphasignal.ai/xnwWhk
+2fa1799e-3a66-447c-be2e-63386fdb99cf,623,2025-02-24 18:07:45+00:00,"Build and run a deep research agent with LangGraph Studio, customize configurations, compare architectures, and analyze costs.",no link
+304f95de-9545-45a2-aae6-1faef1a7aea5,623,2025-02-24 18:07:45+00:00,Learn to build and deploy a Brick Breaker game in 3 minutes using Grok-3 and Replit.,https://link.alphasignal.ai/Q9wbmS
+49a35b49-605d-4768-9b90-bb45c16e0f0f,623,2025-02-24 18:07:45+00:00,no news,no link
+ed3eae0e-e673-44fc-874e-276ce41e90aa,623,2025-02-24 18:07:45+00:00,"Learn to transcribe typed, handwritten text, and forms with Claude 3, converting unstructured data to JSON.",no link
+42e13bbb-b4c5-4dba-b3de-cfd54cfc868b,623,2025-02-24 18:07:45+00:00,Build a multi-agent financial analyst using CrewAI and SambaNovaAI for stock data analysis and visualization.,no link
+62810bd9-8950-428f-a17f-29845d8fc645,625,2025-02-25 15:41:46+00:00,"Anthropic introduces Claude 3.7 Sonnet, an AI model excelling in coding and reasoning tasks and a command line tool for agentic coding.",https://link.alphasignal.ai/DEvoyX
+0ed33fce-f911-4f69-893a-a78867b85148,625,2025-02-25 15:41:46+00:00,"Join the Nebius AI Neocloud Meetup and discover the most efficient way to build, tune and run AI models and applications on NVIDIA GPUs.",https://link.alphasignal.ai/bDFxfK
+eb0f7646-b7b3-4f30-949d-45cc3f379c8c,625,2025-02-25 15:41:46+00:00,"Luma Labs launches Video to Audio in Dream Machine, enabling easy synced audio generation for video outputs.",https://link.alphasignal.ai/ZVHZw5
+de9a982f-bf8e-4d67-a79c-32f2774c7900,625,2025-02-25 15:41:46+00:00,DeepSeek releases first open-source EP communication library for MoE model training and inference on Day 2 of its open source week.,https://link.alphasignal.ai/8wwUtk
+c9ae9a21-5b01-407a-b965-f24cbc2a0d74,625,2025-02-25 15:41:46+00:00,"Alibaba unveils ""Thinking (QwQ), enhancing Qwen Chat with deep reasoning, math, and coding capabilities.",https://link.alphasignal.ai/jT3QhJ
+0b8bbb36-9392-459f-aa60-a5ed603f3947,625,2025-02-25 15:41:46+00:00,"Google AI Studio now supports branching chats, letting you explore multiple ideas in parallel.",https://link.alphasignal.ai/EgytZ5
+d3824ba9-4d15-4fd3-944f-61eb924dc625,625,2025-02-25 15:41:46+00:00,"Fiddler AI hosts webinar to explore how GenAI enhances healthcare workflows, safeguards data, and ensures regulatory compliance.",https://link.alphasignal.ai/IjN8Pf
+a98a86ce-d77e-4298-ba3b-3fd6830bfc5c,625,2025-02-25 15:41:46+00:00,Learn how real-time fine-tuning helps LLMs continuously improve and align with your business goals.,https://link.alphasignal.ai/h1Dpai
+ff0bea11-749d-4e49-b4c3-bb0a0f550821,625,2025-02-25 15:41:46+00:00,MetaGPT uses multiple GPTs to work together and automate complex software development tasks.,no link
+8f7a8d3c-4e78-4ef2-ab39-a37224e97037,625,2025-02-25 15:41:46+00:00,Docmost is a real-time collaborative wiki and documentation tool for teams and projects.,https://link.alphasignal.ai/1w8LNW
+33eea3ea-e298-4175-b4ae-5718b59ea23f,625,2025-02-25 15:41:46+00:00,no news,no link
+a6709dba-bc92-4950-b1b5-1413eea5d9cb,625,2025-02-25 15:41:46+00:00,"GenAI_Agents offers tutorials and implementations for building GenAI agents, from beginner to advanced levels.",no link
+9470be5e-9c50-49a4-9518-ab9591e545ee,625,2025-02-25 15:41:46+00:00,"Learn to design, implement, and evaluate AI agents using top frameworks in this Hugging Face course.",https://link.alphasignal.ai/86EV03
+9f0386c8-d386-490f-ac5a-a4cc7352047c,628,2025-02-26 17:23:23+00:00,"Google unveils Gemini Code Assist, enabling automated code reviews across VSCode, JetBrains, and GitHub for free.",https://link.alphasignal.ai/HXlL51
+a594f517-f29d-447b-ae90-ba3866a06962,628,2025-02-26 17:23:23+00:00,Automate multimodal data labeling and workflows with Encord Data Agents—now 60x faster.,https://link.alphasignal.ai/CjYuaE
+b188bd93-c53a-44f6-9971-fd4ec5440dfb,628,2025-02-26 17:23:23+00:00,"OpenAI rolls out Deep Research to ChatGPT Plus, Team, and Enterprise with 120 queries/month for Pro, releases system card.",https://link.alphasignal.ai/gD0gtU
+3f736127-d855-49b5-aee2-3aa2386ae683,628,2025-02-26 17:23:23+00:00,"Anthropic debuts “Claude Plays Pokémon” on Twitch, showcasing Claude 3.7 Sonnet’s real-time gameplay.",https://link.alphasignal.ai/hjNiAP
+22d8542b-2076-4282-99a5-a12b2077e728,628,2025-02-26 17:23:23+00:00,"DeepSeek open-sources DeepGEMM, a library that helped optimize V3/R1 training and inference on NVIDIA's Hopper GPUs.",https://link.alphasignal.ai/Mdl8p2
+12b85507-f842-4be8-9596-dbf7feb0afc1,628,2025-02-26 17:23:23+00:00,"Alibaba releases Wan2.1, an open-source video generation model, achieving 2.5x faster generation than OpenAI's Sora.",https://link.alphasignal.ai/0OGq7P
+d5495e23-6345-4a48-91e4-e179a78d687b,628,2025-02-26 17:23:23+00:00,NVIDIA presents DeepSeek-R1 optimizations delivering 25x revenue with 20x lower token costs.,https://link.alphasignal.ai/01IU9j
+1c162573-43f4-4330-9efc-03e6055d665d,628,2025-02-26 17:23:23+00:00,Learn how real-time fine-tuning helps LLMs continuously improve and align with your business goals.,https://link.alphasignal.ai/h1Dpai
+cc4ec2ed-86ba-41de-9089-fbe79e72f5bc,628,2025-02-26 17:23:23+00:00,"R1-1776 is Perplexity's post-trained DeepSeek-R1 model with 671B parameters, removing censorship while preserving reasoning.",no link
+b8de5fdf-fa90-48b9-8d19-a4209a4ff83c,628,2025-02-26 17:23:23+00:00,"Wan2.1 generates high-quality 480P/720P videos from text, images, and video edits on consumer GPUs.",https://link.alphasignal.ai/PyKnTl
+720a0768-29ef-454a-b4b4-c2df09532040,628,2025-02-26 17:23:23+00:00,no news,no link
+9287e538-fe59-494a-aee2-6ccad6d9c53f,628,2025-02-26 17:23:23+00:00,"SkyReels V1 generates human-centric videos from images, featuring advanced facial animation and cinematic scene understanding.",no link
+ad92b757-96b2-422e-bf20-ca33e18ad44a,628,2025-02-26 17:23:23+00:00,"The guide helps PyTorch users transition to JAX, focusing on performance, modularity, and functional programming.",https://link.alphasignal.ai/86EV03
+b7f85a64-0ecd-4b21-a93c-43ea4e31e28b,629,2025-02-27 15:45:37+00:00,"Amazon unveils Alexa+, an AI assistant orchestrating 10,000+ services for autonomous multi-step tasks.",https://link.alphasignal.ai/ZkkK1Y
+9e6e2395-fd64-4d36-9aab-edbd81fd8476,629,2025-02-27 15:45:37+00:00,"OpenAI rolls out GPT-4o mini-powered Advanced Voice to free ChatGPT users, offering daily access across platforms.",https://link.alphasignal.ai/LwWeIV
+b52046c4-b958-4043-b88b-6ae9dd159c48,629,2025-02-27 15:45:37+00:00,"ElevenLabs launches Scribe, the most accurate speech-to-text model with multi-speaker and timestamp support.",https://elevenlabs.io/blog/meet-scribe
+d963c9aa-71d9-468e-9967-45d1942e0bac,629,2025-02-27 15:45:37+00:00,"DeepSeek AI releases a method to eliminate pipeline inefficiencies, while maintaining 95% GPU utilization for LLMs.",https://link.alphasignal.ai/0vu1x3
+1a760fc7-0cd5-446b-ab95-4f8f0307b397,629,2025-02-27 15:45:37+00:00,Perplexity updates its app with voice mode for real-time search and direct result navigation.,https://link.alphasignal.ai/KYzyaY
+358b3aaa-15cb-4659-b108-1e1e8243a207,629,2025-02-27 15:45:37+00:00,"Allen AI presents olmOCR, an open-source PDF text extractor running at 3000 tokens/s on your GPU.",https://link.alphasignal.ai/cwOHus
+59ac6bcf-b039-4139-bca1-3473c3090ceb,629,2025-02-27 15:45:37+00:00,"Transcribe speech in under a second with 90+% accuracy with Speechmatics’ API—power AI assistants, live captions, and automation.",https://link.alphasignal.ai/jmEtm7
+a2cc809e-fc3b-4b57-99d1-e8653b5cd994,629,2025-02-27 15:45:37+00:00,"Learn to evaluate and improve AI agent performance through observability, testing, and structured experimentation.",no link
+51158778-2ff3-44da-ab43-b0e60d47e38a,629,2025-02-27 15:45:37+00:00,"Implement LLMs from scoping to deployment, addressing challenges and optimizing workflows for efficient applications.",https://link.alphasignal.ai/5SOyiL
+da78024c-afe3-42ee-ae4d-fbaccb44be34,629,2025-02-27 15:45:37+00:00,no news,no link
+4abd8d1c-9222-4c82-a08e-cc7aca9cd898,629,2025-02-27 15:45:37+00:00,Automate Jira project management with Gemini 2.0 and Crew AI for efficient data extraction and updates.,no link
+fc53b46e-3305-432c-b44b-6b5e80894da8,629,2025-02-27 15:45:37+00:00,Learn to build an app with Claude 3.7 Sonnet.,https://link.alphasignal.ai/exY63a
+d303ecfc-7e3d-40a0-b00f-d083d4bedf61,632,2025-02-28 16:43:16+00:00,"OpenAI announces GPT-4.5, a model with expanded knowledge, better user intent understanding, and enhanced emotional intelligence.",https://link.alphasignal.ai/Rf6gGA
+1bbe0016-b818-45cd-8937-5c47037bcd4c,632,2025-02-28 16:43:16+00:00,"Search, analyze, and extract insights from multi-modal data with Activeloop AI Knowledge Agents.",https://link.alphasignal.ai/Kfa2ss
+4dd6e736-76d2-4f71-89b6-d33ee96fa4ed,632,2025-02-28 16:43:16+00:00,"Andrej Karpathy publishes a new video on YouTube, offering a practical guide to LLMs and their ecosystem.",https://link.alphasignal.ai/EqNbXm
+2cd76859-f551-480c-8469-19c91039c93e,632,2025-02-28 16:43:16+00:00,"Andrew Ng unveils Agentic Document Extraction, a new approach improving PDF analysis by extracting meaning beyond simple text.",https://link.alphasignal.ai/CDpiX3
+9a8681a6-1d1d-48bc-8293-0d56bc08ec20,632,2025-02-28 16:43:16+00:00,"DeepSeek releases 3FS, a high-speed file system that can read data at 6.6 TiB/s, making AI tasks like training and inference much faster.",https://link.alphasignal.ai/Vomd4G
+e25e7a74-b604-4176-a61e-734bb3d1778c,632,2025-02-28 16:43:16+00:00,"Microsoft rolls out Phi-4, a series of open-source small language model for building multimodal AI apps on lightweight devices.",https://link.alphasignal.ai/GNjxON
+f9219dd4-9ff7-401e-aff6-d7159a2734bd,632,2025-02-28 16:43:16+00:00,"Inception introduces Mercury, the first commercial diffusion-based LLMs that are up to 10x faster and cheaper than current frontier models.",https://link.alphasignal.ai/ex2yqN
+56afefe9-3089-47f2-a1de-1cb953279dbe,632,2025-02-28 16:43:16+00:00,"Claude 3.7 Sonnet introduces extended thinking, visible reasoning, and improved agentic capabilities for complex tasks.",no link
+e9b6224c-599b-462d-aad1-7eed0f55bb0d,632,2025-02-28 16:43:16+00:00,Chain of Draft (CoD) reduces token usage and latency while maintaining accuracy in complex reasoning tasks.,https://link.alphasignal.ai/mH1bQS
+3dd5b6e2-d23f-484d-9e92-6c90a33f7215,632,2025-02-28 16:43:16+00:00,no news,no link
+ae7e0ff3-655a-4d46-9d30-d6677a516288,632,2025-02-28 16:43:16+00:00,"This study compares LLM and human ideation, finding LLMs generate more novel but less feasible ideas.",no link
+095fd3a7-4724-47a4-85f3-0800d5dc59c4,632,2025-02-28 16:43:16+00:00,"Andrej Karpathy reviews GPT-4.5's subtle improvements, focusing on creativity, world knowledge, and emotional intelligence.",https://link.alphasignal.ai/exY63a
+4354bdc7-e0d6-483e-a349-8e81645bd22c,634,2025-03-03 17:13:54+00:00,"Sesame introduces CSM, a real-time speech model with emotional intelligence and conversational memory.",https://link.alphasignal.ai/c6dllx
+027d8a91-890e-4f3f-b776-eacd9cfbefff,634,2025-03-03 17:13:54+00:00,"DeepSeek reveals its inference optimization method, enabling a 545% profit margin while charging less than rivals.",https://link.alphasignal.ai/rt0OOg
+9eeae91a-597f-4752-80d4-55e1233852c2,634,2025-03-03 17:13:54+00:00,EA releases the source code for four Command & Conquer games under the GPL license.,https://link.alphasignal.ai/a0XuaM
+d67f0c88-b3a2-431e-8b66-d35b2eac52c3,634,2025-03-03 17:13:54+00:00,"Perplexity integrates GPT-4.5, offering Pro users 10 queries daily.",https://link.alphasignal.ai/xVHdul
+0cd7cd59-1ada-418b-b57e-98604fa77d2e,634,2025-03-03 17:13:54+00:00,"Anthropic improves Claude 3.7 Sonnet tool use, reducing token usage by up to 70%.",https://link.alphasignal.ai/WJz1CR
+d8346fad-79c0-4bec-8691-25af568fda3b,634,2025-03-03 17:13:54+00:00,"LangChain introduces LangGraph Swarm, a Python library for building multi-agent systems with dynamic collaboration.",https://link.alphasignal.ai/PeLDqV
+2e8b8d45-53c0-4a26-8584-05595ff0d118,634,2025-03-03 17:13:54+00:00,"Automate testing and processes across native apps on Windows, Linux, MacOS, Android, and iOS using vision agents.",https://link.alphasignal.ai/hgHSzh
+c179449c-30e2-4bb8-af8f-76916f19acd2,634,2025-03-03 17:13:54+00:00,"Learn AI coding agents with Windsurf to automate edits, optimize workflows, and build applications efficiently.",https://link.alphasignal.ai/fVvUPX
+dcfb3adb-5f0c-40bb-abd1-e57b2d371e3f,634,2025-03-03 17:13:54+00:00,"Build a local multi-agent flight search app using CrewAI, Browserbase, and DeepSeek-R1 to automate web searches.",https://link.alphasignal.ai/sRbcNX
+9a070cd1-f379-4686-b7bd-7296dc094bdb,634,2025-03-03 17:13:54+00:00,no news,no link
+7b8ff64e-1143-4503-a7ab-01a59a294e42,634,2025-03-03 17:13:54+00:00,"Trace, evaluate, and debug AI agents. Optimize decisions, measure performance, and improve accuracy.",https://link.alphasignal.ai/nrdt1x
+4414b2b7-245e-41f7-9521-9ef538975411,634,2025-03-03 17:13:54+00:00,Define and control AI behavior in Cursor to enforce coding standards and AI responses across your project.,https://link.alphasignal.ai/lUhEtA
+c506f204-3afa-45ae-b131-9dc5fd206238,638,2025-03-04 16:31:08+00:00,"Google introduces Data Science Agent in Colab, automating full ML notebooks from natural language prompts.",https://link.alphasignal.ai/Q7eH76
+05467735-2b7f-49aa-8898-f072390ebee8,638,2025-03-04 16:31:08+00:00,"DeepSeek unveils Smallpond, a lightweight open-source data processing framework for processing huge datasets.",https://link.alphasignal.ai/zCoHny
+5b6c509a-862f-4ed1-928c-9c46c7ddcf1f,638,2025-03-04 16:31:08+00:00,"xAI announces that Grok-3 tops LM Arena leaderboard, a community-driven evaluation for LLMs, surpassing GPT-4.5-Preview in just hours.",https://link.alphasignal.ai/2vBj4x
+e5be05c9-44de-4a67-b273-8cd113363d8d,638,2025-03-04 16:31:08+00:00,"Stability AI partners with Arm to enable offline, real-time generative audio on smartphones, 30x faster than before.",https://link.alphasignal.ai/KxU7Ud
+6b4569b3-9e37-42d1-9609-c8846d5b9987,638,2025-03-04 16:31:08+00:00,"Anthropic secures $3.5B in Series E funding, tripling valuation, to scale AI, expand compute, and boost Claude.",no link
+10c11c66-8c90-46a0-a87c-ac51891d7f2c,638,2025-03-04 16:31:08+00:00,"Atla releases Selene 1, the most accurate LLM as a Judge model yet for evaluating AI responses.",https://link.alphasignal.ai/qVNc8B
+e3ee76ed-4537-492a-942b-a839688c55fc,638,2025-03-04 16:31:08+00:00,Generate high-quality multimodal labeled data 60x faster—customize your data workflows with AI using Encord Data Agents.,https://link.alphasignal.ai/jSg68t
+03a98157-286c-4fa5-b3f7-31a1a6e1f823,638,2025-03-04 16:31:08+00:00,"Gitingest extracts and summarizes Git repository content into prompt-friendly text for LLMs, with CLI and Python support.",https://link.alphasignal.ai/1qFtWG
+0fe9d8a0-c03e-485e-8ca0-befdc1670a1e,638,2025-03-04 16:31:08+00:00,"Ladybird is an independent, multi-process web browser with a custom engine, JavaScript runtime, and sandboxed rendering.",https://link.alphasignal.ai/iRYJlh
+807bf23f-6d56-4bc2-a571-1ffc37bfa383,638,2025-03-04 16:31:08+00:00,no news,no link
+5ff8c0af-6066-46c9-888d-6f3f4d11f6a0,638,2025-03-04 16:31:08+00:00,DrawDB is an intuitive online tool for creating database schemas and generating SQL scripts.,https://link.alphasignal.ai/LUGWgn
+99a96478-938f-4d67-9f51-a7d88ca0ef9e,638,2025-03-04 16:31:08+00:00,Learn to apply reinforcement learning in LLMs for complex reasoning tasks using Open R1 in this course by Hugging Face.,https://link.alphasignal.ai/MS1zkX
+185156a8-da53-495e-bc98-5d1caced1dcd,643,2025-03-06 15:22:42+00:00,"Alibaba's Qwen team releases QwQ-32B, an open-source 32B RL-powered model rivaling DeepSeek-R1 in reasoning and coding.",https://link.alphasignal.ai/vaYcyc
+adbc0daf-657e-4fc4-9a13-0039270dfa51,643,2025-03-06 15:22:42+00:00,"Deploy Jamba 1.6 now, the open-weight model, for faster, smarter, and secure AI with long-context and enterprise-ready performance.",https://link.alphasignal.ai/6IyASo
+9441ae89-0efe-4a17-8fce-64efd4d14336,643,2025-03-06 15:22:42+00:00,Codeium updates its AI IDE with AI-powered Previews and Auto-Linter integration to enhance code quality and streamline debugging.,https://link.alphasignal.ai/VwtOMS
+811726f5-fc31-4af4-9cbd-1ae4a1bf1f2b,643,2025-03-06 15:22:42+00:00,"Luma Labs adds three new features to its Ray2 video generation model for seamless, long-form AI video generation.",https://link.alphasignal.ai/yDV8wG
+47a3e527-0ca2-4101-9d35-9a5b23c1f2cd,643,2025-03-06 15:22:42+00:00,"OpenAI enables o1 and o3-mini on Assistants and Batch API, with o1 offering vision capabilities.",https://link.alphasignal.ai/fQsE4t
+22073b0d-8795-4ed5-b27f-78194979652c,643,2025-03-06 15:22:42+00:00,"Cohere unveils Aya Vision, an open-weights multimodal model that excels in multilingual image understanding across 23 languages.",no link
+b341f642-e520-476f-9d2c-38bda4261259,643,2025-03-06 15:22:42+00:00,"ACM awards Barto & Sutton with computing’s highest honor, the Turing Award for their foundational work in reinforcement learning.",https://link.alphasignal.ai/WgePgj
+bb62893e-04ed-46b4-9d6a-bf9684b256a6,643,2025-03-06 15:22:42+00:00,"Learn to extract insights from YouTube videos using SageMaker, Hugging Face models, and ChatGPT APIs.",https://link.alphasignal.ai/7eP7jx
+97c59169-aabf-449e-b707-5a070c1d8904,643,2025-03-06 15:22:42+00:00,"Lesson on LLM instrumentation and evaluation, covering unit tests, human reviews, automated evaluations, and Langsmith.",https://link.alphasignal.ai/DCXztI
+22b3a407-7d23-43bd-aa25-4c149c04fca7,643,2025-03-06 15:22:42+00:00,no news,no link
+163e5835-7b97-441f-9091-e20c255a12cb,643,2025-03-06 15:22:42+00:00,"Learn to extract, store, and search document data with embedding models for AI optimization.",https://link.alphasignal.ai/xXc6rK
+b752ad05-a1cd-425e-bb46-e2b3f72b2832,643,2025-03-06 15:22:42+00:00,Learn to build an event-driven AI agent that automates form completion using RAG and human-in-the-loop feedback.,https://link.alphasignal.ai/ldt5ip
+486f830d-21d7-4c4f-89eb-5a6c22ff7545,647,2025-03-11 15:44:22+00:00,"Mistral AI introduces Mistral OCR, outperforming Gemini and GPT-4o in accuracy across key benchmarks.",https://link.alphasignal.ai/tlqDGK
+4e107165-7f41-413e-bb91-02056f3a288c,647,2025-03-11 15:44:22+00:00,Get real-time speech-to-text with sub-second latency and 25% higher accuracy across 55+ languages.,https://link.alphasignal.ai/KbzsgE
+545139c7-0e24-4937-88ea-b8a118f0a54b,647,2025-03-11 15:44:22+00:00,"OpenAI enables ChatGPT for macOS to edit code directly in IDEs for Plus and Pro users, coming soon for free users.",https://link.alphasignal.ai/nDMJEC
+63b9fa68-6680-4a1e-89a1-ab3dc0745d34,647,2025-03-11 15:44:22+00:00,"Luma AI releases Ray2 Flash, a text-to-video model that’s 3x faster and 3x cheaper than its previous frontier model, Ray 2.",https://link.alphasignal.ai/AV8Jkd
+bdd56d27-088f-4c51-830d-3cbb6db33077,647,2025-03-11 15:44:22+00:00,"Anthropic adds new features like extended thinking, prompt optimization, and team collaboration to Console, it platform for developers.",https://link.alphasignal.ai/76V4Fd
+16367328-b1b4-40ec-bc73-8ee860902808,647,2025-03-11 15:44:22+00:00,"Chinese startup unveils Manus, the world’s first fully autonomous agent operating with memory and real-time task handling.",no link
+a819bd38-b0f6-4f58-a395-9445b6b920dc,647,2025-03-11 15:44:22+00:00,Google publishes new gemini embedding model which claims top spot on the massive text embedding multilingual leaderboard.,https://link.alphasignal.ai/LAIVNa
+9e773304-10b9-4d3c-bf94-07213f247636,647,2025-03-11 15:44:22+00:00,"Mem0 enhances AI agents with adaptive memory for personalized, context-aware interactions across multiple platforms.",https://link.alphasignal.ai/ndKKEv
+f74d8434-0c5b-4a6b-8dcb-ea2cfa77af5c,647,2025-03-11 15:44:22+00:00,"llm-app offers ready-to-deploy AI pipelines for RAG, enterprise search, and live data syncing at scale.",https://link.alphasignal.ai/AsSUjM
+0751f56c-444e-4822-b709-d87609f846d6,647,2025-03-11 15:44:22+00:00,no news,no link
+0bc019aa-4dc7-4ffd-acc1-22cf7298f643,647,2025-03-11 15:44:22+00:00,"Firecrawl API scrapes websites and converts them into LLM-ready markdown or structured data, supporting dynamic content.",https://link.alphasignal.ai/WSSoen
+e5cd1e6c-a85c-46f2-ac78-567191d9ea8a,647,2025-03-11 15:44:22+00:00,Learn how to use the Model Context Protocol to efficiently integrate APIs with LLMs.,https://link.alphasignal.ai/YmhbI7
+75b9cc92-cf94-4efb-943f-0a43f741880c,653,2025-03-12 15:14:14+00:00,"OpenAI announces Responses API with integrated web search and file retrieval, plus Agent SDK for AI workflow automation.",https://link.alphasignal.ai/BjMNKs
+523aba35-48a0-45a1-9fa4-d95a6ff09bf4,653,2025-03-12 15:14:14+00:00,"Run precise AI evals with Selene 1, an LLM Judge that outperforms frontier models across 11 benchmarks.",https://link.alphasignal.ai/GbopPP
+35a5e518-4c8b-4b54-ae17-cee485d71420,653,2025-03-12 15:14:14+00:00,"Sam Altman reveals that OpenAI has trained a new model that delivers standout creative writing, capturing metafiction’s nuanced vibe.",https://link.alphasignal.ai/oo0ybI
+9e677c37-7a14-479d-a5a7-fe74f5287451,653,2025-03-12 15:14:14+00:00,"Qwen enhances its chat with multimodal AI with unified interface, video analysis, guest access and mobile upgrades.",https://link.alphasignal.ai/WsvN56
+112ad0be-16df-45bc-80e7-cee2334ebbf3,653,2025-03-12 15:14:14+00:00,"Perplexity announces Windows app with AI search, voice dictation, and keyboard shortcuts.",https://link.alphasignal.ai/wXJf5h
+10be823a-900b-4855-b2e2-440a1f803dd1,653,2025-03-12 15:14:14+00:00," LangChain releases Agent Chat UI, an open-source web app for interacting with LangGraph apps via chat.",no link
+8196dc2f-72f9-4dd3-8f3b-1736455dc178,653,2025-03-12 15:14:14+00:00,"Qodo introduces agent-driven workflows and MCP integration in its AI IDE plugin, Qodo Gen, streamlining code generation, testing, and chat.",https://link.alphasignal.ai/ZFFrnD
+e6d0d1b5-2e18-4b1d-8b52-b151bf86f372,653,2025-03-12 15:14:14+00:00,"Set up an MCP server in TypeScript, define tools, connect to Claude Code, and run local scripts.",https://link.alphasignal.ai/0Ha823
+0a19415f-22e6-406c-9346-71f668dac0cf,653,2025-03-12 15:14:14+00:00,"Learn how to set up Project Rules in Cursor for precise, scalable AI-generated code management.",https://link.alphasignal.ai/LQ7Lul
+a8e867d8-37cf-429d-a5f4-cc0bac3be7a9,653,2025-03-12 15:14:14+00:00,no news,no link
+97fa5503-f91b-456e-b1b3-fd4cb976b7b7,653,2025-03-12 15:14:14+00:00,"Hugging Face's guide to run LLMs on mobile devices using React Native, manage dependencies, and ensure privacy through offline models.",https://link.alphasignal.ai/kM0JjX
+3804ffe6-482c-48ee-be5c-08a42364a30d,653,2025-03-12 15:14:14+00:00,Set up MCP servers to connect claude to the internet for web searches.,https://link.alphasignal.ai/9xCANP
+ae66ee82-c8de-43f6-9db0-14ab6205e3b0,656,2025-03-13 15:08:43+00:00,Google announces Gemma 3: a family of lightweight open-source models optimized for efficiency and multilingual AI.,https://link.alphasignal.ai/lQDzqK
+e794de78-9f8d-46d2-8226-fdec7a156ad9,656,2025-03-13 15:08:43+00:00,Perplexity launches MCP server for Sonar allowing Claude to access live web data for up-to-date research.,https://link.alphasignal.ai/XblKNJ
+3f3c3027-0abd-4a9b-b9a3-3893b56d267f,656,2025-03-13 15:08:43+00:00,Google enables chat-based image editing and generation with improved text rendering in Gemini 2.0 Flash.,https://link.alphasignal.ai/9hK9uv
+8500d453-73f1-445a-a465-a61ab4342967,656,2025-03-13 15:08:43+00:00,OpenAI reveals CoT reasoning models cheat by planning shortcuts; penalizing makes them hide intent instead of stopping misbehavior.,https://link.alphasignal.ai/Y4X6ij
+a861a06f-5744-42ae-be6d-5e7137c1b890,656,2025-03-13 15:08:43+00:00,"Luma Labs introduces IMM, a pre-training method for 10x more efficient image generation, surpassing diffusion models in quality.",no link
+a6708e82-bb90-4075-a9ba-d6c2816bee4e,656,2025-03-13 15:08:43+00:00,"Nous Research releases OpenAI-compatible API for Hermes 3 Llama 70B & DeepHermes 3 8B, expanding access to unrestricted AI models.",https://link.alphasignal.ai/SRaBDs
+73b4adb6-9701-4095-b519-a103ebd3cd58,656,2025-03-13 15:08:43+00:00,"Gemma 3 enhances multimodal, long-context, and multilingual capabilities, outperforming previous models in various benchmarks.",https://link.alphasignal.ai/PYsikF
+96b45e1f-c143-4eaf-83cd-f9275a112e32,656,2025-03-13 15:08:43+00:00,"VACE unifies video creation and editing tasks, enabling flexible, efficient, and creative video synthesis.",https://link.alphasignal.ai/q3eefj
+c523ddb2-22f6-44bb-b4f2-00bb66e8bd29,656,2025-03-13 15:08:43+00:00,no news,no link
+ecf52ec5-1972-45f5-872c-f31d2b4b4c64,656,2025-03-13 15:08:43+00:00,"YOLOE enhances real-time object detection with multiple prompt mechanisms, achieving high efficiency and performance.",https://link.alphasignal.ai/z1f2SC
+ba811f6b-819f-43e2-85d9-70cca5d870ed,656,2025-03-13 15:08:43+00:00,Get started with OpenAI Agents SDK to create agents for automating tasks and building conversational tools.,https://link.alphasignal.ai/nhTLxy
+fc9457a8-ac31-4719-b133-77296912dbcb,669,2025-03-17 17:02:06+00:00,"Yann LeCun presents Dynamic Tanh (DyT), a computationally efficient alternative to normalization layers in deep learning.",https://link.alphasignal.ai/QNgZvh
+4509c3e6-8083-4b78-86cb-d9d1b3f270b9,669,2025-03-17 17:02:06+00:00,Build AI applications with powerful models like DeepSeek R1 and Llama 3.3 with fast and scalable APIs; claim credits now.,https://link.alphasignal.ai/bKGyMH
+f009755f-0fc1-4a75-8b86-7a3015af0cc5,669,2025-03-17 17:02:06+00:00,"Baidu, the google of China, releases two multimodal models which beats SOTA models like DeepSeek-R1 and GPT-4.5 at dramatically lower rates.",https://link.alphasignal.ai/j6rX6f
+013a1a1c-fbfe-4e90-bb12-697c42504f75,669,2025-03-17 17:02:06+00:00,Google enables YouTube video support in Gemini API to summarize and process YouTube videos.,https://link.alphasignal.ai/GpqCBj
+1acad4b3-8616-4fd3-a7ef-4c06b28a50a8,669,2025-03-17 17:02:06+00:00,"Microsoft releases RD-Agent, an open-source tool automating R&D with LLM-based agents.",https://link.alphasignal.ai/QX9j0A
+dc202751-86cb-453e-a683-7fabf21d26c7,669,2025-03-17 17:02:06+00:00,"Alibaba's Qwen team open-sources QwQ-32B, its 32B model excelling in reasoning and coding.",no link
+52099b2f-02f4-42d1-8f92-7e60feece184,669,2025-03-17 17:02:06+00:00,Anthropic updates Claude Code with new extended thinking feature which enables users to control the depth of reasoning in tasks.,https://link.alphasignal.ai/9YcSgF
+53975433-3514-4c1f-ae6d-07cf0ff212d5,669,2025-03-17 17:02:06+00:00,"Build AI Vision Agents with AskUI to automate testing, process workflows, and data extraction on any platform.",https://link.alphasignal.ai/aWrpJ3
+732ee095-d46c-4793-a3b5-0818c4523fe7,669,2025-03-17 17:02:06+00:00,"Learn to set up Anthropic's Model Context Protocol (MCP), connect data sources, and automate tasks with AI.",https://link.alphasignal.ai/c21OWX
+747594f9-269e-436f-9227-965069b1cf21,669,2025-03-17 17:02:06+00:00,This tutorial demonstrates building multi-agent systems with Watsonx.ai to automate tasks using AI prompting.,https://link.alphasignal.ai/ZxdvVh
+6afcbb0d-080a-4a31-818b-666c5ca90ecc,669,2025-03-17 17:02:06+00:00,no news,no link
+1bc5e5bf-a8a3-4400-b513-5a341091e680,669,2025-03-17 17:02:06+00:00,"Create high-quality video datasets with filters for watermark, aesthetics, and motion to fine-tune models.",https://link.alphasignal.ai/2rczkb
+ff090d6e-2b82-4077-92ef-6a89215694b8,669,2025-03-17 17:02:06+00:00,Use Claude Code effectively for project initialization and development.,https://link.alphasignal.ai/EtIUaT
+ef33ed76-6efd-4379-961b-012b6beca2b6,672,2025-03-18 17:14:35+00:00,"Mistral AI presents Mistral Small 3.1, a 24B model outperforming competitors, offering fast inference speeds on accessible hardware.",https://link.alphasignal.ai/ShTV6c
+66367ae8-e07b-4b8c-99d1-9ddfa649bc45,672,2025-03-18 17:14:35+00:00,Improve your coding efficiency with an AI assistant built for massive codebases and real-world development.,https://link.alphasignal.ai/HXwm8T
+f3c0633c-8498-4d0a-a445-017b2c8b8799,672,2025-03-18 17:14:35+00:00,"Sesame drops CSM-1B, an open-source version of its near-human speech model with emotional intelligence and real-time synthesis.",https://link.alphasignal.ai/6Gpggs
+c6bee880-d93c-4664-9ea1-176c38280b30,672,2025-03-18 17:14:35+00:00," AI2 releases OLMo 2 32B, the first fully open model surpassing GPT-3.5 & GPT-4o Mini on a suite of multi-skill benchmarks.",https://link.alphasignal.ai/6fP8i6
+2be02eb9-4a19-4301-8797-8ac9ec5f486c,672,2025-03-18 17:14:35+00:00,Roblox announces Cube 3D: Open-source AI model for 3D object generation directly from text.,https://link.alphasignal.ai/9zbUIA
+dbd607be-d227-4fa5-a3e2-9e316d1c3493,672,2025-03-18 17:14:35+00:00,"Google introduces Gemini personalization, enabling tailored AI responses based on your Search history.",no link
+ae1f12c2-950c-4fca-8434-51b036494342,672,2025-03-18 17:14:35+00:00,Fiddler AI and AWS hosts a webinar to discuss strategies for securing and monitoring AI agent workflows.,https://link.alphasignal.ai/Ega1Rh
+182fae43-dddc-4a2b-ad76-b0fcf8b219e6,672,2025-03-18 17:14:35+00:00,"Deploy Jamba 1.6, an enterprise-ready LLM, with secure and flexible deployment via Hugging Face or AI21 SaaS.",https://link.alphasignal.ai/WdrSmb
+21e955c1-678e-40b1-8c15-da2573ee1ee8,672,2025-03-18 17:14:35+00:00,"awesome-mcp-servers: a curated list of MCP servers for AI model-resource interaction with frameworks, tutorials, and tips.",https://link.alphasignal.ai/9H8bcZ
+02980fae-4e99-4a12-8f8f-c3fd77be7dfb,672,2025-03-18 17:14:35+00:00,"camel: a framework for studying multi-agent scaling laws, supporting various agents, tasks, models, and environments.",https://link.alphasignal.ai/d7f6Wy
+2cf48b3d-32e4-4abd-a837-c57337d94d10,672,2025-03-18 17:14:35+00:00,no news,no link
+60321b68-2c83-4fc0-9792-c2051ee442e3,672,2025-03-18 17:14:35+00:00,public-apis: a curated list of public APIs across various domains for easy integration.,https://link.alphasignal.ai/U3wnrp
+4752d64e-b00e-4fb2-ac65-e37d34ef16a4,672,2025-03-18 17:14:35+00:00,Learn how DeepSeek’s R1 model improves Transformer efficiency with multi-head latent attention and KV caching.,https://link.alphasignal.ai/UHGeep
+86f17d93-7621-465f-a2f1-20947bbff63a,676,2025-03-19 16:20:09+00:00,"Google unveils new tools in Gemini: Audio Overview, turning documents into AI-generated discussions and Canvas, an interactive coding editor.",https://link.alphasignal.ai/6WgTy7
+97e29fe7-c026-440d-b5b5-5921c7e2a89e,676,2025-03-19 16:20:09+00:00,Join the webinar to learn how Reinforcement Fine-Tuning boosts LLM performance with minimal data.,https://link.alphasignal.ai/qeeszG
+9d1cbcef-f37b-431b-8423-e2ba56f0c6b8,676,2025-03-19 16:20:09+00:00,Andrej Karpathy shares essential digital hygiene tips to improve privacy and security in his latest blog post.,https://link.alphasignal.ai/6gLZIW
+c647ce79-84d1-4a3d-8438-8404385814f7,676,2025-03-19 16:20:09+00:00,"Stability AI debuts Stable Virtual Camera: Generate immersive 3D videos from a single image, no scene optimization needed.",https://link.alphasignal.ai/WWZ9VW
+156bb977-75aa-4ee2-9a74-5600c6512400,676,2025-03-19 16:20:09+00:00,Podcastle introduces Asyncflow v1.0: Affordable AI voice cloning with real-time synthesis with an API 10x cheaper than ElevenLabs.,https://link.alphasignal.ai/ymw6Ul
+3bc2ebd0-0356-4baf-9d24-b7388247e8a5,676,2025-03-19 16:20:09+00:00,"NVIDIA CEO Jensen Huang announces GR00T N1, an open-source humanoid robot foundation model, during his GTC 2025 keynote speech.",no link
+395f4ced-0650-4d13-9bd3-af3021690b85,676,2025-03-19 16:20:09+00:00,OpenAI rolls out PDF support for its API: Use GPT-4o to extract insights from both text and embedded visuals.,https://link.alphasignal.ai/Tyf6Ii
+6d246aa0-51e7-4828-86e9-6fa0e0706853,676,2025-03-19 16:20:09+00:00,"Use Zep’s temporal knowledge graph to build AI that learns, remembers, and responds with greater accuracy and efficiency.",https://link.alphasignal.ai/9vO1qk
+bc1cd23e-7924-4ba5-b5a2-4bb58ff3b636,676,2025-03-19 16:20:09+00:00,"CSM-1B is an open-source speech model by Sesame, generating high-quality, context-based audio from text.",https://link.alphasignal.ai/keESVK
+32679ab8-1f53-4ed3-8f94-254002b49dfb,676,2025-03-19 16:20:09+00:00,"Gemma-3-27B by Google handles text and image inputs, generates text, supports 140+ languages, and has a 128K-token context.",https://link.alphasignal.ai/CYcA72
+ebd4f83a-009f-4c29-901e-ba35374b3f14,676,2025-03-19 16:20:09+00:00,no news,no link
+24ed453e-b6f6-488b-b015-b1e8f02a9eec,676,2025-03-19 16:20:09+00:00,"Phi-4-Multimodal-Instruct by Microsoft rocesses text, image, and audio inputs, supporting 128K token context and multilingual use.",https://link.alphasignal.ai/sOe421
+472d4591-0def-43e3-837a-8ba6741984ac,676,2025-03-19 16:20:09+00:00,"TorchScript optimizes PyTorch models for production by removing Python dependencies, improving speed and portability.",no link
+92055ac6-d611-4cd1-b70e-c25772f626d7,679,2025-03-20 16:40:37+00:00,"METR study showcases AI task length doubles every 7 months, approaching month-long projects by 2030.",https://link.alphasignal.ai/0qqToo
+073b24d4-d4de-4364-91d7-07a09b867209,679,2025-03-20 16:40:37+00:00,"Try and experience real-time speech-to-text with 25% more accuracy for AI assistants, captions, and transcripts in 55+ languages.",https://link.alphasignal.ai/gGzhi4
+53d4293a-4d6e-48c1-93fe-abf72c74680f,679,2025-03-20 16:40:37+00:00,OpenAI rolls out o1-pro API offering better responses with more compute.,https://link.alphasignal.ai/3VXCTX
+e114a3c3-0264-4ebc-8f09-c2bb712fccbc,679,2025-03-20 16:40:37+00:00,"Google adds interactive Mind Maps in NotebookLM, offering visual summaries of your uploaded sources.",https://link.alphasignal.ai/5aIcHJ
+f088f71b-3c59-4070-80fc-f3ec14aca98f,679,2025-03-20 16:40:37+00:00,Codeium introduces Windsurf Tab: an upgrade in Wave 5 which improves AI code suggestions using full dev environment context.,https://link.alphasignal.ai/nNL3JO
+01f37789-ae84-4459-9829-a031739eb7fa,679,2025-03-20 16:40:37+00:00,"Hugging Face and IBM unveil SmolDocling: VLM for full-page document OCR, outperforms models 27x larger in document conversion.",no link
+c8ed3138-5620-40a6-be6e-72d765dadc31,679,2025-03-20 16:40:37+00:00,Google DeepMind showcases Gemini 2.0's capabilities in powering robotics with advanced spatial understanding and multimodal reasoning.,https://link.alphasignal.ai/rJaqps
+dd8309ba-6e6a-4330-8ff1-6d6887f932f4,679,2025-03-20 16:40:37+00:00,"Learn to build AI agents with long-term memory, focusing on memory types, updates, and task management.",https://link.alphasignal.ai/FQHFTJ
+3f645450-9742-4a9f-80f2-3ad95c9cf272,679,2025-03-20 16:40:37+00:00,"Logan Kilpatrick discusses on AI authenticity, automation, AGI, exponential growth, and the future of work.",https://link.alphasignal.ai/SsJ3QS
+3fbaa597-7cb9-4004-b977-d5f2fda7db5d,679,2025-03-20 16:40:37+00:00,no news,no link
+d572bf81-2ce6-428b-a12b-b5effcdc8e6b,679,2025-03-20 16:40:37+00:00,"Learn strategies for optimizing file-based prompts with Gemini, improving output with media inputs.",https://link.alphasignal.ai/bYSDRf
+b40f9040-1d14-41ad-b297-b7d42539c702,679,2025-03-20 16:40:37+00:00,"Yann LeCun discusses AI’s limitations, the need for new architectures, and open-source innovation in AI development in a podcast.",https://link.alphasignal.ai/48F76s
+d7ed2e75-28eb-4417-8fd7-4de24e1cc6e9,687,2025-03-24 17:45:16+00:00,OpenAI introduces API based audio models for text-to-speech and speech-to-text enabling custom AI voice control.,https://link.alphasignal.ai/v9nHRZ
+fd6ce203-bdc1-4fe0-8cf7-371eb3d7c703,687,2025-03-24 17:45:16+00:00,"Anthropic adds web search to Claude 3.7 Sonnet, enabling real-time information retrieval with direct source citations.",https://link.alphasignal.ai/uocLXE
+b8e99ce1-7494-48a0-ad69-956da3c89da6,687,2025-03-24 17:45:16+00:00,xAI updates its API with image generation model allowing image generation using text-based prompts.,https://link.alphasignal.ai/evpkwB
+8b642552-e9fd-449e-9bd2-c16c94e2c247,687,2025-03-24 17:45:16+00:00,"Tencent releases Hunyuan-T1, delivers 2x faster speeds while reducing compute demands for long-text reasoning tasks.",no link
+7be00807-70b2-48a8-b501-cc299e168a38,687,2025-03-24 17:45:16+00:00,"NVIDIA open-sources multilingual speech recognition and translation models, perfect for on-device application.",no link
+22333c38-356d-4be9-a95c-5eebbd388508,687,2025-03-24 17:45:16+00:00,"Hugging Face unveils new features to analyze AI inference endpoints in its dashboard, enables instant insights into latency and error rates.",https://link.alphasignal.ai/PqFJha
+d685a39c-1202-45ad-ac18-a5688ebaf6ed,687,2025-03-24 17:45:16+00:00,Build your conversation intelligence platform with Speech AI that delivers high transcription accuracy and deep speech understanding.,https://link.alphasignal.ai/cK6KrX
+b7ac7a51-8b4c-4839-b932-ee56df1c9d39,687,2025-03-24 17:45:16+00:00,"Build AI agents using MongoDB Atlas with 18 Jupyter Notebooks covering retrieval, workflows, and model evaluation.",https://link.alphasignal.ai/SZmtwi
+626535f1-64ad-45af-80b6-289e4732125c,687,2025-03-24 17:45:16+00:00,"Use MCPs in Cursor to read logs, access data, generate UI assets, and build custom automations.",https://link.alphasignal.ai/ZAMbPF
+c644ea63-cf28-49cc-ba78-6d29e1d71ac1,687,2025-03-24 17:45:16+00:00,no news,no link
+6431ef0c-2115-4d8d-8a0d-d71c9ad69acc,687,2025-03-24 17:45:16+00:00,"Use a Figma MCP server to import designs into Cursor, refine layouts, and automate UI generation.",https://link.alphasignal.ai/fUh8T5
+4cc1362b-6358-485d-9ef1-6affa97d78bb,687,2025-03-24 17:45:16+00:00,Build voice agents using OpenAI’s API and SDK for real-time or structured interactions.,https://link.alphasignal.ai/95TIaT
+58cd6494-11ae-4574-87ef-30019b6e90d3,688,2025-03-25 16:28:38+00:00,DeepSeek open-sources a 685B-parameter DeepSeek-V3 which compete with Claude 3.7 in coding & math.,https://link.alphasignal.ai/1PIFhj
+b51009c8-6e6b-4596-a892-23d94e68f9e7,688,2025-03-25 16:28:38+00:00,"Read the e-book ""The Rise of Intelligent Machines"" to learn how to curate and annotate Physical AI datasets faster.",https://link.alphasignal.ai/aeJk00
+c10ceaa7-2ad4-462e-9dfe-19ac2af3b8ab,688,2025-03-25 16:28:38+00:00,"Anthopic showcases ""think"" tool, enhancing Claude 3.7's complex reasoning and tool use performance by 54% in τ-Bench.",https://link.alphasignal.ai/dwgesW
+dfb40e55-6e27-4903-b2cf-8420539c0784,688,2025-03-25 16:28:38+00:00,Alibaba's Qwen releases a lightweight open-source 32B VLM which surpasses its 72B predecessor in multimodal tasks.,https://link.alphasignal.ai/jlNgXN
+0ca5c706-6428-43d7-865c-51392c2252a2,688,2025-03-25 16:28:38+00:00,"OpenAI analyzes 3M+ voice conversations, finding emotional engagement with ChatGPT is rare but higher in heavy users.",https://link.alphasignal.ai/pIJgSc
+a246eafa-b3e3-4251-9071-a412b585281b,688,2025-03-25 16:28:38+00:00,Atla AI deploys its evaluation model Selene 1 in Langfuse's observability platform for real-time LLM assessments and monitoring.,no link
+d9ce1eb3-5889-426b-8c7e-f0372b04b380,688,2025-03-25 16:28:38+00:00,"Reve announces Image 1.0, topping Artificial Analysis' leaderboard, surpassing Imagen 3, Midjourney v6.1, and Recraft V3.",https://link.alphasignal.ai/8gXaZg
+7367ca9c-f312-47e9-a64a-3e880915ec80,688,2025-03-25 16:28:38+00:00,"Local Deep Researcher: Runs local LLM-powered web research, summarizing findings, and generating sourced markdown reports.",https://link.alphasignal.ai/yf32GM
+e05b9a8b-87e7-47cd-84f1-8387e131b8f9,688,2025-03-25 16:28:38+00:00,"Deep-Live-Cam: Performs real-time face swapping using a single image. Supports live streaming, video calls, and media editing.",https://link.alphasignal.ai/CJvBKB
+24babb46-aac8-4c1c-b875-175cbd24a1f8,688,2025-03-25 16:28:38+00:00,no news,no link
+23d277c4-e314-4826-8b37-77d20601ee49,688,2025-03-25 16:28:38+00:00,"OCRmyPDF: Converts scanned PDFs into searchable PDF/A files using OCR, multilingual support, deskewing, and lossless processing.",https://link.alphasignal.ai/gb38Mk
+6c5519da-e5e3-4c4d-8029-1f89b4a25f25,688,2025-03-25 16:28:38+00:00,"Learn to build AI tutoring agents for computer science education with structured instruction, automation, and real-time feedback.",https://link.alphasignal.ai/48F76s
+627b83b9-0729-4d09-9fa3-9efed69fb823,689,2025-03-26 14:58:40+00:00,"Google DeepMind unveils Gemini 2.5 Pro, its most intelligent model yet, ranking #1 on LMArena with top coding and reasoning scores.",https://link.alphasignal.ai/72gjcd
+1c9bf930-6335-47ca-8a7d-bb5a4f5a69c7,689,2025-03-26 14:58:40+00:00,"Speed up coding, refactoring, and documentation with Amazon Q Developer’s AI-powered agents - build smarter, ship faster.",https://link.alphasignal.ai/DFWPX1
+8c439e70-befd-4fe6-a989-9d1f54b73fc0,689,2025-03-26 14:58:40+00:00,"OpenAI introduces GPT-4o image generation in ChatGPT: precise text, style control, and multi-turn refinements.",https://link.alphasignal.ai/yKpLV4
+1fbf8979-ca07-437d-8200-81fbb1e0b8bb,689,2025-03-26 14:58:40+00:00,"Perplexity enhances search with structured answers; adds answer modes for travel, shopping, jobs.",https://link.alphasignal.ai/rKF2Ne
+5842ec33-92bc-4470-abe9-a93015712f14,689,2025-03-26 14:58:40+00:00,"ByteDance publishes InfiniteYou, an open-source image generator enhancing identity-preserved photo recrafting with DiTs.",https://link.alphasignal.ai/lsZxsg
+29925cc5-9db5-43f4-9c73-e6bb2a0c3660,689,2025-03-26 14:58:40+00:00," ARC Prize announces $1M competition, targeting skills that remain difficult for AI while being easy for humans for efficient AGI systems.",no link
+0fdb0263-0ff2-4e4a-bdf0-31fe2a4a469d,689,2025-03-26 14:58:40+00:00,"Alibaba releases TaoAvatar on Hugging Face: offering real-time, lifelike 3D avatars for AR devices like Apple Vision Pro.",https://link.alphasignal.ai/jUrEzq
+e5d131b8-9bab-4af3-8907-8fa4e464d6af,689,2025-03-26 14:58:40+00:00,"Orpheus-3B-0.1 is a fine-tuned Llama-based TTS model offering high-quality, real-time speech synthesis with emotion control.",https://link.alphasignal.ai/428Yia
+b439bc2f-f0fb-4d73-94e2-b849ac68e6fd,689,2025-03-26 14:58:40+00:00,"DeepSeek-V3-0324 enhances text generation with 685B parameters, improved reasoning and function calling.",https://link.alphasignal.ai/zn9pee
+52c72f33-67bf-4da6-861b-857e536561f5,689,2025-03-26 14:58:40+00:00,no news,no link
+d3b9d6a2-0591-4e28-9f65-e82f6bb416e6,689,2025-03-26 14:58:40+00:00,"StarVector generates high-quality SVG code from images and text, excelling in vectorization of icons, diagrams, and technical graphics.",https://link.alphasignal.ai/lAHbKK
+0ae0ea19-aa06-4c13-8c2c-c3a6912281e8,689,2025-03-26 14:58:40+00:00,Test out Gemini 2.5 Pro and GPT-4o image generation with these creative prompt ideas.,no link
+34d78257-2ffa-459a-b4de-7d89b5144b8e,690,2025-03-27 17:04:37+00:00,"Alibaba's Qwen open-sources Qwen2.5-Omni: process text, images, audio, and video locally; adds voice chat and video chat in Qwen chat.",https://link.alphasignal.ai/2XHPup
+7a85be03-6509-4a0f-983d-b7ac9885ce05,690,2025-03-27 17:04:37+00:00,"OpenAI integrates Anthropic’s MCP, enabling ChatGPT to access external tools and data sources.",https://link.alphasignal.ai/yVvdwO
+cc757d36-bc8c-4a81-8394-3eb96179fc49,690,2025-03-27 17:04:37+00:00,Anthropic releases MCP spec v2 with OAuth 2.1 and improved tool integration.,https://link.alphasignal.ai/SSSUVB
+85d1c6e1-9eca-4187-bb62-845ed655fc21,690,2025-03-27 17:04:37+00:00,"Image generation startup Ideogram rolls out v3.0 for all, beating top models in designer evals with real-time, layout-aware generation",https://link.alphasignal.ai/i48mRc
+54c9c00e-4bd4-4b08-8c41-94d8d3d853a8,690,2025-03-27 17:04:37+00:00,Google DeepMind unveils new Gemini API guide to bridge LLMs with real-world tools and APIs.,no link
+9470b41f-fa9f-4877-9472-2d5b15ee5a84,690,2025-03-27 17:04:37+00:00,"Ai2 launches Paper Finder, an LLM-powered tool for finding niche research papers with summaries.",https://link.alphasignal.ai/ctpmMU
+be10b977-89ad-43ca-8bf9-6d1623e71aa9,690,2025-03-27 17:04:37+00:00,Power your conversation intelligence platform with Speech AI that delivers unrivaled transcription accuracy and understanding.,https://link.alphasignal.ai/TlKhRR
+407698be-5e5f-4b91-b1b0-6a0642a04fcb,690,2025-03-27 17:04:37+00:00,"Learn to build and deploy apps with AI agents, using structured coding and Replit's cloud tools.",https://link.alphasignal.ai/hMnaa3
+883b44c6-bca7-4cbe-8e5d-99326d3c6303,690,2025-03-27 17:04:37+00:00,Read the report to find out how AI is reshaping the workforce and the key skills needed for 2030.,https://link.alphasignal.ai/zmNTU7
+2dca6fdf-56e6-4f30-88a8-804474709fbc,690,2025-03-27 17:04:37+00:00,no news,no link
+fe09ed18-5c04-4539-bacb-d482f6e1f292,690,2025-03-27 17:04:37+00:00,Learn to run DeepSeek-V3-0324 on local devices using Unsloth AI's Dynamic GGUFs for efficient inference.,https://link.alphasignal.ai/FgQOCK
+177444ea-4a42-4a94-8d5f-1fc5512e26ee,690,2025-03-27 17:04:37+00:00,Customize ChatGPT responses efficiently using system messages for domain-specific tasks without retraining the model.,no link
+af6afd33-365b-46e7-b0ac-4e6fdbdeccc9,692,2025-03-28 16:58:15+00:00,"Anthopic reveals how Claude 3.5 Haiku plans words ahead, challenging next-token assumptions.",https://link.alphasignal.ai/qni55O
+f88b9bb7-c8d4-4247-9b29-0feccd121c9b,692,2025-03-28 16:58:15+00:00,"Open-source AI models now outperform proprietary ones. Get fast, cost-effective access with Inference.net’s API.",https://link.alphasignal.ai/REkb53
+6cd90a86-ff1f-4349-997e-357162b3b385,692,2025-03-28 16:58:15+00:00,"OpenAI updates GPT-4o in ChatGPT with improved coding, instruction-following, and creative problem-solving.",https://link.alphasignal.ai/EpcLzt
+059d322c-b7f4-49c6-ae26-191672fc0d35,692,2025-03-28 16:58:15+00:00,Alibaba's Qwen unveils QVQ-Max: A visual reasoning model that combines detailed observation and deep thinking.,https://link.alphasignal.ai/uI4rDw
+95ff3da4-9c09-44d3-aaf9-9b4268b0d7e9,692,2025-03-28 16:58:15+00:00,"Google publishes technical report of Gemma 3, its lightweight multimodal model.",https://link.alphasignal.ai/GSnFce
+3dcc74a4-001b-45b8-95de-f4a92fa98e19,692,2025-03-28 16:58:15+00:00,"OpenAI rolls out internal knowledge integration for ChatGPT Team, connecting to Google Drive workspace.",no link
+8a219cb0-a026-4cee-83f0-f48e474f69a7,692,2025-03-28 16:58:15+00:00,Perplexity CEO unveils vision to rebuild TikTok’s algorithm with transparency and open-source model.,https://link.alphasignal.ai/RYEYso
+810e3695-78be-4992-89e2-e3a8ea2d1470,692,2025-03-28 16:58:15+00:00,"Claude 3.7 Sonnet revolutionizes labor markets by automating tasks, reshaping industries and job roles.",https://link.alphasignal.ai/RlPx7u
+84b7ce5c-c06f-47cb-8ae0-59a91218fc5e,692,2025-03-28 16:58:15+00:00,"SynCity generates immersive 3D worlds from text using a combination of 2D and 3D models, ensuring coherence and artistic quality.",https://link.alphasignal.ai/Bzbe21
+f8eb1b78-2019-46d6-a709-e5cea05d3e3c,692,2025-03-28 16:58:15+00:00,no news,no link
+211e994b-78d6-4e6b-95f8-bb35805d3ce4,692,2025-03-28 16:58:15+00:00,"LHM generates high-fidelity, animatable 3D human avatars from single images with real-time performance.",https://link.alphasignal.ai/5ZuIq1
+4ab97fab-3183-4b57-8d07-dfc8756f63a3,692,2025-03-28 16:58:15+00:00,"Use %autoreload in Jupyter to automatically reload modules, improving workflow and reducing manual imports.",no link
+c891d110-7c92-4497-b921-7a1908573c5e,693,2025-04-01 15:22:18+00:00,Google makes Gemini 2.5 Pro available for all users.,https://link.alphasignal.ai/lj3Gny
+fdf09773-99d9-4d29-8f65-56cd94dad18a,693,2025-04-01 15:22:18+00:00,"Use Jargonic, aiOla’s new ASR model, for high-accuracy speech recognition, real-time data structuring, and enterprise APIs.",https://link.alphasignal.ai/0FkzBG
+93676db5-545a-4cb8-8da7-74bef3e6e310,693,2025-04-01 15:22:18+00:00,"Amazon launches Nova Act SDK, enabling reliable AI agents to automate web tasks with 90%+ accuracy.",https://link.alphasignal.ai/90aTvT
+3fcca840-1af5-42c2-ae2e-5714c3d40988,693,2025-04-01 15:22:18+00:00,"OpenAI raises $40B at $300B valuation, marking largest private funding round in AI history.",https://link.alphasignal.ai/3DgQPX
+455f7cc4-f7ae-40c1-b7b4-d52f72f3e9d2,693,2025-04-01 15:22:18+00:00,"Runway releases Gen-4, enhancing AI video generation with improved motion, consistency, and cinematic-quality scene creation.",https://link.alphasignal.ai/HLJjPD
+9dd92c43-3a65-4f69-8423-14268617030c,693,2025-04-01 15:22:18+00:00," Ai2 unveils CodeScientist: AI reads papers, runs code, and outputs research-ready scientific findings.",no link
+a40d8618-5c75-4571-a698-4d69864a19c5,693,2025-04-01 15:22:18+00:00,"ElevenLabs launches Actor Mode, enabling users to control AI speech with their own voice in Studio.",https://link.alphasignal.ai/DzHGqk
+41317a42-1a2c-46b3-9649-99fb5bd5e9ed,693,2025-04-01 15:22:18+00:00,"Agno helps build multimodal AI agents with memory, tools, and reasoning, running 10,000x faster than LangGraph.",https://link.alphasignal.ai/8rINFl
+786101ae-aaa1-4194-9abd-4b465920ebf1,693,2025-04-01 15:22:18+00:00,GitDiagram: Convert any GitHub repository into an interactive system design diagram with OpenAI-powered insights and navigation.,https://link.alphasignal.ai/cjLMZt
+57e785cd-66a6-49ad-b58c-29a778710079,693,2025-04-01 15:22:18+00:00,no news,no link
+595cdf9d-5dad-437d-ae72-f5b3b24b99cb,693,2025-04-01 15:22:18+00:00,MCP-Agent is a lightweight framework for building AI agents using the Model Context Protocol (MCP).,https://link.alphasignal.ai/qglxWC
+ac2f1fe2-49d4-44e7-885f-5c57111a368d,693,2025-04-01 15:22:18+00:00,Learn how to integrate Google Gemini 2.0 with MCP servers for structured tool access and automated workflows.,https://link.alphasignal.ai/OSSkNq
+320d903e-0419-4c78-96d7-6a81a932e67e,694,2025-04-02 15:15:19+00:00,"OpenAI launches Academy with AI courses for all on prompt engineering, RAG, fine-tuning, and real-world GPT-4 use.",https://link.alphasignal.ai/nrsRi0
+0a008e6f-5247-4c42-980b-3744663e2853,694,2025-04-02 15:15:19+00:00,"Automate dev tasks with Augment Agent—modify code, run tests, manage PRs, and streamline workflows.",https://link.alphasignal.ai/8st75m
+fe7bec8e-df89-4f98-8086-a0f638c1a3ed,694,2025-04-02 15:15:19+00:00,Luma Labs releases Camera Motion Concepts to control Ray2 video with natural language prompts.,https://link.alphasignal.ai/oseudN
+e100bf6d-fb86-4cfc-8f70-6a953a7dfc6b,694,2025-04-02 15:15:19+00:00,Krea AI enables fine-tuning of its video AI model with user images for custom style generation.,https://link.alphasignal.ai/6xY99r
+bbc1a4fa-d396-4270-94ed-03531e4381ab,694,2025-04-02 15:15:19+00:00,"MiniMax unveils Speech-02, a high-fidelity TTS model for audiobooks, podcasts, and lifelike voice synthesis.",https://link.alphasignal.ai/uqOEsz
+d622a891-66f1-4abd-946d-109953c0bd61,694,2025-04-02 15:15:19+00:00,Meta AI introduces MTA: a new attention method combining multiple tokens for richer dependencies.,https://link.alphasignal.ai/Kxud9g
+ca200625-138a-48fe-81b1-a377094e1ea2,694,2025-04-02 15:15:19+00:00,UC Berkeley & UCSF achieve real-time brain-to-speech synthesis with 1s latency using AI decoding.,https://link.alphasignal.ai/9q5S51
+b5f22674-5bb4-436d-a962-c8f9a5be3dab,694,2025-04-02 15:15:19+00:00,"DeepSeek-V3-0324 Dynamic GGUF: Optimized quantized LLM for efficient inference with improved coding, and multilingual capabilities.",https://link.alphasignal.ai/fwr207
+bcbc23c2-de12-4b13-a5cc-8a54c09751dc,694,2025-04-02 15:15:19+00:00,Ghibli-Diffusion: A fine-tuned Stable Diffusion model trained on Studio Ghibli-style anime images for generating artwork.,https://link.alphasignal.ai/q1QRfK
+190cecc1-ebc3-4cdf-b951-493c759837bb,694,2025-04-02 15:15:19+00:00,no news,no link
+35684187-4b56-4b4c-8251-ca5f47da24f8,694,2025-04-02 15:15:19+00:00,"SpatialLM converts 3D point clouds into structured scene representations, identifying architectural elements and objects.",https://link.alphasignal.ai/KedAXm
+5b2397bf-0f2b-47e8-a805-8324250433e1,694,2025-04-02 15:15:19+00:00,"Use persistent tensors to maintain model consistency, avoid manual device transfers, and ensure reliable inference.",https://link.alphasignal.ai/OSSkNq
+d9320e52-88c8-478b-a85f-d1af8e96069d,696,2025-04-03 15:18:17+00:00,OpenAI unveils PaperBench: benchmark to evaluate LLM agents on full-code experiment replication.,https://link.alphasignal.ai/tf5XAu
+c971a1c7-5a5d-4b76-8a82-b03e6828b026,696,2025-04-03 15:18:17+00:00,"Anthropic introduces Claude for Education, partnering with top universities to integrate AI into teaching, learning, and administration.",https://link.alphasignal.ai/wSTpbQ
+5cec5020-1dcf-4c15-ba5a-ca2234e447d7,696,2025-04-03 15:18:17+00:00,"UCSD researchers show GPT-4.5 passes Turing test, convincing humans it’s real in 73% of cases.",https://link.alphasignal.ai/N4T31u
+5c4c0021-6b40-460d-a3e1-d37612f63c93,696,2025-04-03 15:18:17+00:00,Codeium presents Wave 6: One-click app deploys and commit message generation in Windsurf IDE.,https://link.alphasignal.ai/sN2JBM
+d56b8e3a-1ad5-48c2-bde8-1df7dc95a3d4,696,2025-04-03 15:18:17+00:00,"Chinese music generation platform, Mureka releases MusiCoT enabling structured, customizable song generation.",https://link.alphasignal.ai/DDJAkF
+f41521e8-64ff-420b-a2d6-3f1456f9e566,696,2025-04-03 15:18:17+00:00,"Google DeepMind forecasts AGI by 2030, calls for escalation protocols and stronger misuse controls.",https://link.alphasignal.ai/4DmaxI
+b128a938-da02-41c9-9b34-c256cae668b3,696,2025-04-03 15:18:17+00:00,"Use Jargonic to transcribe real-world speech accurately and handle noise, accents, and jargon in real time.",https://link.alphasignal.ai/XMKlYz
+e16ff059-ab3b-4cbd-b87f-b47e6d1e092c,696,2025-04-03 15:18:17+00:00,"Learn to generate structured LLM outputs using APIs, re-prompting, and constrained decoding for machine-readable responses.",https://link.alphasignal.ai/nQbAvu
+fff25fbe-fee5-4bb6-9434-edf7733aebf7,696,2025-04-03 15:18:17+00:00,"In this podcast, experts discuss Gemini 2.5 Pro’s reasoning, coding, multimodal advances, and 1M token context.",https://link.alphasignal.ai/1vDZlI
+ca368581-5050-4ab3-9812-ae744a7d407e,696,2025-04-03 15:18:17+00:00,no news,no link
+c06c4ed4-f411-42f1-bf06-4e0b4b806d78,696,2025-04-03 15:18:17+00:00,"With OpenAI Academy’s series, learn to generate and edit 20-second videos using Sora’s structured tools and workflows.",https://link.alphasignal.ai/qSajl5
+ffe33d27-bf70-4c94-a219-da9cad337cd1,696,2025-04-03 15:18:17+00:00,"Learn data analytics using Python, SQL, Tableau, and LLMs through real-world, project-based training and earn a professional certificate.",https://link.alphasignal.ai/oDAq2K
+7dd293db-26ae-4fdf-b2fc-a33af0bd076d,707,2025-04-08 15:16:02+00:00,"Meta unveils Llama 4 family: Scout, Maverik and Behemoth built for long context, vision and STEM tasks.",https://link.alphasignal.ai/NTfnR8
+749d273f-f6c5-4549-a395-b075169de8c6,707,2025-04-08 15:16:02+00:00,Join Encord’s April 10th workshop to learn how top teams structure multimodal data for Physical AI.,https://link.alphasignal.ai/pCw1zk
+2ea468dd-9264-4b27-a482-559830bbe170,707,2025-04-08 15:16:02+00:00,"Microsoft upgrades Copilot with memory, actions, and real-time vision across mobile and desktop.",https://link.alphasignal.ai/w9E2Xv
+19079143-2b7a-4654-b8c3-3e7da74bf308,707,2025-04-08 15:16:02+00:00,"Google moves Gemini 2.5 Pro to public preview, offering higher rate limits for production testing.",https://link.alphasignal.ai/FGln1n
+4e6fbb2b-a0ad-4219-96c7-a6b7fcb5af81,707,2025-04-08 15:16:02+00:00,GitHub announces public MCP server with enhanced UX and full Anthropic compatibility.,https://link.alphasignal.ai/K1mYwk
+cee856bc-1eea-4628-af7d-57dae95cb391,707,2025-04-08 15:16:02+00:00,"Anthropic reveals CoT only mentions reasoning hints 25–39% of the time, raising safety concerns.",https://link.alphasignal.ai/9XwSpo
+e86d0ba5-2b9d-4fee-966f-5917895547ea,707,2025-04-08 15:16:02+00:00,"Cognition presents Devin 2.0 which completes 83% more junior dev tasks per ACU, doubling internal productivity.",https://link.alphasignal.ai/WFZDBC
+bef9e444-e3f4-444a-9468-628bcdb97826,707,2025-04-08 15:16:02+00:00,"Deploy a new ASR model built for noise, accents, and jargon—no retraining needed, works immediately.",https://link.alphasignal.ai/pCw1zk
+321f59b2-f45a-42db-9723-6ebd38b6081a,707,2025-04-08 15:16:02+00:00,Learn when lazy prompting speeds up LLM workflows and when detailed context is worth the effort.,https://link.alphasignal.ai/jSpETX
+f636895b-a6f3-4576-a075-a21b98585176,707,2025-04-08 15:16:02+00:00,"Build and deploy a full SaaS using modern tools and AI to code, design, and ship faster.",https://link.alphasignal.ai/qRCu0c
+503f4905-4519-41b3-973f-ce52f5f1bbac,707,2025-04-08 15:16:02+00:00,no news,no link
+2e9a5b99-2939-496f-8031-048420bd2631,707,2025-04-08 15:16:02+00:00, Build a Model Context Protocol Server to Extend Claude with Context and Data Control.,https://link.alphasignal.ai/9YJ2DW
+9a34f4df-c562-4005-a8e0-1879ba0db983,707,2025-04-08 15:16:02+00:00,Turn Figma designs into structured Jira epics and stories in 10 minutes using Claude and MCP.,no link
+c08ff8f5-aeb5-431f-ae5a-48345da427fb,723,2025-04-10 16:43:44+00:00,Google launches Agent2Agent to enable cross-platform AI agents to collaborate without shared memory.,https://link.alphasignal.ai/6GvZbc
+7ecc41ab-1377-4f6c-b1ef-34763646ebdb,723,2025-04-10 16:43:44+00:00,"OpenAI unveils Evals API so you can define, run, and tweak evaluations directly in code.",https://link.alphasignal.ai/BN85Mo
+cdd81b71-155e-4417-9622-c66c35cf992a,723,2025-04-10 16:43:44+00:00," ElevenLabs releases MCP server for prompt-based access to TTS, STT, and voice agents.",https://link.alphasignal.ai/h9g7a2
+ea3ba50d-0663-463c-a324-57f8d5b5ea85,723,2025-04-10 16:43:44+00:00,Together AI and Agentica presents DeepCoder: an open-source model with dataset and training recipe for coding reasoning tasks.,https://link.alphasignal.ai/ml5fys
+5be2d483-e0ee-4571-819d-c22271c8e122,723,2025-04-10 16:43:44+00:00,"Amazon introduces Nova Sonic on Bedrock, a unified speech model with 4.2% WER and human-like flow.",https://link.alphasignal.ai/WvUKHY
+025701d8-c5f8-4da9-8e93-d68b8f39f460,723,2025-04-10 16:43:44+00:00,Anthropic study shows CS majors lead AI use; raises concerns over academic misuse patterns.,https://link.alphasignal.ai/nwho7D
+ea21b9d0-9f59-4c6f-afbc-a5801824c091,723,2025-04-10 16:43:44+00:00,"web-ui: Run AI agents in your browser with persistent sessions, LLM support, and real-time interaction viewing.",https://link.alphasignal.ai/LVj5ZW
+fedc472b-c10d-4adc-ab5d-ad038155e869,723,2025-04-10 16:43:44+00:00,"LightRAG: This repo helps you run hybrid RAG with vector and graph search; supports citations, dialogue, custom prompts, and UI.",https://link.alphasignal.ai/fIJkK1
+372e3bc6-f44b-4902-8bb5-2aaadcedeee2,723,2025-04-10 16:43:44+00:00,no news,no link
+c57f2567-2ebd-455c-a501-d6fd9d23794b,723,2025-04-10 16:43:44+00:00,mcp-run-python: Run Python in sandboxed Pyodide via Deno; integrate with PydanticAI agents for secure execution.,https://link.alphasignal.ai/iPClAo
+07b64f3a-8c0b-440a-8a7a-4e733a01a40f,723,2025-04-10 16:43:44+00:00,This article by Andrej Karpathy explores how large language models shift technology adoption from institutions to individuals and why it matters.,https://link.alphasignal.ai/HuKmas
+8c48bc36-9dc9-4ad0-81de-913ee37937a1,726,2025-04-11 17:09:16+00:00,Google unveils open-source Firebase Studio: Build full-stack apps from prompts in seconds.,https://link.alphasignal.ai/0tlXWN
+822ade36-2282-4e27-ac95-9f7fd33bd4f9,726,2025-04-11 17:09:16+00:00,Integrate real-time speech-to-text with sub-second latency and 90%+ accuracy to your voice stack today.,https://link.alphasignal.ai/UMkJ6q
+e65b0126-397a-4cf3-b523-55af079fb310,726,2025-04-11 17:09:16+00:00,OpenAI updates ChatGPT memory to reference all past chats for more tailored and context-aware responses.,https://link.alphasignal.ai/gQZTxh
+ba197f13-fa09-4e19-876a-b9566f4e51c4,726,2025-04-11 17:09:16+00:00,xAI rolls out Grok 3 and Grok 3 Mini APIs with reasoning mode.,https://link.alphasignal.ai/s27JwJ
+1575c5a9-3122-4a65-ba10-77772ae7f23b,726,2025-04-11 17:09:16+00:00,"OpenAI releases BrowseComp benchmark to test agents on hard-to-find, entangled web info.",https://link.alphasignal.ai/VOsZlJ
+6623d07b-d947-4d1e-a11e-4ed9ea493f12,726,2025-04-11 17:09:16+00:00,"Windsurf brings agentic Cascade experience to JetBrains IDEs, enabling multi-step coding workflows natively.",https://link.alphasignal.ai/rPORIw
+3ae5217b-2f24-48e4-ac47-2100f21803a6,726,2025-04-11 17:09:16+00:00,"Microsoft study finds top AI agents fail over 50% of SWE-bench Lite debugging tasks, even with frontier models.",https://link.alphasignal.ai/9d9Ok2
+03656532-fab1-4bf7-8710-857a302cd3db,726,2025-04-11 17:09:16+00:00,Learn how task management systems cut 90% of coding errors in Cursor and other AI IDEs.,https://link.alphasignal.ai/3lg0fK
+a38c1d00-8739-4dab-815d-b3ea7ff5641e,726,2025-04-11 17:09:16+00:00,"Discusses how to use o1 Pro mode to build step-by-step market strategies using deep reasoning, ideal for complex business decisions.",https://link.alphasignal.ai/ZpGOrb
+79dcd9ba-83c5-425e-bdc4-4a584d82af93,726,2025-04-11 17:09:16+00:00,no news,no link
+b019d862-a6c1-4aac-b085-7a305ed82b33,726,2025-04-11 17:09:16+00:00,"Learn to build AI agents using Microsoft tools with lessons on RAG, planning, and deployment.",https://link.alphasignal.ai/ErP1is
+cf1e9c27-ba7e-4562-873e-5313873ee9e1,726,2025-04-11 17:09:16+00:00,"This whitepaper covers prompt engineering techniques for Gemini models using Vertex AI and API, including configurations and challenges.",https://link.alphasignal.ai/HxiVWT
+cc0765b0-f3b4-430d-acf7-7c45a500925c,730,2025-04-14 15:15:27+00:00,Google introduces ADK: open framework to build production-grade multi-agent systems.,https://link.alphasignal.ai/KBQwol
+89455c68-d3c6-418c-bc85-58641cb6e201,730,2025-04-14 15:15:27+00:00,Maximize your GPU clusters' performance with CoreWeave’s optimization strategies webinar.,https://link.alphasignal.ai/4sEegS
+c04b29ab-0401-4692-85fb-e067fe513176,730,2025-04-14 15:15:27+00:00,"Google enables Gemini 2.5 Pro in Copilot Chat, boosting code reasoning with Google’s top model.",https://link.alphasignal.ai/tq4neW
+e71e1062-4bd1-4290-b3ae-1b103bcfbf3f,730,2025-04-14 15:15:27+00:00,"TikTok parent ByteDance presents Seed-Thinking-v1.5, a 20B MoE model outperforming DeepSeek R1 on reasoning.",https://link.alphasignal.ai/CcUk5C
+3ae9e8e0-e3a1-428d-8621-15d47899daa8,730,2025-04-14 15:15:27+00:00,ElevenLabs rolls out voice clone flow to simplify training from podcasts and multi-speaker clips.,https://link.alphasignal.ai/N0oH4d
+44289961-fd4f-4267-9eab-04878aab5566,730,2025-04-14 15:15:27+00:00,"Stanford presents global AI trends: 78% business adoption, 18.7% GenAI investment jump in 2024.",https://link.alphasignal.ai/YZciNl
+ced5c2d1-86c7-4b6b-8b07-84a3bf696ca6,730,2025-04-14 15:15:27+00:00,"Ilya Sutskever’s Safe Superintelligence raises $2B at $32B valuation, aims to build a single safe superintelligent system.",https://link.alphasignal.ai/CvD1DA
+17fbecbb-26d6-4398-8d93-fe3eaebac153,730,2025-04-14 15:15:27+00:00,"Master vector search, hybrid retrieval, and RAG optimization through six sessions with code samples and demos.",https://link.alphasignal.ai/hQbKfN
+041cfa2e-97e4-4555-8746-d4674dba4e72,730,2025-04-14 15:15:27+00:00,"Build any Model Context Protocol server with Claude Code by defining behavior, inputs, memory, and interfaces.",https://link.alphasignal.ai/ij0IDu
+3eb6c2dd-7c89-4280-8ddb-e9ab21983fae,730,2025-04-14 15:15:27+00:00,no news,no link
+f684f486-c87f-4b54-ba55-7446f8d6f408,730,2025-04-14 15:15:27+00:00," Fine-tune a pre-trained model for instruction-following tasks using simple formatting, dynamic padding, and loss masking.",https://link.alphasignal.ai/4Jc1o5
+7a5331f6-2cd1-4405-923d-bb3b29659183,730,2025-04-14 15:15:27+00:00,"OpenAI shares podcast with Sam Altman, discusses key technical lessons, and scaling challenges from training GPT‑4.5 over two years.",https://link.alphasignal.ai/fsMVid
+54b4709a-7b56-4174-9c0a-68b1827f3870,735,2025-04-16 15:38:08+00:00,"OpenAI introduces GPT‑4.1 family: production-ready coding models with 1M context, API-only.",https://link.alphasignal.ai/w0wySx
+2be7bffb-0468-46a9-8fc7-5ac5cf9ec5fc,735,2025-04-16 15:38:08+00:00,"Deploy AI voice agents in minutes: handle calls, appointments, and tutoring with ElevenLabs' latest update.",https://link.alphasignal.ai/1seyiY
+e080c5a1-aa4a-4f4f-80b4-924f401e8640,735,2025-04-16 15:38:08+00:00,"xAI launches Grok Studio: generate and run code, edit docs, collaborate live via separate window.",https://link.alphasignal.ai/G9qRVn
+01a5844d-da1f-4f3d-aad8-f2c414b42508,735,2025-04-16 15:38:08+00:00,"Anthropic presents Claude Research with AI searches and synthesized insights across the web, along with Google Workspace sync.",https://link.alphasignal.ai/B2hvYn
+f3b00985-858f-419e-bb43-915e4cd98e5e,735,2025-04-16 15:38:08+00:00,"Google DeepMind unveils TxGemma: Open models for faster, cost-efficient drug discovery, trained on millions of examples.",https://link.alphasignal.ai/7tctZV
+e69f327b-eb30-4779-8dcf-74ff0e5b16c3,735,2025-04-16 15:38:08+00:00,LM Arena announces Search Arena: Open evaluation of 11 web-augmented LLMs using real-world prompts.,https://link.alphasignal.ai/Zfn2Sv
+9ac2948c-80f5-4898-a22d-04f8ae71859d,735,2025-04-16 15:38:08+00:00,"Hugging Face acquires Pollen Robotics to lead open-source robotics, launching Reachy 2 for AI labs.",https://link.alphasignal.ai/lo3UVx
+9b1c4437-3aa6-4574-818e-236f95a10855,735,2025-04-16 15:38:08+00:00,"Analyzes Google's sweeping dominance in AI, from top-performing models to unmatched infrastructure and product integration.",https://link.alphasignal.ai/kLmkQu
+1932a9bd-af43-4500-99d8-76997ba50832,735,2025-04-16 15:38:08+00:00,"Discusses how Google’s A2A protocol complements MCP, focusing on agent collaboration, security, and state management.",https://link.alphasignal.ai/Zc6Gpq
+ef7ae7c5-2288-4af0-9242-34cacf036d65,735,2025-04-16 15:38:08+00:00,no news,no link
+632b3b2a-5bb7-4968-a008-6e241f8dbc19,735,2025-04-16 15:38:08+00:00,"Teaches how to build production-ready AI game agents using LangGraph for dynamic, interactive NPC simulations.",https://link.alphasignal.ai/cfgjBk
+18ead077-9b2c-4d67-8829-ae0b816436c0,735,2025-04-16 15:38:08+00:00,"Explains how to prompt o1 effectively by using briefs, detailed context, and goal-focused outputs.",https://link.alphasignal.ai/XDhRvz
+136f7f96-f573-486e-8beb-52f060d61a0d,740,2025-04-18 14:53:00+00:00,"OpenAI releases o3 and o4-mini with full agentic tool use and visual reasoning and Codex CLI, an open-source terminal agent.",https://link.alphasignal.ai/dHRGZW
+b228a2c7-32e9-4e23-82c6-83a4349c5d5b,740,2025-04-18 14:53:00+00:00,Microsoft introduces real-time UI agents in Copilot Studio to automate desktop and web workflows without APIs.,https://link.alphasignal.ai/zZVz5f
+d54c9c71-20ce-46fe-8bf0-a474aa1fbb70,740,2025-04-18 14:53:00+00:00,"Google adds Veo 2 to Gemini API, AI Studio, and mobile app for text-to-video generation.",https://link.alphasignal.ai/FVSha9
+45cebddd-c39c-4a4f-a122-4e406a9406a7,740,2025-04-18 14:53:00+00:00,Meta unveils Perception Language Model: open 8B vision-language model trained without distillation for video understanding.,https://link.alphasignal.ai/776tec
+0f48c00f-c419-4ef3-ad54-a7c2caeb8cf1,740,2025-04-18 14:53:00+00:00,"Ai2 launches DataDecide, a public suite of 30K models to predict best pretraining data efficiently.",https://link.alphasignal.ai/2EBVO7
+b86fc4b6-0b1b-478a-bba5-fff71a8881d8,740,2025-04-18 14:53:00+00:00,"ByteDance announces a video foundation model enabling fine-grained storytelling, camera control, and CGI-tuned realism.",https://link.alphasignal.ai/jKCRxL
+f0036b3d-94d8-4967-9420-4a8a0dfe54a1,740,2025-04-18 14:53:00+00:00,code-server: Run full VS Code in the browser using remote servers to save local resources and boost performance.,https://link.alphasignal.ai/CsKvkM
+d8b1f7e7-842f-4221-8f35-6560bd198f55,740,2025-04-18 14:53:00+00:00,Stagehand lets you build reliable AI-powered browser workflows using LLMs and Playwright in production.,https://link.alphasignal.ai/lwphtI
+4a64ed68-3cdf-4359-b790-5c051758c594,740,2025-04-18 14:53:00+00:00,no news,no link
+75b987ac-8aad-4e1d-9bc2-9951f18d65f8,740,2025-04-18 14:53:00+00:00,"FastMCP v2 allows building MCP servers with minimal code, supporting OpenAPI, LLM sampling, and proxies.",https://link.alphasignal.ai/XJlap7
+8273907c-d17e-4d68-bc74-4d900530acf9,740,2025-04-18 14:53:00+00:00,"Install OpenAI CLI, set your API key, and run text completions directly from terminal.",no link
+91c1453d-e640-42d6-9b19-71d4e9260eb1,746,2025-04-21 17:38:11+00:00,"Google rolls out Gemma 3 models with Quantization Aware Thinking, enabling 27B model to run on 24GB GPUs.",https://link.alphasignal.ai/CyyW3g
+9ebff0fe-9664-4c9d-ace5-490cac98ed04,746,2025-04-21 17:38:11+00:00,Drop in the Notetaker API to turn meetings into transcripts and summaries with zero setup.,https://link.alphasignal.ai/SAEsO1
+23504afa-87f4-4f46-a989-f85642bf3060,746,2025-04-21 17:38:11+00:00,"xAI announces Grok 3 family in API: strongest non-reasoning model for law, finance, and healthcare tasks.",https://link.alphasignal.ai/9Tfg9P
+80092e19-8f50-43af-9594-57430abaa2ce,746,2025-04-21 17:38:11+00:00,"Google unveils Gemini 2.5 Flash: matches o4-mini, adds “thinking budget” for speed-cost-quality tradeoffs.",https://link.alphasignal.ai/bsk1N6
+a1dad4b0-0cdb-455b-8535-82ebc15760fe,746,2025-04-21 17:38:11+00:00,"Microsoft presents BitNet b1.58, a 1.58-bit CPU-ready LLM outperforming LLaMA 3.2 1B.",https://link.alphasignal.ai/ysueIk
+9d7a9235-f208-43b4-87ca-f3bdbbc3fec8,746,2025-04-21 17:38:11+00:00,"Fiddler releases LLM guardrails with <100ms latency to block jailbreaks, hallucinations, and toxicity.",https://link.alphasignal.ai/g9iTlK
+efa0cc61-ad62-491b-8620-867471deb516,746,2025-04-21 17:38:11+00:00,Luma AI introduces Ray2 Camera Angle Concepts to prompt cinematic POVs like aerial and selfie.,https://link.alphasignal.ai/GQzpZV
+2d357bab-a11c-466f-ba52-e038b4b42746,746,2025-04-21 17:38:11+00:00,Send audio to the API and get transcripts and structured JSON ready for your LLM pipeline.,https://link.alphasignal.ai/0lAOaf
+5baf0f05-29e4-4187-b6de-9670e5eb5af0,746,2025-04-21 17:38:11+00:00,"Build web agents that browse, scrape, and self-correct using AgentQ, MCTS, and DPO strategies in a course by Andrew Ng’s DeepLearning.AI.",https://link.alphasignal.ai/shoExd
+90092b6f-1b2c-456b-ac27-24c36ad7693c,746,2025-04-21 17:38:11+00:00,"Learn agentic LM design using reflection, planning, RAG, tool use, and real-world examples.",https://link.alphasignal.ai/mJVpk7
+8ad11973-c18b-4901-ac82-82309407d48c,746,2025-04-21 17:38:11+00:00,no news,no link
+d2227c09-0685-4270-91c8-a795558ab336,746,2025-04-21 17:38:11+00:00,"Anthropic's guide to build agentic coding workflows using Claude Code with full terminal access, automation, and structured prompts.",https://link.alphasignal.ai/OwbUz3
+a623d6c4-d4ed-4d6c-81e2-6911e23cd29a,746,2025-04-21 17:38:11+00:00,"An OpenAI guide on agent architecture, tool use, guardrails, and deployment strategies for autonomous AI systems.",https://link.alphasignal.ai/WFQPhy
+a36fcfee-f4c1-401f-804e-abc6abad1c0b,747,2025-04-22 15:32:19+00:00,Google Deepmind researchers propose ‘Streams’ to replace labeled data with real-time feedback from persistent environments.,https://link.alphasignal.ai/pOkEa1
+a3fd5e0f-2ae8-4716-be0d-8fd67f765d2e,747,2025-04-22 15:32:19+00:00,Join the webinar on 24th April to learn how to cut LLM latency and scale inference efficiently.,https://link.alphasignal.ai/1NKUEu
+1e2a9c70-f0b9-4fd9-9250-610451bb1b63,747,2025-04-22 15:32:19+00:00,Anthropic analyzes 308K Claude chats to build first empirical taxonomy of AI-expressed values.,https://link.alphasignal.ai/W8d6JF
+4ec0b69c-06e7-4dd4-832c-3800f3dc91e1,747,2025-04-22 15:32:19+00:00,Google enables low-cost repeated prompts in Gemini API via 4K token context caching.,https://link.alphasignal.ai/cD9ulK
+5a20b939-5c19-4f1c-9abe-461d786b0e5e,747,2025-04-22 15:32:19+00:00,Alibaba unveils a 14B open-source model for high-fidelity video generation from 2 frame inputs.,https://link.alphasignal.ai/lw04uy
+e005e4ef-bbb0-4bcc-9267-4da6542f81fc,747,2025-04-22 15:32:19+00:00,ElevenLabs launches real-time voice agent API with low latency and full LLM flexibility.,https://link.alphasignal.ai/U6jSMs
+914573b5-7a0d-467c-ba84-2a6af7fd5976,747,2025-04-22 15:32:19+00:00, WindSurf simplifies pricing: Eliminates flow action credits and introduces pay-per-prompt model for clarity and cost savings.,https://link.alphasignal.ai/MAFznK
+2a6c9e68-78f1-47df-90dd-7cd0ee637dba,747,2025-04-22 15:32:19+00:00,"open-codex: Terminal-based coding agent that reads, writes, runs, and tests code using any ChatGPT-compatible model.",https://link.alphasignal.ai/8alqVZ
+43980ae9-a0f5-4483-aa75-cbfc52cecb97,747,2025-04-22 15:32:19+00:00,developer-roadmap: Open source interactive developer roadmaps and best practices to guide learning across multiple tech domains.,https://link.alphasignal.ai/XCETfL
+19845d12-5931-4846-84c4-bb63f915822d,747,2025-04-22 15:32:19+00:00,no news,no link
+bc586e35-d564-4fff-98d1-6f66ba0a2132,747,2025-04-22 15:32:19+00:00,"pocketbase: Go-powered backend with realtime API, auth, storage, and embedded SQLite in one binary.",https://link.alphasignal.ai/zrfeTI
+1a6acb2d-4bcd-4d60-a040-649ccf0e135d,747,2025-04-22 15:32:19+00:00,"Demis Hassabis discusses AGI, AI in medicine, and DeepMind’s groundbreaking advancements in robotics and reasoning.",https://link.alphasignal.ai/ZeuuZ5
+f3e65806-cb4a-4bb4-a526-3e73ea3225b2,756,2025-04-23 19:39:10+00:00,"ByteDance announces open-source UI-TARS-1.5, a multimodal agent setting new records in long-horizon reasoning and web navigation.",https://link.alphasignal.ai/bKn8bT
+9d7c12eb-4b4a-49ea-85b7-f3babcb0c0d3,756,2025-04-23 19:39:10+00:00,"OpenAI boosts ChatGPT with sourced news from 160+ outlets, including The Washington Post.",https://link.alphasignal.ai/0ivHZp
+5e85ae9d-9da2-4ee7-b252-73787421ee01,756,2025-04-23 19:39:10+00:00,"Korean startup Nari Labs open-sources Dia, a 1.6B TTS model outperforms SOTA in timing, emotion, and nonverbal cues.",https://link.alphasignal.ai/VllF7E
+ea077a18-62e3-4f22-a8e7-2447e01eea15,756,2025-04-23 19:39:10+00:00,"Perplexity launches iOS Assistant: answer questions, draft emails, book rides, and more via voice.",https://link.alphasignal.ai/gXmz6e
+5fe56457-a073-49a5-880b-f53106b8f232,756,2025-04-23 19:39:10+00:00,Fiddler AI presents LLM guardrails to prevent prompt abuse and output risks; try them for free.,https://link.alphasignal.ai/YPrMoF
+2f608920-a506-4da9-bed9-5580b82bd13e,756,2025-04-23 19:39:10+00:00,Nvidia introduces a vision language model for content tagging and AI storytelling with detailed region-specific captions for images and videos.,https://link.alphasignal.ai/AsPB9N
+ed7024c1-baaa-4168-b50a-06a514b511e8,756,2025-04-23 19:39:10+00:00,"Transcribe audio with 98%+ accuracy using Scribe , integrate fast, tag events, and separate speakers.",https://link.alphasignal.ai/vp1qwI
+009e5ea0-ef91-4e04-a6d3-4e2ccc50982c,756,2025-04-23 19:39:10+00:00,"Industry reacts to OpenAI’s 03 and 04 Mini models which outperform previous benchmarks in reasoning, coding, math, and tool use.",https://link.alphasignal.ai/MwppS1
+1a4c6d45-c383-4f5a-9ff8-73b7ba2a6ef5,756,2025-04-23 19:39:10+00:00,Yann LeCun says LLMs are insufficient for AGI; advocates for world models and JEPA instead.,https://link.alphasignal.ai/siwq3n
+722b48a0-492f-4cf8-a6e5-4948d7dca402,756,2025-04-23 19:39:10+00:00,no news,no link
+2d5460f0-7f40-42e0-a2a3-9a1264132c2a,756,2025-04-23 19:39:10+00:00,"New sim paper boosts deformation realism, runs 3–300x faster, enables accurate fast previews, simulates ferrofluids.",https://link.alphasignal.ai/9al1Kh
+dbcaf9cd-f1f6-4de7-947c-8b7a1f423c7c,756,2025-04-23 19:39:10+00:00,Use TorchScript to cache multiple input shapes and boost inference speed with dynamic batch sizes.,no link
+4d00891f-ea69-41c5-9408-c48511777da2,758,2025-04-25 15:15:47+00:00,"Microsoft launches agent builder for 365 Copilot: automate tasks across Word, Excel, Outlook, and Teams.",https://link.alphasignal.ai/zWUXR2
+2e9966cd-e944-4f49-b102-48f35bb35066,758,2025-04-25 15:15:47+00:00,"OpenAI releases image generation API used by Adobe, Figma, and Canva for multimodal workflows.",https://link.alphasignal.ai/L6ywAM
+49a65cf8-957f-450c-b8e6-f0241e0f33ac,758,2025-04-25 15:15:47+00:00,"Anthropic detects political spambot network using Claude across 100+ fake accounts, upgrades abuse detection.",https://link.alphasignal.ai/t8h7jU
+46ac34a1-47df-41c7-8aca-aac0bb661206,758,2025-04-25 15:15:47+00:00,"Nous presents Minos, a fast, lightweight classifier to detect LLM refusals in assistant responses.",https://link.alphasignal.ai/9Vdg9E
+3e3aa596-bd78-42c6-8f1f-b141a61d6245,758,2025-04-25 15:15:47+00:00,"Infactory enables AI teams to deploy compliant, auditable APIs from raw data in minutes.",https://link.alphasignal.ai/fiGG5Z
+6e23b9d8-aa0b-414e-938c-2c0512add4fa,758,2025-04-25 15:15:47+00:00,"OpenAI rolls out lightweight deep research model, expanding access to Free, Plus, Team, and Pro users.",https://link.alphasignal.ai/WeC44z
+96de215a-c07b-405f-88a7-8fffbd815c98,758,2025-04-25 15:15:47+00:00,"Explains the evolving role of reinforcement learning in enhancing LLM reasoning capabilities, highlighting recent model releases.",https://link.alphasignal.ai/Wqh3HS
+1da7bed2-9574-43bc-83e3-04b8976f1f8c,758,2025-04-25 15:15:47+00:00,This substack discusses the debate between Big Model approaches and agent frameworks in AI engineering and workflows.,https://link.alphasignal.ai/SWDHeh
+378f67b4-f998-47bd-b3ee-f52ec3332750,758,2025-04-25 15:15:47+00:00,no news,no link
+08afc545-8360-4523-be01-aba4da5e9747,758,2025-04-25 15:15:47+00:00," Explains how FNet and FFT techniques can make transformers 80% faster, improving efficiency.",https://link.alphasignal.ai/S74Y7B
+8e2c73b5-9950-4409-82f7-f14daccb836a,758,2025-04-25 15:15:47+00:00,Learn to build and deploy efficient code agents using Hugging Face smolagents for complex tasks in this course by deeplearning.ai.,https://link.alphasignal.ai/CalVVb

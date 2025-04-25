@@ -16,9 +16,9 @@ PASSWORD = os.getenv("PASSWORD")
 # Load previously saved data and set starting date accordingly
 try:
     saved_news_data = pd.read_csv("alphasignal.csv")
-    saved_mail_logs = pd.read_csv("alphasignal_mail_logs.csv")
-    saved_topic_logs = pd.read_csv("alphasignal_topic_logs.csv")
-    saved_news_logs = pd.read_csv("alphasignal_news_logs.csv")
+    saved_mail_logs = pd.read_csv("mail_logs.csv")
+    saved_topic_logs = pd.read_csv("topic_logs.csv")
+    saved_news_logs = pd.read_csv("news_logs.csv")
 
     # If data available, start from the day after the last recording
     start_date = datetime.strptime(
@@ -172,7 +172,7 @@ if saved_news_data is not None:
     news_logs = pd.concat([saved_news_logs, news_logs], ignore_index=True)
 
 # Save final results to CSV files
-news_data.to_csv("alphasignal_news_data.csv", index=False)
-mail_logs.to_csv("alphasignal_mail_logs.csv", index=False)
-topic_logs.to_csv("alphasignal_topic_logs.csv", index=False)
-news_logs.to_csv("alphasignal_news_logs.csv", index=False)
+news_data.to_csv("news_data.csv", index=False)
+mail_logs.to_csv("mail_logs.csv", index=False)
+topic_logs.to_csv("topic_logs.csv", index=False)
+news_logs.to_csv("news_logs.csv", index=False)
