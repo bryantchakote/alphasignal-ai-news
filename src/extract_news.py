@@ -1,5 +1,6 @@
 # %%
 import os
+import re
 import bs4
 import uuid
 import pandas as pd
@@ -12,6 +13,18 @@ load_dotenv("../.env.local", override=True)
 
 USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
+
+
+# Function to clean strings by removing non-alphanumeric characters
+def clean_string(text):
+    # Remove all non-alphanumeric characters except spaces
+    text = re.sub(r"[^a-zA-Z0-9 ]", "", text)
+
+    # Replace multiple spaces with a single space and strip
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text
+
 
 # Load previously saved data and set starting date accordingly
 data_folder = os.path.join("../data")
@@ -78,24 +91,32 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
 
             # Locate the table that contain the news
             try:
-                all_news_table = soup.find("table").find_all("table")[15]
+                all_news_table = soup.find_all("table")
+                header_news_table = all_news_table[17].find_all("td")[-1]  # 14-17
                 this_mail_logs["html_all_news_located"] = True
             except Exception as e:
                 print(f"  - Error locating all news table: {e}")
 
             try:
                 # Get the topics
-                topics = all_news_table.find_all("ul")
-                this_mail_logs["n_topics"] = len(topics)
+                topic_names = header_news_table.find_all("p", recursive=False)
+                topic_names = [tn for tn in topic_names if tn.text != ""]
+                topic_names = [clean_string(tn.text) for tn in topic_names]
+                
+                topic_contents = header_news_table.find_all("ul", recursive=False)
+                topic_contents = [tc for tc in topic_contents if tc.text != ""]
 
-                for i, topic in enumerate(topics):
+                this_mail_logs["n_topics"] = len(topic_names)
+
+                for i, (topic, content) in enumerate(zip(topic_names, topic_contents)):
                     # Get the news related to the topic
-                    news = topic.find_all("li")
+                    news = content.find_all("li")
+                    news = [n for n in news if n.text != ""]
 
                     # Create and save the topic logs
                     this_topic_logs = {
                         "uid": msg.uid,
-                        "topic_id": i + 1,
+                        "topic": topic,
                         "n_news": len(news),
                         "status": "ok",
                         "comment": "",
@@ -113,35 +134,31 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
                             "id": news_id,
                             "uid": msg.uid,
                             "date": msg.date,
+                            "topic": topic,
                             "news": "no news",
                             "link": "no link",
                         }
                         this_news_logs = {
                             "id": news_id,
                             "uid": msg.uid,
-                            "topic_id": i + 1,
-                            "news_id": j + 1,
-                            "has_news": False,
+                            "date": msg.date,
+                            "topic": topic,
                             "has_link": False,
                             "status": "ok",
                             "comment": "",
                         }
 
-                        # Check for and extract news if available
-                        if info.text != "":
-                            this_news_data["news"] = info.text
-                            this_news_logs["has_news"] = True
+                        # Extract news
+                        this_news_data["news"] = info.text
 
-                            # Check for and extract link if available
-                            link_tag = info.find("a")
+                        # Extract link if available
+                        link_tag = info.find("a")
 
-                            if link_tag and link_tag.get("href") != "":
-                                this_news_data["link"] = link_tag.get("href")
-                                this_news_logs["has_link"] = True
+                        if link_tag and link_tag.get("href") != "":
+                            this_news_data["link"] = link_tag.get("href")
+                            this_news_logs["has_link"] = True
 
-                        if (this_news_logs["has_news"] == False) | (
-                            this_news_logs["has_link"] == False
-                        ):
+                        if (this_news_logs["has_link"] == False):
                             this_news_logs["status"] = "not handled"
 
                         # Append news data and save news logs
