@@ -1,4 +1,4 @@
-uid,date,not_a_news,html_content_extracted,html_all_news_located,n_topics,status,comment
+uid,date,not_a_news,html_content_extracted,html_news_located,n_topics,status,comment
 498,2024-12-04 18:57:26+00:00,True,False,False,0,not handled,
 499,2024-12-04 19:27:37+00:00,False,True,True,6,ok,
 500,2024-12-05 16:55:28+00:00,False,True,True,5,ok,
@@ -69,3 +69,4 @@ uid,date,not_a_news,html_content_extracted,html_all_news_located,n_topics,status
 766,2025-04-28 15:23:30+00:00,False,True,True,5,ok,
 768,2025-04-30 15:39:24+00:00,False,True,True,5,ok,
 770,2025-05-02 15:16:18+00:00,False,True,True,4,ok,
+781,2025-05-05 15:16:42+00:00,False,True,True,5,ok,

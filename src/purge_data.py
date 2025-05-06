@@ -14,4 +14,5 @@ def delete_all_files(folder_path="../data"):
                 print(f"Error deleting {file}: {e}")
     print("Files deleted.")
 
+
 delete_all_files()

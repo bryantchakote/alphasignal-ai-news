@@ -73,7 +73,7 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
             "date": msg.date,
             "not_a_news": True,
             "html_content_extracted": False,
-            "html_all_news_located": False,
+            "html_news_located": False,
             "n_topics": 0,
             "status": "ok",
             "comment": "",
@@ -85,80 +85,184 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
             # Parse the raw HTML content
             try:
                 soup = bs4.BeautifulSoup(msg.html, "html.parser")
+                for tag in soup.find_all(True):
+                    if tag.name not in [
+                        "a",
+                        "body",
+                        "html",
+                        "li",
+                        "p",
+                        "table",
+                        "td",
+                        "tr",
+                        "ul",
+                    ]:
+                        tag.unwrap()
+                    if tag.name != "a":
+                        tag.attrs = {}
+                    else:
+                        tag.attrs = {
+                            k: v for k, v in tag.attrs.items() if k in ["href"]
+                        }
                 this_mail_logs["html_content_extracted"] = True
             except Exception as e:
                 print(f"  - Error parsing HTML content: {e}")
 
             # Locate the table that contain the news
             try:
-                all_news_table = soup.find_all("table")
-                header_news_table = all_news_table[17].find_all("td")[-1]  # 14-17
-                this_mail_logs["html_all_news_located"] = True
+                all_news_tables = soup.find("td").find_all("table", recursive=False)
+                all_news_tables = [
+                    table for table in all_news_tables if table.text.strip() != ""
+                ]
+
+                header_news_cell = all_news_tables[2].find_all("td")[-1]
+
+                news_tables = all_news_tables[4:-4]
+
+                this_mail_logs["html_news_located"] = True
+
             except Exception as e:
                 print(f"  - Error locating all news table: {e}")
 
             try:
                 # Get the topics
-                topic_names = header_news_table.find_all("p", recursive=False)
-                topic_names = [tn for tn in topic_names if tn.text != ""]
-                topic_names = [clean_string(tn.text) for tn in topic_names]
-                
-                topic_contents = header_news_table.find_all("ul", recursive=False)
-                topic_contents = [tc for tc in topic_contents if tc.text != ""]
+                topics = header_news_cell.find_all("p", recursive=False)
+                topics = [
+                    clean_string(tn.text) for tn in topics if tn.text.strip() != ""
+                ]
 
-                this_mail_logs["n_topics"] = len(topic_names)
+                topic_titles_list = header_news_cell.find_all("ul", recursive=False)
+                topic_titles_list = [
+                    tc for tc in topic_titles_list if tc.text.strip() != ""
+                ]
 
-                for i, (topic, content) in enumerate(zip(topic_names, topic_contents)):
+                this_mail_logs["n_topics"] = len(topics)
+
+                for i, (topic, topic_titles, news_table) in enumerate(
+                    zip(topics, topic_titles_list, news_tables)
+                ):
                     # Get the news related to the topic
-                    news = content.find_all("li")
-                    news = [n for n in news if n.text != ""]
+                    titles = topic_titles.find_all("li")
+                    titles = [nt for nt in titles if nt.text.strip() != ""]
 
                     # Create and save the topic logs
                     this_topic_logs = {
                         "uid": msg.uid,
                         "topic": topic,
-                        "n_news": len(news),
+                        "n_news": len(titles),
                         "status": "ok",
                         "comment": "",
                     }
 
+                    contents = []
+                    links = [
+                        title.find("a").get("href") if title.find("a") else ""
+                        for title in titles
+                    ]
+                    tags = []
+
                     if this_topic_logs["n_news"] == 0:
                         this_topic_logs["status"] = "not handled"
+
+                    elif this_topic_logs["n_news"] == 1:
+                        link = (
+                            news_table.find_all("a")[-1].get("href")
+                            if news_table.find("a")
+                            else ""
+                        )
+
+                        if links[0] == "":
+                            links[0] = link
+
+                        for a in news_table.find_all("a"):
+                            a.decompose()
+
+                        for li in news_table.find_all("li"):
+                            text = li.text
+                            li.clear()
+                            li.append(f"- {text}")
+
+                        if topic in [
+                            "Top News",
+                            "Top Lecture",
+                            "How To",
+                            "Top of YouTube",
+                        ]:
+                            news = news_table.get_text(separator="\n", strip=True)
+                            news = re.sub(r"\n{2,}", "\n", news)
+
+                            news = news.splitlines()[1:]
+                            tags = [news[0]]
+                            contents = [
+                                "\n".join(
+                                    [n for i, n in enumerate(news) if i not in [0, 2]]
+                                )
+                            ]
+                        else:
+                            news = news_table.get_text(separator="\n", strip=True)
+                            news = re.sub(r"\n{2,}", "\n", news)
+
+                            tags = [titles[0].text]
+                            contents = [news]
+                    else:
+                        all_news = news_table.find_all("tr")[2].find_all("tr")
+                        # break
+                        all_news = [
+                            (
+                                re.sub(
+                                    r"\n{2,}",
+                                    "\n",
+                                    news.get_text(separator="\n", strip=True),
+                                )
+                            )
+                            for news in all_news
+                        ]
+
+                        all_news = "\n".join(all_news[1:])
+                        all_news = [
+                            news.split("\n")
+                            for news in re.split(r"\n{2,}", all_news)
+                            if len(news.split("\n")) >= 3
+                        ]
+
+                        for news in all_news:
+                            tags.append(news[0])
+                            contents.append(
+                                "\n".join(
+                                    [n for i, n in enumerate(news) if i not in [0, 2]]
+                                )
+                            )
 
                     topic_logs.append(this_topic_logs)
 
                     # Extract news items
-                    for j, info in enumerate(news):
+                    for title, content, link, tag in zip(titles, contents, links, tags):
                         news_id = str(uuid.uuid4())
+
                         this_news_data = {
                             "id": news_id,
                             "uid": msg.uid,
                             "date": msg.date,
                             "topic": topic,
-                            "news": "no news",
-                            "link": "no link",
+                            "title": title.text,
+                            "content": content,
+                            "link": link,
+                            "tag": tag,
                         }
+
                         this_news_logs = {
                             "id": news_id,
                             "uid": msg.uid,
                             "date": msg.date,
                             "topic": topic,
-                            "has_link": False,
+                            "title": title,
+                            "has_link": True,
                             "status": "ok",
                             "comment": "",
                         }
 
-                        # Extract news
-                        this_news_data["news"] = info.text
-
-                        # Extract link if available
-                        link_tag = info.find("a")
-
-                        if link_tag and link_tag.get("href") != "":
-                            this_news_data["link"] = link_tag.get("href")
-                            this_news_logs["has_link"] = True
-
-                        if (this_news_logs["has_link"] == False):
+                        if this_news_data["link"] == "":
+                            this_news_logs["has_link"] = False
                             this_news_logs["status"] = "not handled"
 
                         # Append news data and save news logs
@@ -172,7 +276,7 @@ with MailBox("imap.gmail.com").login(USERNAME, PASSWORD) as mailbox:
         if (
             (this_mail_logs["not_a_news"] == True)
             | (this_mail_logs["html_content_extracted"] == False)
-            | (this_mail_logs["html_all_news_located"] == False)
+            | (this_mail_logs["html_news_located"] == False)
             | (this_mail_logs["n_topics"] == 0)
         ):
             this_mail_logs["status"] = "not handled"
@@ -187,16 +291,16 @@ mail_logs = pd.DataFrame(mail_logs)
 topic_logs = pd.DataFrame(topic_logs)
 news_logs = pd.DataFrame(news_logs)
 
-# Mark duplicates in news logs
-mask = (news_data["news"] != "no news") & news_data["news"].duplicated()
-news_logs.loc[mask, "status"] = "duplicated news headline"
-
 # Append new data to existing data if available
 if saved_news_data is not None:
     news_data = pd.concat([saved_news_data, news_data], ignore_index=True)
     mail_logs = pd.concat([saved_mail_logs, mail_logs], ignore_index=True)
     topic_logs = pd.concat([saved_topic_logs, topic_logs], ignore_index=True)
     news_logs = pd.concat([saved_news_logs, news_logs], ignore_index=True)
+
+# Mark duplicates in news logs
+mask = (news_data["title"] != "no title") & news_data["title"].duplicated()
+news_logs.loc[mask, "status"] = "duplicated news headline"
 
 # Save final results to CSV files
 news_data.to_csv(f"{data_folder}/news_data.csv", index=False)
